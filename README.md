@@ -84,10 +84,12 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 1. (Prof Jason Eisner@JHU) **What do PhD students talk about in their once-a-week meetings with their advisers during their first year?** (2015). [[Article](https://www.quora.com/What-do-PhD-students-talk-about-in-their-once-a-week-meetings-with-their-advisers-during-their-first-year/answer/Jason-Eisner?share=1)]
 
+### Practical Guides
+
 1. (Prof Srinivasan Keshav@Cambridge) **How to Read a Paper** (2007). [[Suggestions](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)]
 
 1. (Prof Jason Eisner@JHU) **How to Read a Technical Paper** (2009). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)]
-### Practical Guides
+
 1. (Prof Jason Eisner@JHU) **How to write a paper?** (2010). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html)]
 
 ### Memoir-Like Narratives
