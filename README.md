@@ -5,8 +5,12 @@ so that success will be a reward to those who are determined and hardworking, re
 
 One non-negligible reason for success is **access to information**, such as (1) knowing what a PhD in NLP is like, (2) knowing what top grad schools look for when reviewing PhD applications, (3) broadening your horizon of what is _good work_, (4) knowing how careers in NLP in both academia and industry are like, and many others.
 
-**Contributor:** [Zhijing Jin](http://zhijing-jin.com) (PhD student in NLP at Max Planck Institute, co-organizer of the [ACL Year-Round Mentorship Program](https://acl-mentorship.github.io))
-Welcome to be a collaborator, -- you can make an issue/pull request, and I can add you :).
+**Contributor:** [Zhijing Jin](http://zhijing-jin.com) (PhD student in NLP at Max Planck Institute, co-organizer of the [ACL Year-Round Mentorship Program](https://acl-mentorship.github.io)).
+
+You are welcome to be a collaborator, -- you can make an issue/pull request, and I can add you :).
+
+**Endorsers of this repo:** Please add your name here (by a pull request) if you endorse this repo :).
+
 
 ## Contents (Actively Updating)
 
@@ -106,9 +110,9 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 ## Contributions
 
-All types of contributions to this paper list is welcome. Feel free to open a Pull Request.
+All types of contributions to this resource list is welcome. Feel free to open a Pull Request.
 
-Contact: [Zhijing Jin](zhijing-jin.com), PhD with Bernhard Schoelkopf at Max Planck Institute for Intelligent Systems, working on NLP & Causality.
+Contact: [Zhijing Jin](zhijing-jin.com), PhD in NLP at Max Planck Institute for Intelligent Systems, working on NLP & Causality.
 
 ## How to Cite This Repo
 
