@@ -29,7 +29,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 ## Top Resources
 
 1. **Online ACL Year-Round Mentorship Program:** https://acl-mentorship.github.io
-   (You can apply as a mentee, as a mentor, or as a volunteer. For mentees, you will be able to attend monthly zoom Q&A sessions hosted senior researchers in NLP. You will also join a global slack channel, where you can constantly post your questions, and we will collect answers from senior NLP researchers.)
+   (You can apply as [a mentee](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WZ58B5OxkFZCgz9OB5zwLz5URUo4UlpNVTBBMkdPSlBVUTgyMzlRRk5BVy4u), as [a mentor](https://forms.gle/xsdFDCKUuDrBvc4Y6), or as [a volunteer](https://forms.gle/msPFHiL9QKw3fCR8A). For mentees, you will be able to attend monthly zoom Q&A sessions hosted senior researchers in NLP. You will also join a global slack channel, where you can constantly post your questions, and we will collect answers from senior NLP researchers.)
 
 ## Stage 1. (Non-PhD -> PhD) How to Apply to PhD?
 
