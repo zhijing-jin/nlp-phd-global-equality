@@ -21,7 +21,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
   - [Memoir-Like Narratives](#memoir-like-narratives)
   - [How to Excel Your Research](#how-to-excel-your-research)
 - [Stage 3. (After PhD -> Industry) How is life as an industry researcher?](#stage-3-after-phd---industry-how-is-life-as-an-industry-researcher)
-- [Stage 4. (Being a Prof) To Be Added](#)
+- [Stage 4. (Being a Prof) How to get an academic position? And how to be a good prof?](#)
 - [Stage 5. (Whole Career Path) How to live out a life career as an NLP research?](#stage-5-whole-career-path-how-to-live-out-a-life-career-as-an-nlp-research)
 - [Further Readings: Technical Materials to Improve Your NLP Research Skills](#further-readings-technical-materials-to-improve-your-nlp-research-skills)
 - [Contributions](#contributions)
@@ -77,6 +77,15 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 10. (Mu Li@Amazon) **博士这五年** (A Chinese article about five years in PhD at CMU). [[Article](https://zhuanlan.zhihu.com/p/25099638)]
 
 11. (Karl Stratos) **A Note to a Prospective Student**. [[Suggestions](http://karlstratos.com/#student)]
+### What Is Weekly Meeting with Advisors like?
+
+1. (Prof Jason Eisner@JHU) **What do PhD students talk about in their once-a-week meetings with their advisers during their first year?** (2015). [[Article](https://www.quora.com/What-do-PhD-students-talk-about-in-their-once-a-week-meetings-with-their-advisers-during-their-first-year/answer/Jason-Eisner?share=1)]
+
+1. (Prof Srinivasan Keshav@Cambridge) **How to Read a Paper** (2007). [[Suggestions](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)]
+
+1. (Prof Jason Eisner@JHU) **How to Read a Technical Paper** (2009). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)]
+### Practical Guides
+1. (Prof Jason Eisner@JHU) **How to write a paper?** (2010). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html)]
 
 ### Memoir-Like Narratives
 
@@ -99,6 +108,11 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 ## Stage 3. (After PhD -> Industry) How is life as an industry researcher?
 
 1. (Mu Li@Amazon) **工作五年反思** (A Chinese article about reflections on the five years working in industry). [[Article](https://zhuanlan.zhihu.com/p/374777591)]
+
+## Stage 4. (Being a Prof) How to get an academic position? And how to be a good prof?
+1. (Prof Jason Eisner@JHU) **How to write an academic research statement (when applying for a faculty job)** (2017). [[Article](https://www.quora.com/Assuming-that-Ph-D-students-decide-to-apply-for-faculty-positions-how-much-should-their-research-proposal-differ-from-their-Ph-D-research/answer/Jason-Eisner?share=1)]
+
+1. (Prof Jason Eisner@JHU) **How to Give a Talk** (2015). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/how-to-give-a-talk.html)]
 
 ## Stage 5. (Whole Career Path) How to live out a life career as an NLP research?
 
