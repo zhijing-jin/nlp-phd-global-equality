@@ -24,7 +24,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
   - [How to Excel Your Research](#how-to-excel-your-research)
   - [Other Books](#Other-Books)
 - [Stage 3. (After PhD -> Industry) How is life as an industry researcher?](#stage-3-after-phd---industry-how-is-life-as-an-industry-researcher)
-- [Stage 4. (Being a Prof) How to get an academic position? And how to be a good prof?](#)
+- [Stage 4. (Being a Prof) How to get an academic position? And how to be a good prof?](#stage-4-being-a-prof-how-to-get-an-academic-position-and-how-to-be-a-good-prof)
 - [Stage 5. (Whole Career Path) How to live out a life career as an NLP research?](#stage-5-whole-career-path-how-to-live-out-a-life-career-as-an-nlp-research)
 - [Further Readings: Technical Materials to Improve Your NLP Research Skills](#further-readings-technical-materials-to-improve-your-nlp-research-skills)
 - [Contributions](#contributions)
@@ -120,6 +120,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 1. (Prof Jason Eisner@JHU) **How to Give a Talk** (2015). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/how-to-give-a-talk.html)]
 
+1. (Prof Jason Eisner@JHU) **Teaching Philosophy**. [[Article](https://www.cs.jhu.edu/~jason/teaching.pdf)]
 ## Stage 5. (Whole Career Path) How to live out a life career as an NLP research?
 
 1. (Prof Charles Ling@Western University, Prof Qiang Yang@HKUST)**Crafting Your Research Future: A Guide to Successful Master's and Ph.D. Degrees in Science & Engineering**. [[Book](https://www.morganclaypool.com/doi/abs/10.2200/S00412ED1V01Y201203ENG018)]
