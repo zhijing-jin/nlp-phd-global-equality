@@ -18,8 +18,11 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 - [Stage 1. (Non-PhD -> PhD) How to Apply to PhD?](#stage-1-non-phd---phd-how-to-apply-to-phd)
   - [Specific Suggestions](#specific-suggestions)
 - [Stage 2. (Doing PhD) How to Succeed in PhD?](#stage-2-doing-phd-how-to-succeed-in-phd)
+  - [Practical Guides](#practical-guides)
+  - [What Is Weekly Meeting with Advisors like?](#What-Is-Weekly-Meeting-with-Advisors-like?)
   - [Memoir-Like Narratives](#memoir-like-narratives)
   - [How to Excel Your Research](#how-to-excel-your-research)
+  - [Other Books](#Other-Books)
 - [Stage 3. (After PhD -> Industry) How is life as an industry researcher?](#stage-3-after-phd---industry-how-is-life-as-an-industry-researcher)
 - [Stage 4. (Being a Prof) How to get an academic position? And how to be a good prof?](#)
 - [Stage 5. (Whole Career Path) How to live out a life career as an NLP research?](#stage-5-whole-career-path-how-to-live-out-a-life-career-as-an-nlp-research)
@@ -97,6 +100,9 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 ### How to Excel Your Research
 
+1. The most important step: (Prof Jason Eisner@JHU) **How to Find Research Problems** (1997). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/how-to-find-research-problems.html)]
+
+### Other Books
 1. **The craft of Research** by Wayne Booth, Greg Colomb and Joseph Williams.
 
 2. **How to write a better thesis** by Paul Gruba and David Evans
