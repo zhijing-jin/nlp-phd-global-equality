@@ -10,16 +10,17 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 ## Contents (Actively Updating)
 
-- [Top Resources](#Top-Resources)
-- [Stage 1. (Non-PhD -> PhD) How to Apply to PhD?](#Top-Resources)
-  - [Specific Suggestions](#11-Talkstutorialetc)
-- [Stage 2. (Doing PhD) How to Succeed in PhD?](#Top-Resources)
-- [Memoir-Like Narratives](#)
-- [How to Excel Your Research](#)
-- [Stage 3. (After PhD -> Industry) How is life as an industry researcher?](#)
-- [Stage 5. (Whole Career Path) How to live out a life career as an NLP research?](#)
-- [Further Readings: Technical Materials to Improve Your NLP Research Skills](#)
-- [Contributions](#)
+- [Top Resources](#top-resources)
+- [Stage 1. (Non-PhD -> PhD) How to Apply to PhD?](#stage-1-non-phd---phd-how-to-apply-to-phd)
+  - [Specific Suggestions](#specific-suggestions)
+- [Stage 2. (Doing PhD) How to Succeed in PhD?](#stage-2-doing-phd-how-to-succeed-in-phd)
+  - [Memoir-Like Narratives](#memoir-like-narratives)
+  - [How to Excel Your Research](#how-to-excel-your-research)
+- [Stage 3. (After PhD -> Industry) How is life as an industry researcher?](#stage-3-after-phd---industry-how-is-life-as-an-industry-researcher)
+- [Stage 4. (Being a Prof) To Be Added](#)
+- [Stage 5. (Whole Career Path) How to live out a life career as an NLP research?](#stage-5-whole-career-path-how-to-live-out-a-life-career-as-an-nlp-research)
+- [Further Readings: Technical Materials to Improve Your NLP Research Skills](#further-readings-technical-materials-to-improve-your-nlp-research-skills)
+- [Contributions](#contributions)
 
 ## Top Resources
 
