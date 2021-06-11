@@ -1,6 +1,6 @@
 # Resources to Help Global Equality for PhDs in NLP
 
-This repo originates with a wish to promote **Global Equality** for people who want to do a PhD in NLP. Specifically, we wish people from all over the world and with all types of backgrounds can share the same source of information, 
+This repo originates with a wish to promote **Global Equality** for people who want to do a PhD in NLP, following the idea that mentorship programs are an effective way to fight against segregation, according to the Stanford Prof Mathew Jackson in his book [The Human Networks](https://www.youtube.com/watch?v=2C5jrYlVHJQ&t=1753s) (2019). Specifically, we wish people from all over the world and with all types of backgrounds can share the same source of information, 
 so that success will be a reward to those who are determined and hardworking, regardless of external contrainsts.
 
 One non-negligible reason for success is **access to information**, such as (1) knowing what a PhD in NLP is like, (2) knowing what top grad schools look for when reviewing PhD applications, (3) broadening your horizon of what is _good work_, (4) knowing how careers in NLP in both academia and industry are like, and many others.
