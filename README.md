@@ -55,7 +55,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 ## Stage 2. (Doing PhD) How to Succeed in PhD?
 
-1. (Prof Eric Gilbert@UMich) **Syllabus for Eric’s PhD students** (incl. Prof's expectation for PhD students). [[syllabus](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM)]
+1. (Maxwell Forbes, PhD@UW) **Every PhD Is Different**. [[Suggestions](https://maxwellforbes.com/posts/every-phd-is-different)]
 
 2. (Prof Mark Dredze@JHU, Prof Hanna M. Wallach@UMass Amherst) **How to be a successful PhD student (in computer science (in NLP/ML))**. [[Suggestions](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)]
 
@@ -64,6 +64,8 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 4. (Prof Kevin Gimpel@TTIC) **Kevin Gimpel's Advice to PhD Students**. [[Suggestions](https://home.ttic.edu/~kgimpel/etc/phd-advice.pdf)]
 
 5. (Prof Marie desJardins@Simmons University) **How to Succeed in Graduate School: A Guide for Students and Advisors** (1994). [[Article](https://www.eng.auburn.edu/~troppel/Advice_for_Grad_Students.pdf)] [[Part II](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/acm_gradschool2.htm)]
+
+1. (Prof Eric Gilbert@UMich) **Syllabus for Eric’s PhD students** (incl. Prof's expectation for PhD students). [[syllabus](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM)]
 
 6. (Prof H.T. Kung@Harvard) **Useful Thoughts about Research** (1987). [[Suggestions](https://www.eecs.harvard.edu/htk/phdadvice/)]
 
