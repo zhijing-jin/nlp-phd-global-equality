@@ -1,4 +1,4 @@
-# Resources to Help Global Equality for PhDs in NLP
+# Resources to Help Global Equality for PhDs in NLP / AI
 
 This repo originates with a wish to promote **Global Equality** for people who want to do a PhD in NLP, following the idea that mentorship programs are an effective way to fight against segregation, according to [The Human Networks](https://www.youtube.com/watch?v=2C5jrYlVHJQ&t=1753s) (Jackson, 2019). Specifically, we wish people from all over the world and with all types of backgrounds can share the same source of information, 
 so that success will be a reward to those who are determined and hardworking, regardless of external contrainsts.
@@ -9,7 +9,7 @@ One non-negligible reason for success is **access to information**, such as (1) 
 
 You are welcome to be a collaborator, -- you can make an issue/pull request, and I can add you :).
 
-**Endorsers of this repo:** Prof Rada Mihalcea (University of Michigan). Please add your name here (by a pull request) if you endorse this repo :).
+**Endorsers of this repo:** Prof [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) (University of Michigan). Please add your name here (by a pull request) if you endorse this repo :).
 
 
 ## Contents (Actively Updating)
