@@ -1,11 +1,11 @@
 # Resources to Help Global Equality for PhDs in NLP / AI
 
-This repo originates with a wish to promote **Global Equality** for people who want to do a PhD in NLP, following the idea that mentorship programs are an effective way to fight against segregation, according to [The Human Networks](https://www.youtube.com/watch?v=2C5jrYlVHJQ&t=1753s) (Jackson, 2019). Specifically, we wish people from all over the world and with all types of backgrounds can share the same source of information, 
+This repo originates with a wish to promote **Global Equality** for people who want to do a PhD in NLP, following the idea that mentorship programs are an effective way to fight against segregation, according to [The Human Networks](https://www.youtube.com/watch?v=2C5jrYlVHJQ&t=1753s) (Jackson, 2019). Specifically, we wish people from all over the world and with all types of backgrounds can share the same source of information,
 so that success will be a reward to those who are determined and hardworking, regardless of external contrainsts.
 
 One non-negligible reason for success is **access to information**, such as (1) knowing what a PhD in NLP is like, (2) knowing what top grad schools look for when reviewing PhD applications, (3) broadening your horizon of what is _good work_, (4) knowing how careers in NLP in both academia and industry are like, and many others.
 
-**Contributor:** [Zhijing Jin](http://zhijing-jin.com) (PhD student in NLP at Max Planck Institute).
+**Contributor:** [Zhijing Jin](http://zhijing-jin.com) (PhD student in NLP at Max Planck Institute, co-organizer of the [ACL Year-Round Mentorship Program](https://acl-mentorship.github.io)).
 
 You are welcome to be a collaborator, -- you can make an issue/pull request, and I can add you :).
 
@@ -14,6 +14,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 ## Contents (Actively Updating)
 
+- [Top Resources](#top-resources)
 - [Stage 1. (Non-PhD -> PhD) How to Apply to PhD?](#stage-1-non-phd---phd-how-to-apply-to-phd)
   - [Specific Suggestions](#specific-suggestions)
 - [Stage 2. (Doing PhD) How to Succeed in PhD?](#stage-2-doing-phd-how-to-succeed-in-phd)
@@ -28,6 +29,10 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 - [Further Readings: Technical Materials to Improve Your NLP Research Skills](#further-readings-technical-materials-to-improve-your-nlp-research-skills)
 - [Contributions](#contributions)
 
+## Top Resources
+
+1. **Online ACL Year-Round Mentorship Program:** https://acl-mentorship.github.io
+   (You can apply as [a mentee](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WZ58B5OxkFZCgz9OB5zwLz5URUo4UlpNVTBBMkdPSlBVUTgyMzlRRk5BVy4u), as [a mentor](https://forms.gle/xsdFDCKUuDrBvc4Y6), or as [a volunteer](https://forms.gle/msPFHiL9QKw3fCR8A). For mentees, you will be able to attend monthly zoom Q&A sessions hosted senior researchers in NLP. You will also join a global slack channel, where you can constantly post your questions, and we will collect answers from senior NLP researchers.)
 
 ## Stage 1. (Non-PhD -> PhD) How to Apply to PhD?
 
@@ -92,7 +97,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 ### Memoir-Like Narratives
 
-1. (Prof Philip Guo@UCSD) **The Ph.D. Grind: A Ph.D. Student Memoir** (last updated: 2015). [[Video](https://www.youtube.com/watch?v=zHp2rxR2LTc)] (For the book, you have to dig deeply, and then you will find the book.) 
+1. (Prof Philip Guo@UCSD) **The Ph.D. Grind: A Ph.D. Student Memoir** (last updated: 2015). [[Video](https://www.youtube.com/watch?v=zHp2rxR2LTc)] (For the book, you have to dig deeply, and then you will find the book.)
 
 2. (Prof Tianqi Chen@CMU) **陈天奇：机器学习科研的十年 (2019)** (A Chinese article about ten years of research in ML). [[Article](https://zhuanlan.zhihu.com/p/74249758)]
 
