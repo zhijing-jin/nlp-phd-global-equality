@@ -17,6 +17,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 - [Top Resources](#top-resources)
 - [Stage 1. (Non-PhD -> PhD) How to Apply to PhD?](#stage-1-non-phd---phd-how-to-apply-to-phd)
   - [Specific Suggestions](#specific-suggestions)
+  - [Improve Your Proficiency with Tools](#improve-your-proficiency-with-tools)
 - [Stage 2. (Doing PhD) How to Succeed in PhD?](#stage-2-doing-phd-how-to-succeed-in-phd)
   - [What Is Weekly Meeting with Advisors like?](#what-is-weekly-meeting-with-advisors-like)
   - [Practical Guides](#practical-guides)
@@ -57,6 +58,8 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 1. (Prof Nathan Schneider@Georgetown University) **Inside Ph.D. admissions: What readers look for in a Statement of Purpose**. [[Article](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)]
 
+### Improve Your Proficiency with Tools
+1. (MIT 2020) **The Missing Semester of Your CS Education** (e.g., master the command-line, ssh into remote machines, use fancy features of version control systems).  
 
 ## Stage 2. (Doing PhD) How to Succeed in PhD?
 
