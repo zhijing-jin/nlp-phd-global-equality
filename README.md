@@ -54,6 +54,8 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 9. (Prof Scott E. Fahlman@CMU) **Quora answers on the LTI program at CMU** (2017). [[Article](https://www.quora.com/What-does-the-admissions-committee-process-for-graduate-school-look-like-Do-you-sit-in-a-room-and-all-discuss-the-same-candidate-at-the-same-time-or-is-it-more-of-an-individual-process-with-opinions-aggregated-at-the-end)]
 
+10. (Albert Webson et al., PhDs@Brown University) **Resources for Underrepresented Groups, including Brown's Own Applicant Mentorship Program** (2020, but we will keep updating it throughout the 2021 application season.) [[List of Resources](https://cs.brown.edu/degrees/doctoral/applications/helpful-resources-applying-computer-science-phd-programs/)]
+
 ### Specific Suggestions
 
 1. (Prof Nathan Schneider@Georgetown University) **Inside Ph.D. admissions: What readers look for in a Statement of Purpose**. [[Article](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)]
