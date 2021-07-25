@@ -112,6 +112,8 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 1. The most important step: (Prof Jason Eisner@JHU) **How to Find Research Problems** (1997). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/how-to-find-research-problems.html)]
 
+1. (Prof Richard Hamming, Turing award winner) **You and Your Research** (How a research journey is like & how do end up with great research) (1995). [[Talk](https://www.youtube.com/watch?v=a1zDuOPkMSw)] [[Transcript](https://homepages.inf.ed.ac.uk/wadler/papers/firbush/hamming.pdf)]
+
 ### Grad School Fellowships
 1. (List compiled by CMU) **Graduate Fellowship Opportunities** [[link](https://www.cs.cmu.edu/~gradfellowships/)]
 2. **CYD Fellowship for Grad Students in Switzerland** [[link](https://www.epfl.ch/research/services/fund-research/funding-opportunities/fellowship-mobility/cyd-fellowships/)]
