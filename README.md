@@ -104,6 +104,8 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 1. (Prof Yang Liu, Trevor Cohn, Bonnie Webber, and Yulan He) **Advice on Reviewing for EMNLP** (2020). [[Suggestions](https://2020.emnlp.org/blog/2020-05-17-write-good-reviews)]
 1. (Dr. Anna Rogers, Prof. Isabelle Augenstein@University of Copenhagen) **What Can We Do to Improve Peer Review in NLP?** (2020). [[Paper](https://aclanthology.org/2020.findings-emnlp.112.pdf)]
 
+1. (Prof Emily M. Bender@UW) **On Using Twitter** (2020). [[Suggestions](https://medium.com/@emilymenonbender/on-using-twitter-84fbd80c8919)]
+
 ### Memoir-Like Narratives
 
 1. (Prof Philip Guo@UCSD) **The Ph.D. Grind: A Ph.D. Student Memoir** (last updated: 2015). [[Video](https://www.youtube.com/watch?v=zHp2rxR2LTc)] (For the book, you have to dig deeply, and then you will find the book.)
