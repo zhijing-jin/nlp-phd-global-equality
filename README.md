@@ -93,6 +93,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 1. (Brown University) **Guide to Meetings with Your Advisor**. [[Suggestions](https://www.brown.edu/academics/gradschool/academics-research/graduate-advising-and-mentoring/advising-and-mentoring-resources-students/guide-m)]
 ### Practical Guides
+1. (Prof Jia-Bin Huang@UMaryland) **How to come up with research ideas?** (2021). [[Suggestions](https://twitter.com/jbhuang0604/status/1423499757591400448)]
 
 1. (Prof Srinivasan Keshav@Cambridge) **How to Read a Paper** (2007). [[Suggestions](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)]
 
