@@ -101,6 +101,8 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 1. (Prof Emily M. Bender@UW) **Critical Reading** (2003). [[Suggestions](https://faculty.washington.edu/ebender/critical_reading.pdf)]
 1. (Prof Jason Eisner@JHU) **How to write a paper?** (2010). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html)]
+1. (Simon Peyton Jones@Microsoft) **How to write a great research paper: Seven simple suggestions** (2014). [[Slides](https://www.cis.upenn.edu/~sweirich/icfp-plmw15/slides/peyton-jones.pdf)] [[Talk](https://www.microsoft.com/en-us/research/video/how-to-write-a-great-research-paper-3/)]
+
 
 1. (Prof Yang Liu, Trevor Cohn, Bonnie Webber, and Yulan He) **Advice on Reviewing for EMNLP** (2020). [[Suggestions](https://2020.emnlp.org/blog/2020-05-17-write-good-reviews)]
 1. (Dr. Anna Rogers, Prof. Isabelle Augenstein@University of Copenhagen) **What Can We Do to Improve Peer Review in NLP?** (2020). [[Paper](https://aclanthology.org/2020.findings-emnlp.112.pdf)]
