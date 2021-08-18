@@ -38,7 +38,12 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 ## Stage 1. (Non-PhD -> PhD) How to Apply to PhD?
 
 1. (Prof Philip Guo@UCSD) **Finding CS Ph.D. programs to apply to**. [[Video](https://www.youtube.com/watch?v=hOSl3xPmHiQ&t=1s)]
-2. (Prof [Mor Harchol-Balter](http://www.cs.cmu.edu/~harchol/)@CMU) **Applying to Ph.D. Programs in Computer Science** (2014). [[Guide](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)]
+
+1. (Tim Dettmers, PhD@UW) **Machine Learning PhD Applications — Everything You Need to Know** (2018). [[Guide](https://timdettmers.com/2018/11/26/phd-applications/)]
+
+1. (Tim Dettmers, PhD@UW) **How to Pick Your Grad School** (2020). [[Guide](https://timdettmers.com/2020/03/10/how-to-pick-your-grad-school/)]
+
+3. (Prof [Mor Harchol-Balter](http://www.cs.cmu.edu/~harchol/)@CMU) **Applying to Ph.D. Programs in Computer Science** (2014). [[Guide](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)]
 
 3. (Prof Jason Eisner@JHU) **Advice for Research Students** (last updated: 2021). [[List of suggestions](https://www.cs.jhu.edu/~jason/advice/)]
 
@@ -60,12 +65,17 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 1. (Prof Nathan Schneider@Georgetown University) **Inside Ph.D. admissions: What readers look for in a Statement of Purpose**. [[Article](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)]
 
+1. (Eugene Vinitsky, PhD@UC Berkeley) **A Guide to Cold Emailing** (2020). [[Article](https://eugenevinitsky.github.io/posts/2020-12-25-coldemails.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)]
+
 ### Improve Your Proficiency with Tools
 1. (MIT 2020) **The Missing Semester of Your CS Education** (e.g., master the command-line, ssh into remote machines, use fancy features of version control systems).  
 
 ## Stage 2. (Doing PhD) How to Succeed in PhD?
 
-1. (Maxwell Forbes, PhD@UW) **Every PhD Is Different**. [[Suggestions](https://maxwellforbes.com/posts/every-phd-is-different)]
+1. (Prof Isabelle Augenstein@UCopenhagen) **Increasing Well-Being in Academia** (2020). [[Suggestions](https://isabelle-augenstein.medium.com/increasing-well-being-in-academia-97f3ebc1599f)]
+
+1. (Sebastian Ruder@DeepMind) **10 Tips for Research and a PhD** (2020) . [[Suggestions](https://ruder.io/10-tips-for-research-and-a-phd/)]
+2. (Maxwell Forbes, PhD@UW) **Every PhD Is Different**. [[Suggestions](https://maxwellforbes.com/posts/every-phd-is-different)]
 
 2. (Prof Mark Dredze@JHU, Prof Hanna M. Wallach@UMass Amherst) **How to be a successful PhD student (in computer science (in NLP/ML))**. [[Suggestions](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)]
 
@@ -93,9 +103,16 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 1. (Brown University) **Guide to Meetings with Your Advisor**. [[Suggestions](https://www.brown.edu/academics/gradschool/academics-research/graduate-advising-and-mentoring/advising-and-mentoring-resources-students/guide-m)]
 ### Practical Guides
+
 1. (Prof Jia-Bin Huang@UMaryland) **How to come up with research ideas?** (2021). [[Suggestions](https://twitter.com/jbhuang0604/status/1423499757591400448)]
 
-1. (Prof Srinivasan Keshav@Cambridge) **How to Read a Paper** (2007). [[Suggestions](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)]
+1. (John Schulman, co-founder of OpenAI) **An Opinionated Guide to ML Research (e.g., horning your taste)** (2020). [[Suggestions](http://joschu.net/blog/opinionated-guide-ml-research.html)]
+  <br> _Interesting snippets: "Goal-driven. Develop a vision of some new AI capabilities you’d like to achieve, and solve problems that bring you closer to that goal.", "If you are working on incremental ideas, be aware that their usefulness depends on their complexity.", "Consider how the biggests bursts of impactful work tend to be tightly clustered in a small number of research groups and institutions. That’s not because these people are dramatically smarter than everyone else, it’s because they have a higher density of expertise and perspective, which puts them a little ahead of the rest of the community, and thus they dominate in generating new results.", "Early on in your career, I recommend splitting your time about evenly between textbooks and papers. You should choose a small set of relevant textbooks and theses to gradually work through, and you should also reimplement the models and algorithms from your favorite papers."_
+
+1. (Prof Fei-Fei Li@Stanford) **De-Mystifying Good Research and Good Papers** (2014). [[Suggestions](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)]
+  <br>_Interesting snippets: "This means publishing papers is NOT about “this has not been published or written before, let me do it”, nor is it about “let me find an arcane little problem that can get me an easy poster”. It’s about “if I do this, I could offer a better solution to this important problem,” or “if I do this, I could add a genuinely new and important piece of knowledge to the field.” You should always conduct research with the goal that it could be directly used by many people (or industry). In other words, your research topic should have many ‘customers’, and your solution would be the one they want to use. A good research project is not about the past (i.e. obtaining a higher performance than the previous N papers). It’s **about the future (i.e. inspiring N future papers to follow and cite you, N->\inf)**."_
+
+3. (Prof Srinivasan Keshav@Cambridge) **How to Read a Paper** (2007). [[Suggestions](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)]
 
 1. (Prof Jason Eisner@JHU) **How to Read a Technical Paper** (2009). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)]
 
@@ -109,9 +126,15 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 1. (Prof Emily M. Bender@UW) **On Using Twitter** (2020). [[Suggestions](https://medium.com/@emilymenonbender/on-using-twitter-84fbd80c8919)]
 
+1. (Timothy Ferriss, author of 4-Hour Workweek) **5 Tips for E-mailing Busy People** (2008). [[Suggestions](https://tim.blog/2008/05/19/5-tips-for-e-mailing-busy-people/)]
+
+1. UI design as a medium of thought: see Michael Nielsen's [explanation of why UI is important for science](https://michaelnielsen.org/blog/where-will-the-key-ideas-shaping-the-future-of-scientific-publishing-come-from/), [Bret Victor's work](http://worrydream.com/), [Miegakure](https://miegakure.com/) that visualizes a 4D environment.
+ 
 ### Memoir-Like Narratives
 
 1. (Prof Philip Guo@UCSD) **The Ph.D. Grind: A Ph.D. Student Memoir** (last updated: 2015). [[Video](https://www.youtube.com/watch?v=zHp2rxR2LTc)] (For the book, you have to dig deeply, and then you will find the book.)
+
+1. (Maithra Raghu, PhD from Cornell, Senior Research Scientist@Google Brain) **Reflections on my (Machine Learning) PhD Journey** (2020). [[Article](https://maithraraghu.com/blog/2020/Reflections_on_my_Machine_Learning_PhD_Journey/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)]
 
 2. (Prof Tianqi Chen@CMU) **陈天奇：机器学习科研的十年 (2019)** (A Chinese article about ten years of research in ML). [[Article](https://zhuanlan.zhihu.com/p/74249758)]
 
@@ -121,7 +144,18 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 1. The most important step: (Prof Jason Eisner@JHU) **How to Find Research Problems** (1997). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/how-to-find-research-problems.html)]
 
-1. (Prof Richard Hamming, Turing award winner) **You and Your Research** (How a research journey is like & how do end up with great research) (1995). [[Talk](https://www.youtube.com/watch?v=a1zDuOPkMSw)] [[Transcript](https://homepages.inf.ed.ac.uk/wadler/papers/firbush/hamming.pdf)]
+1. (Christopher Olah, OpenAI) **Research Taste Exercises** (2021). [[Article](https://colah.github.io/notes/taste/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)]
+
+1. (Prof Richard Hamming, Turing award winner) **You and Your Research** (How a research journey is like & how do end up with great research) (1995). [[Talk](https://www.youtube.com/watch?v=a1zDuOPkMSw)] [[Transcript](https://homepages.inf.ed.ac.uk/wadler/papers/firbush/hamming.pdf)] [[Transcript2](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)]
+  <br>Interesting snippets: "Knowledge and productivity are like compound interest. Given two people of approximately the same ability and one person who works ten percent more than the other, the latter will more than twice outproduce the former. The more you know, the more you learn; the more you learn, the more you can do; the more you can do, the more the opportunity.", "One of the chief tricks is to live a long time!", "I made the resolution that I would never again solve an isolated problem except as characteristic of a class.".
+
+1. (Prof Stuart Card@Stanford) **The PhD Thesis Deconstructed** (2016). [[Article](http://hci.stanford.edu/~cagatay/StuCard-WinPrizesGloryPhD.pdf)]
+  <br>_Interesting snippets: "People basically read your paper to write theirs. Your ideas are more likely to spread if you help out.", "We once had a Nobel Laureate come talk to us about his ideas for how to do research. His surprising number 1 recommendation: Don’t work in an area that doesn’t have good funding.", "Table 1. Seismic scale of impact"_
+
+1. (Sam Altman, CEO of OpenAI) **How To Be Successful** (2019). [[Article](https://blog.samaltman.com/how-to-be-successful)]
+  <br>_Interesting snippets: "I think the biggest competitive advantage in business—either for a company or for an individual’s career—is long-term thinking with a broad view of **how different systems in the world are going to come together**... In a world where almost no one takes a truly long-term view, the market richly rewards those who do.", "One of the most powerful lessons to learn is that you can figure out what to do in situations that seem to have no solution.", "you also have to be able to convince other people of what you believe.", "My other big sales tip is to show up in person whenever it’s important. When I was first starting out, I was always willing to get on a plane.", "An effective way to build a network is to help people as much as you can.", "One of the best ways to build a network is to develop a reputation for really taking care of the people who work with you.", "The best way to make things that increase rapidly in value is by making things people want at scale."_
+
+1. (Tim Dettmers, PhD@UW) **On Creativity in Academia** (2019). [[Article](https://timdettmers.com/2019/09/03/creativity-in-academia/)]
 
 ### Grad School Fellowships
 1. (List compiled by CMU) **Graduate Fellowship Opportunities** [[link](https://www.cs.cmu.edu/~gradfellowships/)]
@@ -140,6 +174,8 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 1. (Mu Li@Amazon) **工作五年反思** (A Chinese article about reflections on the five years working in industry). [[Article](https://zhuanlan.zhihu.com/p/374777591)]
 
 ## Stage 4. (Being a Prof) How to get an academic position? And how to be a good prof?
+1. (Prof Devi Parikh and Prof Dhruv Batra@GaTech) **Humans of AI: Stories, Not Stats** [[YouTube](https://www.youtube.com/user/deviparikh)]
+
 1. (Prof Jason Eisner@JHU) **How to write an academic research statement (when applying for a faculty job)** (2017). [[Article](https://www.quora.com/Assuming-that-Ph-D-students-decide-to-apply-for-faculty-positions-how-much-should-their-research-proposal-differ-from-their-Ph-D-research/answer/Jason-Eisner?share=1)]
 
 1. (Prof Jason Eisner@JHU) **How to Give a Talk** (2015). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/how-to-give-a-talk.html)]
@@ -150,10 +186,15 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 1. (Prof Emily M. Bender@UW) **Balancing Teaching and Research** (2015). [[Suggestions](https://faculty.washington.edu/ebender/papers/BalancingTeachingResearch2015.pdf)]
 
-## Stage 5. (Whole Career Path) How to live out a life career as an NLP research?
+## Stage 5. (Whole Career Path) How to live out a life career as an NLP researcher?
 
 1. (Prof Charles Ling@Western University, Prof Qiang Yang@HKUST)**Crafting Your Research Future: A Guide to Successful Master's and Ph.D. Degrees in Science & Engineering**. [[Book](https://www.morganclaypool.com/doi/abs/10.2200/S00412ED1V01Y201203ENG018)]
 
+1. (Prof Michael Nielsen, now an individual researcher) **Principles of Effective Research** (2004). [[Article](https://michaelnielsen.org/blog/principles-of-effective-research/)]
+  <br>_Interesting snippets: "“We are what we repeatedly do. Excellence, then, is not an act but a habit.” Underlying all our habits are models (often unconscious) of how the world works. I’m writing this essay to develop an improved personal model of how to be an effective researcher, a model that can be used as the basis for concrete actions leading to the development of new habits.", "Make sure you’re fit. Look after your health. Spend high quality time with your family. Have fun. These things require a lot of thought and effort to get right.", "Develop a high-quality research environment", "Developing a taste for what’s important: What do you think are the characteristics of important science? What makes one area thrive, while another dies away? What sorts of unifying ideas are the most useful? What have been the most important developments in your field? **Why are they important?** What were the apparently promising ideas that didn’t pan out? Why didn’t they pan out? You need to be thinking constantly about these issues, both in concrete terms, and also in the abstract, developing both a general feeling for what is important (and what is not), and also some specific beliefs about what is important and what is not in your fields of interest.", "occasionally set time aside to survey the landscape of a field, looking not just for problems, but trying to identify larger patterns. What types of questions do people in the field tend to ask? **Can we abstract away patterns in those questions?** What other fields might there be links to? What are the few most important problems in the field?"_
+
+### Massive collaboration can help science
+1. (Prof Timothy Gowers and Michael Nielsen) **Massively collaborative mathematics** (2009). [[Article](https://www.nature.com/articles/461879a.pdf)]
 ## Further Readings: Technical Materials to Improve Your NLP Research Skills
 
 1. (Prof Jason Eisner@JHU) **Technical Tutorials, Notes, and Suggested Reading** (last updated: 2018) [[Reading list](https://www.cs.jhu.edu/~jason/tutorials/)]
