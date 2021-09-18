@@ -67,6 +67,9 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 1. (Eugene Vinitsky, PhD@UC Berkeley) **A Guide to Cold Emailing** (2020). [[Article](https://eugenevinitsky.github.io/posts/2020-12-25-coldemails.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)]
 
+1. (Prof Shomir Wilson@Penn State University) **Guide for Interacting With Faculty** (2018). [[Suggestions](https://shomir.net/teaching_faq.html)]
+
+1. (Prof Shomir Wilson@Penn State University) **Reference Letter Procedure**. [[Suggestions](https://shomir.net/reference_procedure.html)]
 ### Improve Your Proficiency with Tools
 1. (MIT 2020) **The Missing Semester of Your CS Education** (e.g., master the command-line, ssh into remote machines, use fancy features of version control systems).  
 
@@ -120,6 +123,8 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 1. (Prof Jason Eisner@JHU) **How to write a paper?** (2010). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html)]
 1. (Simon Peyton Jones@Microsoft) **How to write a great research paper: Seven simple suggestions** (2014). [[Slides](https://www.cis.upenn.edu/~sweirich/icfp-plmw15/slides/peyton-jones.pdf)] [[Talk](https://www.microsoft.com/en-us/research/video/how-to-write-a-great-research-paper-3/)]
 
+1. (Prof Shomir Wilson@Penn State University) **Guide for Scholarly Writing**. [[Suggestions](https://shomir.net/scholarly_writing.html)]
+1. (Prof Shomir Wilson@Penn State University) **Guide for Citations and References** [[Suggestions](https://shomir.net/citations_and_references.html)]
 
 1. (Prof Yang Liu, Trevor Cohn, Bonnie Webber, and Yulan He) **Advice on Reviewing for EMNLP** (2020). [[Suggestions](https://2020.emnlp.org/blog/2020-05-17-write-good-reviews)]
 1. (Dr. Anna Rogers, Prof. Isabelle Augenstein@University of Copenhagen) **What Can We Do to Improve Peer Review in NLP?** (2020). [[Paper](https://aclanthology.org/2020.findings-emnlp.112.pdf)]
@@ -174,17 +179,42 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 1. (Mu Li@Amazon) **工作五年反思** (A Chinese article about reflections on the five years working in industry). [[Article](https://zhuanlan.zhihu.com/p/374777591)]
 
 ## Stage 4. (Being a Prof) How to get an academic position? And how to be a good prof?
+### Professors' Sharing in Videos
 1. (Prof Devi Parikh and Prof Dhruv Batra@GaTech) **Humans of AI: Stories, Not Stats** [[YouTube](https://www.youtube.com/user/deviparikh)]
+1. (Prof Manuel Rigger@NUS) **Getting Academic Positions (GAP) Interviewing Series** (2021). [[YouTube Interview Videos](https://www.youtube.com/playlist?list=PLm7ofmclym1EjPJE4TbuyaKA9-ottVeRJ)]
+### Overall Experience Sharing
+1. (Prof Philip J. Guo@UCSD) **Philip’s notes on the tenure-track assistant professor job search** (2013). [[Suggestions](https://pg.ucsd.edu/guo-faculty-job-search.pdf)]
+1. **Academic job search advice**
+1. (Prof Nicolas Papernot@University of Toronto, Prof Elissa M. Redmiles@Max Planck Institute) **The academic job search for computer scientists in 10 questions**. [[Suggestions](https://docs.google.com/document/u/1/d/e/2PACX-1vSeOnC_QdaJVc3OuuMfDHVlk3QotUxvghytRFaDsrdA0uovD5axQjp8kJCM4Evu1cCf9Hg_u_Stabu1/pub)] 
+1. (Prof Caroline Trippel@Stanford) **The Academic Job Search: A Memoir** (2020). [[Suggestions](https://www.sigarch.org/the-academic-job-search-a-memoir-part-1/)]
+1. (Prof Shomir Wilson@Penn State University) **Guide for the Tenure-Track Job Market in Computer/Information Sciences** (2018). [[Suggestions](https://shomir.net/tt_job_guide.html)]
+2. (Prof Michael Ernst@University of Washington) **Getting an academic job** (2000). [[Suggestions](https://web.archive.org/web/20210413123322/homes.cs.washington.edu/~mernst/advice/academic-job.html)]
+1. (Prof Matt Might@University of Alabama at Birmingham) **Academic job search advice**. [[Suggestions](https://matt.might.net/articles/advice-for-academic-job-hunt/)]
+1. (Prof Manuel Rigger@NUS) **How Did Professors Find Their Jobs? Part 1: Diversity in Experiences** (2021). [[Suggestions](https://www.sigops.org/2021/how-did-professors-find-their-jobs-part-1-diversity-in-experiences/)] 
 
+1. (Prof Radhika Nagpal@Harvard) **The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life** (2013). [[Article](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)]
+### Learning Different Schools
+- Different types of schools: https://carnegieclassifications.iu.edu/classification_descriptions/basic.php
+- cra.org has a good listing for academic jobs related to CS
+- The [Chronicle of Higher Education](http://chronicle.com/) has a listing that tends to be for more teaching-oriented positions
+- CS Rankings: http://csrankings.org/
+
+### Preparing the Application Materials
 1. (Prof Jason Eisner@JHU) **How to write an academic research statement (when applying for a faculty job)** (2017). [[Article](https://www.quora.com/Assuming-that-Ph-D-students-decide-to-apply-for-faculty-positions-how-much-should-their-research-proposal-differ-from-their-Ph-D-research/answer/Jason-Eisner?share=1)]
 
 1. (Prof Jason Eisner@JHU) **How to Give a Talk** (2015). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/how-to-give-a-talk.html)]
+
+1. (Prof Manuel Rigger@NUS) **Interview Questions for Computer Science Faculty Jobs** (2021). [[Question List](https://csfaculty.github.io/)]
+1. (Prof Austin Z. Henley@University of Tennessee) **Faculty interview questions I asked and got asked** (2018). [[Question List](https://web.eecs.utk.edu/~azh/resources/facultyinterviewquestions.html)]
+### Starting as a Professor
 
 1. (Prof Jason Eisner@JHU) **Teaching Philosophy**. [[Article](https://www.cs.jhu.edu/~jason/teaching.pdf)]
 
 1. (Prof Isabelle Augenstein, Emily M. Bender, Dan Jurafsky, and Yoav Goldberg) **Panel Discussions on How to Teach NLP Courses** (2021). [[Video](https://www.youtube.com/watch?v=CnE2Ck5A9_M)]
 
 1. (Prof Emily M. Bender@UW) **Balancing Teaching and Research** (2015). [[Suggestions](https://faculty.washington.edu/ebender/papers/BalancingTeachingResearch2015.pdf)]
+
+1. (Prof Shomir Wilson@Penn State University, motivation and usage of writing guides down) **Guide to the Advice** [[Article](https://shomir.net/thoughts_on_the_advice.html)]
 
 ## Stage 5. (Whole Career Path) How to live out a life career as an NLP researcher?
 
