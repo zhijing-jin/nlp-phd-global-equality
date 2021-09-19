@@ -129,6 +129,8 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 1. (Prof Yang Liu, Trevor Cohn, Bonnie Webber, and Yulan He) **Advice on Reviewing for EMNLP** (2020). [[Suggestions](https://2020.emnlp.org/blog/2020-05-17-write-good-reviews)]
 1. (Dr. Anna Rogers, Prof. Isabelle Augenstein@University of Copenhagen) **What Can We Do to Improve Peer Review in NLP?** (2020). [[Paper](https://aclanthology.org/2020.findings-emnlp.112.pdf)]
 
+1. (Prof Shomir Wilson@Penn State University) **Guide for Publishing in Conferences and Attending Them** [[Suggestions](https://shomir.net/scholarly_publishing.html)]
+
 1. (Prof Emily M. Bender@UW) **On Using Twitter** (2020). [[Suggestions](https://medium.com/@emilymenonbender/on-using-twitter-84fbd80c8919)]
 
 1. (Timothy Ferriss, author of 4-Hour Workweek) **5 Tips for E-mailing Busy People** (2008). [[Suggestions](https://tim.blog/2008/05/19/5-tips-for-e-mailing-busy-people/)]
