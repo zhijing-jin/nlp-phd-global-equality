@@ -20,12 +20,20 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
   - [Improve Your Proficiency with Tools](#improve-your-proficiency-with-tools)
 - [Stage 2. (Doing PhD) How to Succeed in PhD?](#stage-2-doing-phd-how-to-succeed-in-phd)
   - [What Is Weekly Meeting with Advisors like?](#what-is-weekly-meeting-with-advisors-like)
-  - [Practical Guides](#practical-guides)
+  - [Coming Up with Good Research Ideas](#coming-up-with-good-research-ideas)
+  - [How to Read Papers](#how-to-read-papers)
+  - [How to Express Our Ideas: Writing Papers, Visualization, etc](#how-to-express-our-ideas:-writing-papers-visualization-etc)
+  - [Reviewing, Publishing, Attending Conferences, Networking](#reviewing-publishing-attending-conferences-networking)
   - [Memoir-Like Narratives](#memoir-like-narratives)
   - [How to Excel Your Research](#how-to-excel-your-research)
   - [Other Books](#Other-Books)
 - [Stage 3. (After PhD -> Industry) How is life as an industry researcher?](#stage-3-after-phd---industry-how-is-life-as-an-industry-researcher)
 - [Stage 4. (Being a Prof) How to get an academic position? And how to be a good prof?](#stage-4-being-a-prof-how-to-get-an-academic-position-and-how-to-be-a-good-prof)
+  - [Professors' Sharing in Videos](#professors-sharing-in-videos)
+  - [Overall Experience Sharing](#overall-experience-sharing)
+  - [Learning about Different Schools](#learning-about-different-schools)
+  - [Preparing the Application Materials](#preparing-the-application-materials)
+  - [Starting as a Professor](#starting-as-a-professor)
 - [Stage 5. (Whole Career Path) How to live out a life career as an NLP research?](#stage-5-whole-career-path-how-to-live-out-a-life-career-as-an-nlp-research)
 - [Further Readings: Technical Materials to Improve Your NLP Research Skills](#further-readings-technical-materials-to-improve-your-nlp-research-skills)
 - [Contributions](#contributions)
@@ -100,12 +108,14 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 10. (Mu Li@Amazon) **博士这五年** (A Chinese article about five years in PhD at CMU). [[Article](https://zhuanlan.zhihu.com/p/25099638)]
 
 11. (Karl Stratos) **A Note to a Prospective Student**. [[Suggestions](http://karlstratos.com/#student)]
+
 ### What Is Weekly Meeting with Advisors like?
 
 1. (Prof Jason Eisner@JHU) **What do PhD students talk about in their once-a-week meetings with their advisers during their first year?** (2015). [[Article](https://www.quora.com/What-do-PhD-students-talk-about-in-their-once-a-week-meetings-with-their-advisers-during-their-first-year/answer/Jason-Eisner?share=1)]
 
 1. (Brown University) **Guide to Meetings with Your Advisor**. [[Suggestions](https://www.brown.edu/academics/gradschool/academics-research/graduate-advising-and-mentoring/advising-and-mentoring-resources-students/guide-m)]
-### Practical Guides
+
+### Coming Up with Good Research Ideas
 
 1. (Prof Jia-Bin Huang@UMaryland) **How to come up with research ideas?** (2021). [[Suggestions](https://twitter.com/jbhuang0604/status/1423499757591400448)]
 
@@ -115,17 +125,24 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 1. (Prof Fei-Fei Li@Stanford) **De-Mystifying Good Research and Good Papers** (2014). [[Suggestions](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)]
   <br>_Interesting snippets: "This means publishing papers is NOT about “this has not been published or written before, let me do it”, nor is it about “let me find an arcane little problem that can get me an easy poster”. It’s about “if I do this, I could offer a better solution to this important problem,” or “if I do this, I could add a genuinely new and important piece of knowledge to the field.” You should always conduct research with the goal that it could be directly used by many people (or industry). In other words, your research topic should have many ‘customers’, and your solution would be the one they want to use. A good research project is not about the past (i.e. obtaining a higher performance than the previous N papers). It’s **about the future (i.e. inspiring N future papers to follow and cite you, N->\inf)**."_
 
+### How to Read Papers
 3. (Prof Srinivasan Keshav@Cambridge) **How to Read a Paper** (2007). [[Suggestions](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)]
 
 1. (Prof Jason Eisner@JHU) **How to Read a Technical Paper** (2009). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)]
 
 1. (Prof Emily M. Bender@UW) **Critical Reading** (2003). [[Suggestions](https://faculty.washington.edu/ebender/critical_reading.pdf)]
+
+### How to Express Our Ideas: Writing Papers, Visualization, etc
 1. (Prof Jason Eisner@JHU) **How to write a paper?** (2010). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html)]
 1. (Simon Peyton Jones@Microsoft) **How to write a great research paper: Seven simple suggestions** (2014). [[Slides](https://www.cis.upenn.edu/~sweirich/icfp-plmw15/slides/peyton-jones.pdf)] [[Talk](https://www.microsoft.com/en-us/research/video/how-to-write-a-great-research-paper-3/)]
 
 1. (Prof Shomir Wilson@Penn State University) **Guide for Scholarly Writing**. [[Suggestions](https://shomir.net/scholarly_writing.html)]
 1. (Prof Shomir Wilson@Penn State University) **Guide for Citations and References** [[Suggestions](https://shomir.net/citations_and_references.html)]
+1. (Carmine Gallo, a bestselling author) **The Storytellers Secret** (2016). [[Video](https://www.youtube.com/watch?v=RbA2eHO_YdY&ab_channel=TalksatGoogle)]
+  <br>Takeaways: Writing the Introduction section and giving talks can also be like telling a Hollywood story: the setting (what problem we are solving; how important it is), the villian (how difficult this problem is; how previous work cannot solve it well), and the superhero (what we propose). For giving talks, starting with personal stories (e.g., a story of grandma telling the kid not to drink and persist the right thing leading to the person's life pursuit on social justice) is very helpful to get the audience involved.
 
+1. UI design as a medium of thought: see Michael Nielsen's [explanation of why UI is important for science](https://michaelnielsen.org/blog/where-will-the-key-ideas-shaping-the-future-of-scientific-publishing-come-from/), [Bret Victor's work](http://worrydream.com/), [Miegakure](https://miegakure.com/) that visualizes a 4D environment.
+### Reviewing, Publishing, Attending Conferences, Networking
 1. (Prof Yang Liu, Trevor Cohn, Bonnie Webber, and Yulan He) **Advice on Reviewing for EMNLP** (2020). [[Suggestions](https://2020.emnlp.org/blog/2020-05-17-write-good-reviews)]
 1. (Dr. Anna Rogers, Prof. Isabelle Augenstein@University of Copenhagen) **What Can We Do to Improve Peer Review in NLP?** (2020). [[Paper](https://aclanthology.org/2020.findings-emnlp.112.pdf)]
 
@@ -135,7 +152,6 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 1. (Timothy Ferriss, author of 4-Hour Workweek) **5 Tips for E-mailing Busy People** (2008). [[Suggestions](https://tim.blog/2008/05/19/5-tips-for-e-mailing-busy-people/)]
 
-1. UI design as a medium of thought: see Michael Nielsen's [explanation of why UI is important for science](https://michaelnielsen.org/blog/where-will-the-key-ideas-shaping-the-future-of-scientific-publishing-come-from/), [Bret Victor's work](http://worrydream.com/), [Miegakure](https://miegakure.com/) that visualizes a 4D environment.
  
 ### Memoir-Like Narratives
 
@@ -195,7 +211,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 1. (Prof Manuel Rigger@NUS) **How Did Professors Find Their Jobs? Part 1: Diversity in Experiences** (2021). [[Suggestions](https://www.sigops.org/2021/how-did-professors-find-their-jobs-part-1-diversity-in-experiences/)] 
 
 1. (Prof Radhika Nagpal@Harvard) **The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life** (2013). [[Article](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)]
-### Learning Different Schools
+### Learning about Different Schools
 - Different types of schools: https://carnegieclassifications.iu.edu/classification_descriptions/basic.php
 - cra.org has a good listing for academic jobs related to CS
 - The [Chronicle of Higher Education](http://chronicle.com/) has a listing that tends to be for more teaching-oriented positions
