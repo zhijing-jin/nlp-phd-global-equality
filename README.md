@@ -22,10 +22,10 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
   - [What Is Weekly Meeting with Advisors like?](#what-is-weekly-meeting-with-advisors-like)
   - [Coming Up with Good Research Ideas](#coming-up-with-good-research-ideas)
   - [How to Read Papers](#how-to-read-papers)
-  - [How to Express Our Ideas: Writing Papers, Visualization, etc](#how-to-express-our-ideas:-writing-papers-visualization-etc)
+  - [How to Express Our Ideas: Writing Papers, Visualization, etc](#how-to-express-our-ideas-writing-papers-visualization-etc)
   - [Reviewing, Publishing, Attending Conferences, Networking](#reviewing-publishing-attending-conferences-networking)
   - [Memoir-Like Narratives](#memoir-like-narratives)
-  - [How to Excel Your Research](#how-to-excel-your-research)
+  - [Excel Your Research](#excel-your-research)
   - [Other Books](#Other-Books)
 - [Stage 3. (After PhD -> Industry) How is life as an industry researcher?](#stage-3-after-phd---industry-how-is-life-as-an-industry-researcher)
 - [Stage 4. (Being a Prof) How to get an academic position? And how to be a good prof?](#stage-4-being-a-prof-how-to-get-an-academic-position-and-how-to-be-a-good-prof)
@@ -163,7 +163,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 3. (Jean Yang) **What My PhD Was Like**. [[Article](https://jxyzabc.blogspot.com/2016/02/my-phd-abridged.html)]
 
-### How to Excel Your Research
+### Excel Your Research
 
 1. The most important step: (Prof Jason Eisner@JHU) **How to Find Research Problems** (1997). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/how-to-find-research-problems.html)]
 
