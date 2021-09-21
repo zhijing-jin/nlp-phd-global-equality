@@ -247,6 +247,9 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 1. (Prof Jason Eisner@JHU) **Technical Tutorials, Notes, and Suggested Reading** (last updated: 2018) [[Reading list](https://www.cs.jhu.edu/~jason/tutorials/)]
 
+## Others
+1. (All kinds of career advice for Cryptography researchers) **Mentoring Workshop and Videos** (2021) [[Videos](https://mentor-crypto-2021.github.io/)]
+
 ## Contributions
 
 All types of contributions to this resource list is welcome. Feel free to open a Pull Request.
