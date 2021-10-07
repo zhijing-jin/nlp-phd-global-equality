@@ -69,10 +69,10 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 10. (Albert Webson et al., PhDs@Brown University) **Resources for Underrepresented Groups, including Brown's Own Applicant Mentorship Program** (2020, but we will keep updating it throughout the 2021 application season.) [[List of Resources](https://cs.brown.edu/degrees/doctoral/applications/helpful-resources-applying-computer-science-phd-programs/)]
 
-11. (Roma Patel PhD@Brown, Prof Nathan Schneider@Georgetown University) **PhD Application Series of the NLP Highlights Podcast)[[Podcast](https://soundcloud.com/nlp-highlights/133-phd-application-series-preparing-application-materials-with-nathan-schneider-and-roma-patel)**
-（A new series they launched that address all aspects of PhD application. Besides, it is just a great podcast in general that talks about recent NLP advances）
+11. (Roma Patel PhD@Brown, Prof Nathan Schneider@Georgetown University) **PhD Application Series of the NLP Highlights Podcast)**[[Podcast](https://soundcloud.com/nlp-highlights/133-phd-application-series-preparing-application-materials-with-nathan-schneider-and-roma-patel)]
+（A new series they launched that addresses all aspects of PhD application. Besides, it is just a great podcast in general that talks about recent NLP advances）
 
-12. (PhD students in NLP) **NLP with Friends Online Seminar Series (recordings available)** [[Seminar]https://nlpwithfriends.com/]  
+12. (PhD students in NLP) **NLP with Friends Online Seminar Series (recordings available)** [[Seminar](https://nlpwithfriends.com/)]  
 (I am not sure where to put it but I find it to be a great way to learn about what others are doing in NLP)
 ### Specific Suggestions
 
