@@ -69,7 +69,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 10. (Albert Webson et al., PhDs@Brown University) **Resources for Underrepresented Groups, including Brown's Own Applicant Mentorship Program** (2020, but we will keep updating it throughout the 2021 application season.) [[List of Resources](https://cs.brown.edu/degrees/doctoral/applications/helpful-resources-applying-computer-science-phd-programs/)]
 
-11. (Roma Patel PhD@Brown, Prof Nathan Schneider@Georgetown University) **PhD Application Series of the NLP Highlights Podcast)[[Podcast](https://soundcloud.com/nlp-highlights/133-phd-application-series-preparing-application-materials-with-nathan-schneider-and-roma-patel)
+11. (Roma Patel PhD@Brown, Prof Nathan Schneider@Georgetown University) **PhD Application Series of the NLP Highlights Podcast)[[Podcast](https://soundcloud.com/nlp-highlights/133-phd-application-series-preparing-application-materials-with-nathan-schneider-and-roma-patel)**
 （A new series they launched that address all aspects of PhD application. Besides, it is just a great podcast in general that talks about recent NLP advances）
 
 12. (PhD students in NLP) **NLP with Friends Online Seminar Series (recordings available)** [[Seminar]https://nlpwithfriends.com/]  
@@ -84,9 +84,9 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 1. (Prof Shomir Wilson@Penn State University) **Reference Letter Procedure**. [[Suggestions](https://shomir.net/reference_procedure.html)]
 
-1. (Nelson Liu, PhD@Stanfard) **PhD Statement of Purpose Example**. [[Article](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/)]
+1. (Nelson Liu, PhD@Stanfard) **PhD Statement of Purpose**. [[Article](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/)]
 
-1. (Nelson Liu, PhD@University of Washington) **Personal Statement Advice**. [[Article](https://suchin.io/personal-statement-advice/)]
+1. (Suchin Gururangan, PhD@University of Washington) **Personal Statement Advice**. [[Article](https://suchin.io/personal-statement-advice/)]
 
 
 ### Improve Your Proficiency with Tools
