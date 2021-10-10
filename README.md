@@ -227,6 +227,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 - cra.org has a good listing for academic jobs related to CS
 - The [Chronicle of Higher Education](http://chronicle.com/) has a listing that tends to be for more teaching-oriented positions
 - CS Rankings: http://csrankings.org/
+- An academic job portal for professors, lecturers, researchers, post docs, PhDs and academic managers in Europe, Americas, Oceania, Asia and the Middle East: FacultyVacancies.com
 
 ### Preparing the Application Materials
 1. (Prof Jason Eisner@JHU) **How to write an academic research statement (when applying for a faculty job)** (2017). [[Article](https://www.quora.com/Assuming-that-Ph-D-students-decide-to-apply-for-faculty-positions-how-much-should-their-research-proposal-differ-from-their-Ph-D-research/answer/Jason-Eisner?share=1)]
