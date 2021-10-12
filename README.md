@@ -120,6 +120,9 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 11. (Karl Stratos) **A Note to a Prospective Student**. [[Suggestions](http://karlstratos.com/#student)]
 
+### Internship
+1. (Elman Mansimov, Research Scientist@Amazon) **Tips on summer industry research internships in ML** (2021). [[Suggestions](https://twitter.com/elmanmansimov/status/1447576218535071747)]
+
 ### What Is Weekly Meeting with Advisors like?
 
 1. (Prof Jason Eisner@JHU) **What do PhD students talk about in their once-a-week meetings with their advisers during their first year?** (2015). [[Article](https://www.quora.com/What-do-PhD-students-talk-about-in-their-once-a-week-meetings-with-their-advisers-during-their-first-year/answer/Jason-Eisner?share=1)]
