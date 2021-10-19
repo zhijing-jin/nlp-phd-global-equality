@@ -45,6 +45,8 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 ## Stage 1. (Non-PhD -> PhD) How to Apply to PhD?
 
+1. (Andrew Kuznetsov, PhD@CMU) **CS/HCI PhD Opportunity Tracker from Twitter** (Developed in 2021). http://www.andrewkuz.net/hci-opportunities-2022.html
+
 1. (Prof Philip Guo@UCSD) **Finding CS Ph.D. programs to apply to**. [[Video](https://www.youtube.com/watch?v=hOSl3xPmHiQ&t=1s)]
 
 1. (Tim Dettmers, PhD@UW) **Machine Learning PhD Applications — Everything You Need to Know** (2018). [[Guide](https://timdettmers.com/2018/11/26/phd-applications/)]
