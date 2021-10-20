@@ -151,7 +151,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 ### How to Express Our Ideas: Writing Papers, Visualization, etc
 1. (Prof Jason Eisner@JHU) **How to write a paper?** (2010). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html)]
 1. (Simon Peyton Jones@Microsoft) **How to write a great research paper: Seven simple suggestions** (2014). [[Slides](https://www.cis.upenn.edu/~sweirich/icfp-plmw15/slides/peyton-jones.pdf)] [[Talk](https://www.microsoft.com/en-us/research/video/how-to-write-a-great-research-paper-3/)]
-
+1. (Prof Jennifer Widom@Stanford) **Tips for Writing Technical Papers** (2006). [[Suggestions](https://cs.stanford.edu/people/widom/paper-writing.html)]
 1. (Prof Shomir Wilson@Penn State University) **Guide for Scholarly Writing**. [[Suggestions](https://shomir.net/scholarly_writing.html)]
 1. (Prof Shomir Wilson@Penn State University) **Guide for Citations and References** [[Suggestions](https://shomir.net/citations_and_references.html)]
 1. (Carmine Gallo, a bestselling author) **The Storytellers Secret** (2016). [[Video](https://www.youtube.com/watch?v=RbA2eHO_YdY&ab_channel=TalksatGoogle)]
