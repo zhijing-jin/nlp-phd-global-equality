@@ -76,6 +76,10 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 12. (PhD students in NLP) **NLP with Friends Online Seminar Series (recordings available)** [[Seminar](https://nlpwithfriends.com/)]  
 (I am not sure where to put it but I find it to be a great way to learn about what others are doing in NLP)
+
+### Summer Research Opportunities
+1. **Summer research opportunities for Undergrads** (2021). [[Twitter Thread](https://twitter.com/lucy3_li/status/1453248835673800710)]
+
 ### Specific Suggestions
 
 1. (Prof Nathan Schneider@Georgetown University) **Inside Ph.D. admissions: What readers look for in a Statement of Purpose**. [[Article](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)]
