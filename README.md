@@ -98,6 +98,11 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 ### Improve Your Proficiency with Tools
 1. (MIT 2020) **The Missing Semester of Your CS Education** (e.g., master the command-line, ssh into remote machines, use fancy features of version control systems).  
 
+### Pursuing a Software Engineer Career Path
+1. (Steve Yegge@Google) **Get that job at Google** (2008). [[Article](https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html?fbclid=IwAR3B3OsSZF58-vNIRM5zjm3N4iTDuZq5EljF9LwCUdWO0hsDN_SzZc-CW_I)]
+1. (Carlos Bueno) **Get that job at Facebook** (2021). [[Article](https://www.facebook.com/notes/10158791572847200/)]
+1. **Coding practice from CareerCup**. [[Link](http://www.careercup.com/page)]
+
 ## Stage 2. (Doing PhD) How to Succeed in PhD?
 
 1. (Prof Isabelle Augenstein@UCopenhagen) **Increasing Well-Being in Academia** (2020). [[Suggestions](https://isabelle-augenstein.medium.com/increasing-well-being-in-academia-97f3ebc1599f)]
