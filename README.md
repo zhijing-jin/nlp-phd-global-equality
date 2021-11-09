@@ -165,7 +165,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 1. (Prof Shomir Wilson@Penn State University) **Guide for Citations and References** [[Suggestions](https://shomir.net/citations_and_references.html)]
 1. (Carmine Gallo, a bestselling author) **The Storytellers Secret** (2016). [[Video](https://www.youtube.com/watch?v=RbA2eHO_YdY&ab_channel=TalksatGoogle)]
   <br>Takeaways: Writing the Introduction section and giving talks can also be like telling a Hollywood story: the setting (what problem we are solving; how important it is), the villian (how difficult this problem is; how previous work cannot solve it well), and the superhero (what we propose). For giving talks, starting with personal stories (e.g., a story of grandma telling the kid not to drink and persist the right thing leading to the person's life pursuit on social justice) is very helpful to get the audience involved.
-
+1. (Maxwell Forbes@UW) **Figure Creation Tutorial: Making a Figure 1** (2021). [[Suggestions](https://maxwellforbes.com/posts/figure-creation-tutorial-making-a-figure-1)]
 1. UI design as a medium of thought: see Michael Nielsen's [explanation of why UI is important for science](https://michaelnielsen.org/blog/where-will-the-key-ideas-shaping-the-future-of-scientific-publishing-come-from/), [Bret Victor's work](http://worrydream.com/), [Miegakure](https://miegakure.com/) that visualizes a 4D environment.
 ### Reviewing, Publishing, Attending Conferences, Networking
 1. (Prof Yang Liu, Trevor Cohn, Bonnie Webber, and Yulan He) **Advice on Reviewing for EMNLP** (2020). [[Suggestions](https://2020.emnlp.org/blog/2020-05-17-write-good-reviews)]
