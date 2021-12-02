@@ -222,12 +222,17 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 1. (Mu Li@Amazon) **工作五年反思** (A Chinese article about reflections on the five years working in industry). [[Article](https://zhuanlan.zhihu.com/p/374777591)]
 
 ## Stage 4. (Being a Prof) How to get an academic position? And how to be a good prof?
+### List of Job Opportunities
+1. **Academic Jobs Online** https://academicjobsonline.org/ajo
+
 ### Professors' Sharing in Videos
 1. (Prof Devi Parikh and Prof Dhruv Batra@GaTech) **Humans of AI: Stories, Not Stats** [[YouTube](https://www.youtube.com/user/deviparikh)]
 1. (Prof Manuel Rigger@NUS) **Getting Academic Positions (GAP) Interviewing Series** (2021). [[YouTube Interview Videos](https://www.youtube.com/playlist?list=PLm7ofmclym1EjPJE4TbuyaKA9-ottVeRJ)]
 ### Overall Experience Sharing
 1. (Prof Philip J. Guo@UCSD) **Philip’s notes on the tenure-track assistant professor job search** (2013). [[Suggestions](https://pg.ucsd.edu/guo-faculty-job-search.pdf)]
-1. **Academic job search advice**
+
+**Academic job search advice**
+
 1. (Prof Nicolas Papernot@University of Toronto, Prof Elissa M. Redmiles@Max Planck Institute) **The academic job search for computer scientists in 10 questions**. [[Suggestions](https://docs.google.com/document/u/1/d/e/2PACX-1vSeOnC_QdaJVc3OuuMfDHVlk3QotUxvghytRFaDsrdA0uovD5axQjp8kJCM4Evu1cCf9Hg_u_Stabu1/pub)] 
 1. (Prof Caroline Trippel@Stanford) **The Academic Job Search: A Memoir** (2020). [[Suggestions](https://www.sigarch.org/the-academic-job-search-a-memoir-part-1/)]
 1. (Prof Shomir Wilson@Penn State University) **Guide for the Tenure-Track Job Market in Computer/Information Sciences** (2018). [[Suggestions](https://shomir.net/tt_job_guide.html)]
