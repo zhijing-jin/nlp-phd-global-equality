@@ -79,7 +79,11 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 ### Summer Research Opportunities
 1. **Summer research opportunities for Undergrads** (2021). [[Twitter Thread](https://twitter.com/lucy3_li/status/1453248835673800710)]
+1. (ETH) **ETH Summer Research Fellowship** (every summer). [[Apply](https://inf.ethz.ch/studies/summer-research-fellowship.html)]
+2. (MPI) **Summer Research Internship with MPI (CaCTüS)** (every summer). [[Apply](https://www.is.mpg.de/news/cactus-internship-initiative-launched)]
 
+### List of PhD Programs
+1. (Zhijing Jin, PhD@MPI & ETH) **Tips on PhD Applications with Max Planck Institute and/or ETH in AI** (2021). [[Suggestions](phd_program_mpi_and_eth)]
 ### Specific Suggestions
 
 1. (Prof Nathan Schneider@Georgetown University) **Inside Ph.D. admissions: What readers look for in a Statement of Purpose**. [[Article](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)]
@@ -133,6 +137,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 ### Internship
 1. (Elman Mansimov, Research Scientist@Amazon) **Tips on summer industry research internships in ML** (2021). [[Suggestions](https://twitter.com/elmanmansimov/status/1447576218535071747)]
+
 
 ### What Is Weekly Meeting with Advisors like?
 
