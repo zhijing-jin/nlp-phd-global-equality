@@ -83,7 +83,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 2. (MPI) **Summer Research Internship with MPI (CaCTüS)** (every summer). [[Apply](https://www.is.mpg.de/news/cactus-internship-initiative-launched)]
 
 ### List of PhD Programs
-1. (Zhijing Jin, PhD@MPI & ETH) **Tips on PhD Applications with Max Planck Institute and/or ETH in AI** (2021). [[Suggestions](phd_program_mpi_and_eth)]
+1. (Zhijing Jin, PhD@MPI & ETH) **Tips on PhD Applications with Max Planck Institute and/or ETH in AI** (2021). [[Suggestions](phd_program_mpi_and_eth.md)]
 ### Specific Suggestions
 
 1. (Prof Nathan Schneider@Georgetown University) **Inside Ph.D. admissions: What readers look for in a Statement of Purpose**. [[Article](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)]
