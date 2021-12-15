@@ -102,6 +102,11 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 ### Improve Your Proficiency with Tools
 1. (MIT 2020) **The Missing Semester of Your CS Education** (e.g., master the command-line, ssh into remote machines, use fancy features of version control systems).  
 
+### Where Do I Get GPU Computing Resources?
+1. Many people use Colab (and its Pro version costs 9.99$ per month)
+1. For more computationally intensive projects, you can apply to AWS with [credits for research](https://pages.awscloud.com/aws-cloud-credit-for-research.html).
+2. For general computational needs, you can use a Digitalocean droplet (5-10$ per month), and run your ubuntu machine with any service for some time.
+
 ### Pursuing a Software Engineer Career Path
 1. (Steve Yegge@Google) **Get that job at Google** (2008). [[Article](https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html?fbclid=IwAR3B3OsSZF58-vNIRM5zjm3N4iTDuZq5EljF9LwCUdWO0hsDN_SzZc-CW_I)]
 1. (Carlos Bueno) **Get that job at Facebook** (2021). [[Article](https://www.facebook.com/notes/10158791572847200/)]
