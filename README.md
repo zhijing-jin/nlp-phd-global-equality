@@ -270,6 +270,9 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 1. (Prof Shomir Wilson@Penn State University, motivation and usage of writing guides down) **Guide to the Advice** [[Article](https://shomir.net/thoughts_on_the_advice.html)]
 
+1. (Prof Randy Pausch@CMU) **Time management** (2007). [[Video](https://www.youtube.com/watch?v=oTugjssqOT0)] [[Slides](http://www.cs.virginia.edu/~robins/Randy/RandyPauschTimeManagement2007.pdf)]
+
+
 ## Stage 5. (Whole Career Path) How to live out a life career as an NLP researcher?
 
 1. (Prof Charles Ling@Western University, Prof Qiang Yang@HKUST)**Crafting Your Research Future: A Guide to Successful Master's and Ph.D. Degrees in Science & Engineering**. [[Book](https://www.morganclaypool.com/doi/abs/10.2200/S00412ED1V01Y201203ENG018)]
