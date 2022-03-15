@@ -45,6 +45,8 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 ## Stage 1. (Non-PhD -> PhD) How to Apply to PhD?
 
+1. (Marek Rei, Lecturer@Imperial College London) **Advice for students doing research projects in ML/NLP** (2022). [[Suggestions](https://www.marekrei.com/blog/mphil-project-advice/)]
+
 1. (Andrew Kuznetsov, PhD@CMU) **CS/HCI PhD Opportunity Tracker from Twitter** (Developed in 2021). http://www.andrewkuz.net/hci-opportunities-2022.html
 
 1. (Prof Philip Guo@UCSD) **Finding CS Ph.D. programs to apply to**. [[Video](https://www.youtube.com/watch?v=hOSl3xPmHiQ&t=1s)]
@@ -117,6 +119,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 1. (Prof Isabelle Augenstein@UCopenhagen) **Increasing Well-Being in Academia** (2020). [[Suggestions](https://isabelle-augenstein.medium.com/increasing-well-being-in-academia-97f3ebc1599f)]
 
 1. (Sebastian Ruder@DeepMind) **10 Tips for Research and a PhD** (2020) . [[Suggestions](https://ruder.io/10-tips-for-research-and-a-phd/)]
+
 2. (Maxwell Forbes, PhD@UW) **Every PhD Is Different**. [[Suggestions](https://maxwellforbes.com/posts/every-phd-is-different)]
 
 2. (Prof Mark Dredze@JHU, Prof Hanna M. Wallach@UMass Amherst) **How to be a successful PhD student (in computer science (in NLP/ML))**. [[Suggestions](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)]
