@@ -10,7 +10,7 @@ Below is a subset of them that I am familiar with:
 1. (Often by end of Nov) [Max Planck ETH Center for Learning Systems](https://learning-systems.org/apply)
 
 2. (Often by Nov~Dec) [Cambridge – Tübingen PhD Fellowships in Machine Learning](http://mlg.eng.cam.ac.uk/?page_id=659), e.g., [this call](https://www.is.mpg.de/jobs/cambridge-tubingen-phd-fellowships-in-machine-learning)
-3. (Often by Nov 15) ELLIS PhD Program, e.g., [this call](https://ellis.eu/news/ellis-phd-program-call-for-applications-deadline-november-15-2021)
+3. (Often by Nov 15) ELLIS PhD Program, e.g., [this call for 2022](https://twitter.com/ELLISforEurope/status/1564962787335585792)
 4. (Often by Nov 1) PhD with [International Max Planck Research Schools (IMPRS)](https://imprs.is.mpg.de/application)
 5. (Any time of the year) Interview directly with MPI you are interested in, and then the admin can involve you in [International Max Planck Research Schools (IMPRS)](https://imprs.is.mpg.de/application), or your degree can also come from a local university near your MPI, e.g., University of Tuebingen.
 6. (Often by Dec 15) [ETH Direct Doctorate in Computer Science](https://inf.ethz.ch/doctorate/direct-doctorate-computer-science.html)
