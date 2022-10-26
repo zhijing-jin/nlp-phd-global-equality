@@ -295,6 +295,10 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 7. (Prof Radhika Nagpal@Harvard) **The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life** (2013). [[Article](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)]
 
+**Sample Writing**
+1. (Prof Anjalie Field@JHU) **Research Statements** (2022). [[List](https://anjalief.github.io/statements.html)]
+
+
 ### Learning about Different Schools
 
 - Different types of schools: https://carnegieclassifications.iu.edu/classification_descriptions/basic.php
