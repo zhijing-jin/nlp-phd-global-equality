@@ -172,11 +172,16 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 ### How to Read Papers
 
-3. (Prof Srinivasan Keshav@Cambridge) **How to Read a Paper** (2007). [[Suggestions](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)]
+Literature review tools:
 
-4. (Prof Jason Eisner@JHU) **How to Read a Technical Paper** (2009). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)]
+1. **Connected Papers** (which shows a graph of related papers) [[link](https://www.connectedpapers.com/)]
+2. (Built by Papers with Code) **Glactica** (using language models to generate literature review) [[link](https://galactica.org/mission/)]
 
-5. (Prof Emily M. Bender@UW) **Critical Reading** (2003). [[Suggestions](https://faculty.washington.edu/ebender/critical_reading.pdf)]
+Paper reading suggestions:
+
+1. (Prof Srinivasan Keshav@Cambridge) **How to Read a Paper** (2007). [[Suggestions](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)]
+2. (Prof Jason Eisner@JHU) **How to Read a Technical Paper** (2009). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)]
+3. (Prof Emily M. Bender@UW) **Critical Reading** (2003). [[Suggestions](https://faculty.washington.edu/ebender/critical_reading.pdf)]
 
 ### How to Express Our Ideas: Writing Papers, Visualization, etc
 
@@ -245,15 +250,15 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 1. (Daricia Wilkinson, PhD@Clemson) **Towards Securing the Bag: Tips for Successful PhD Fellowship Applications** (2019). [[Article](https://medium.com/@dariciaw/towards-securing-the-bag-tips-for-successful-phd-fellowship-submissions-2afa26d76d9f)]
 
-1. (Meta) **Five tips for a successful Meta Research PhD Fellowship application from the people who review them** (2020). [[link](https://research.facebook.com/blog/2020/9/five-tips-for-a-successful-facebook-fellowship-application-from-the-people-who-review-them/)]
+2. (Meta) **Five tips for a successful Meta Research PhD Fellowship application from the people who review them** (2020). [[link](https://research.facebook.com/blog/2020/9/five-tips-for-a-successful-facebook-fellowship-application-from-the-people-who-review-them/)]
 
-1. (Meta) **The six most common Fellowship questions, answered by Facebook Fellow Moses Namara** (2020). [[link](https://research.facebook.com/blog/2020/08/the-six-most-common-fellowship-questions-answered-by-facebook-fellow-moses-namara/)]
+3. (Meta) **The six most common Fellowship questions, answered by Facebook Fellow Moses Namara** (2020). [[link](https://research.facebook.com/blog/2020/08/the-six-most-common-fellowship-questions-answered-by-facebook-fellow-moses-namara/)]
 
-1. (Meta) **Fellowship 101: Facebook Fellow Daricia Wilkinson outlines the basics for PhDs** (2020). [[link](https://research.facebook.com/blog/2020/8/fellowship-101-facebook-fellow-daricia-wilkinson-outlines-the-basics-for-phds/)]
+4. (Meta) **Fellowship 101: Facebook Fellow Daricia Wilkinson outlines the basics for PhDs** (2020). [[link](https://research.facebook.com/blog/2020/8/fellowship-101-facebook-fellow-daricia-wilkinson-outlines-the-basics-for-phds/)]
 
-1. (Meta) **Applying twice: How Facebook Fellow David Pujol adjusted his application for success** (2020). [[link](https://research.facebook.com/blog/2020/9/applying-twice-how-facebook-fellow-david-pujol-adjusted-his-application-for-success/)]
+5. (Meta) **Applying twice: How Facebook Fellow David Pujol adjusted his application for success** (2020). [[link](https://research.facebook.com/blog/2020/9/applying-twice-how-facebook-fellow-david-pujol-adjusted-his-application-for-success/)]
 
-1. (Meta) **Fellow spotlights, career advice, and more** (up to date). [[link](https://research.facebook.com/tag/meta-research-phd-fellowship-program/)]
+6. (Meta) **Fellow spotlights, career advice, and more** (up to date). [[link](https://research.facebook.com/tag/meta-research-phd-fellowship-program/)]
 
 ### Other Books
 
@@ -296,6 +301,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 7. (Prof Radhika Nagpal@Harvard) **The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life** (2013). [[Article](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)]
 
 **Sample Writing**
+
 1. (Prof Anjalie Field@JHU) **Research Statements** (2022). [[List](https://anjalief.github.io/statements.html)]
 
 
