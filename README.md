@@ -5,7 +5,7 @@ so that success will be a reward to those who are determined and hardworking, re
 
 One non-negligible reason for success is **access to information**, such as (1) knowing what a PhD in NLP is like, (2) knowing what top grad schools look for when reviewing PhD applications, (3) broadening your horizon of what is _good work_, (4) knowing how careers in NLP in both academia and industry are like, and many others.
 
-**Contributor:** [Zhijing Jin](http://zhijing-jin.com) (PhD student in NLP at Max Planck Institute, co-organizer of the [ACL Year-Round Mentorship Program](https://acl-mentorship.github.io)).
+**Contributor:** [Zhijing Jin](http://zhijing-jin.com) (PhD student in NLP at Max Planck Institute & ETH, co-organizer of the [ACL Year-Round Mentorship Program](https://acl-mentorship.github.io)).
 
 You are welcome to be a collaborator, -- you can make an issue/pull request, and I can add you :).
 
@@ -14,29 +14,40 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 ## Contents (Actively Updating)
 
-- [Top Resources](#top-resources)
-- [Stage 1. (Non-PhD -> PhD) How to Apply to PhD?](#stage-1-non-phd---phd-how-to-apply-to-phd)
-  - [Specific Suggestions](#specific-suggestions)
-  - [Improve Your Proficiency with Tools](#improve-your-proficiency-with-tools)
-- [Stage 2. (Doing PhD) How to Succeed in PhD?](#stage-2-doing-phd-how-to-succeed-in-phd)
-  - [What Is Weekly Meeting with Advisors like?](#what-is-weekly-meeting-with-advisors-like)
-  - [Coming Up with Good Research Ideas](#coming-up-with-good-research-ideas)
-  - [How to Read Papers](#how-to-read-papers)
-  - [How to Express Our Ideas: Writing Papers, Visualization, etc](#how-to-express-our-ideas-writing-papers-visualization-etc)
-  - [Reviewing, Publishing, Attending Conferences, Networking](#reviewing-publishing-attending-conferences-networking)
-  - [Memoir-Like Narratives](#memoir-like-narratives)
-  - [Excel Your Research](#excel-your-research)
-  - [Other Books](#Other-Books)
-- [Stage 3. (After PhD -> Industry) How is life as an industry researcher?](#stage-3-after-phd---industry-how-is-life-as-an-industry-researcher)
-- [Stage 4. (Being a Prof) How to get an academic position? And how to be a good prof?](#stage-4-being-a-prof-how-to-get-an-academic-position-and-how-to-be-a-good-prof)
-  - [Professors' Sharing in Videos](#professors-sharing-in-videos)
-  - [Overall Experience Sharing](#overall-experience-sharing)
-  - [Learning about Different Schools](#learning-about-different-schools)
-  - [Preparing the Application Materials](#preparing-the-application-materials)
-  - [Starting as a Professor](#starting-as-a-professor)
-- [Stage 5. (Whole Career Path) How to live out a life career as an NLP research?](#stage-5-whole-career-path-how-to-live-out-a-life-career-as-an-nlp-research)
-- [Further Readings: Technical Materials to Improve Your NLP Research Skills](#further-readings-technical-materials-to-improve-your-nlp-research-skills)
-- [Contributions](#contributions)
+1. [Contents (Actively Updating)](#contents-actively-updating)
+2. [Top Resources](#top-resources)
+3. [Stage 1. (Non-PhD -> PhD) How to Apply to PhD?](#stage-1-non-phd---phd-how-to-apply-to-phd)
+   * [Prereq: Getting Yourself the "Entry Ticket"](#prereq-getting-yourself-the-entry-ticket)
+   * [Prereq: Getting the Tools Ready](#prereq-getting-the-tools-ready)
+     - [Where Do I Get GPU Computing Resources?](#where-do-i-get-gpu-computing-resources)
+     - [Improve Your Proficiency with Tools](#improve-your-proficiency-with-tools)
+   * [Starting to Do Research](#starting-to-do-research)
+   * [Alternative Path: Pursuing a Software Engineer Career Path](#alternative-path-pursuing-a-software-engineer-career-path)
+4. [Stage 2. (Doing PhD) How to Succeed in PhD?](#stage-2-doing-phd-how-to-succeed-in-phd)
+   * [What Is Weekly Meeting with Mentors/Advisors like?](#what-is-weekly-meeting-with-mentorsadvisors-like)
+   * [How to Read Papers](#how-to-read-papers)
+   * [How to Express Our Ideas: Writing Papers, Visualization, etc](#how-to-express-our-ideas-writing-papers-visualization-etc)
+   * [Reviewing, Publishing, Attending Conferences, Networking](#reviewing-publishing-attending-conferences-networking)
+   * [Memoir-Like Narratives](#memoir-like-narratives)
+   * [Excel Your Research](#excel-your-research)
+   * [Coming Up with Good Research Ideas](#coming-up-with-good-research-ideas)
+   * [Internship](#internship)
+   * [Grad School Fellowships](#grad-school-fellowships)
+   * [Other Books](#other-books)
+5. [Stage 3. (After PhD -> Industry) How is life as an industry researcher?](#stage-3-after-phd---industry-how-is-life-as-an-industry-researcher)
+6. [Stage 4. (Being a Prof) How to get an academic position? And how to be a good prof?](#stage-4-being-a-prof-how-to-get-an-academic-position-and-how-to-be-a-good-prof)
+   * [List of Job Opportunities](#list-of-job-opportunities)
+   * [Professors' Sharing in Videos](#professors-sharing-in-videos)
+   * [Overall Experience Sharing](#overall-experience-sharing)
+   * [Learning about Different Schools](#learning-about-different-schools)
+   * [Preparing the Application Materials](#preparing-the-application-materials)
+   * [Starting as a Professor](#starting-as-a-professor)
+7. [Stage 5. (Whole Career Path) How to live out a life career as an NLP researcher?](#stage-5-whole-career-path-how-to-live-out-a-life-career-as-an-nlp-researcher)
+   * [Massive collaboration can help science](#massive-collaboration-can-help-science)
+8. [Further Readings: Technical Materials to Improve Your NLP Research Skills](#further-readings-technical-materials-to-improve-your-nlp-research-skills)
+9. [Others](#others)
+10. [Contributions](#contributions)
+11. [How to Cite This Repo](#how-to-cite-this-repo)
 
 ## Top Resources
 
@@ -79,42 +90,43 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 16. (PhD students in NLP) **NLP with Friends Online Seminar Series (recordings available)** [[Seminar](https://nlpwithfriends.com/)]  
     (I am not sure where to put it but I find it to be a great way to learn about what others are doing in NLP)
 
-### Summer Research Opportunities
+### Prereq: Getting Yourself the "Entry Ticket"
+
+1. (Prof Nathan Schneider@Georgetown University) **Inside Ph.D. admissions: What readers look for in a Statement of Purpose**. [[Article](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)]
+2. (Eugene Vinitsky, PhD@UC Berkeley) **A Guide to Cold Emailing** (2020). [[Article](https://eugenevinitsky.github.io/posts/2020-12-25-coldemails.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)]
+3. (Prof Shomir Wilson@Penn State University) **Guide for Interacting With Faculty** (2018). [[Suggestions](https://shomir.net/teaching_faq.html)]
+4. (Prof Shomir Wilson@Penn State University) **Reference Letter Procedure**. [[Suggestions](https://shomir.net/reference_procedure.html)]
+5. (Nelson Liu, PhD@Stanfard) **PhD Statement of Purpose**. [[Article](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/)]
+6. (Suchin Gururangan, PhD@University of Washington) **Personal Statement Advice**. [[Article](https://suchin.io/personal-statement-advice/)]
+
+**Existing Summer Research Opportunities:**
 
 1. **Summer research opportunities for Undergrads** (2021). [[Twitter Thread](https://twitter.com/lucy3_li/status/1453248835673800710)]
 2. (ETH) **ETH Summer Research Fellowship** (every summer). [[Apply](https://inf.ethz.ch/studies/summer-research-fellowship.html)]
 3. (MPI) **Summer Research Internship with MPI (CaCTüS)** (every summer). [[Apply](https://www.is.mpg.de/news/cactus-internship-initiative-launched)]
 
-### List of PhD Programs
+**PhD Programs:**
 
 1. (Zhijing Jin, PhD@MPI & ETH) **Tips on PhD Applications with Max Planck Institute and/or ETH in AI** (2021). [[Suggestions](phd_program_mpi_and_eth.md)]
 
-### Specific Suggestions
 
-1. (Prof Nathan Schneider@Georgetown University) **Inside Ph.D. admissions: What readers look for in a Statement of Purpose**. [[Article](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)]
+### Prereq: Getting the Tools Ready
 
-2. (Eugene Vinitsky, PhD@UC Berkeley) **A Guide to Cold Emailing** (2020). [[Article](https://eugenevinitsky.github.io/posts/2020-12-25-coldemails.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)]
-
-3. (Prof Shomir Wilson@Penn State University) **Guide for Interacting With Faculty** (2018). [[Suggestions](https://shomir.net/teaching_faq.html)]
-
-4. (Prof Shomir Wilson@Penn State University) **Reference Letter Procedure**. [[Suggestions](https://shomir.net/reference_procedure.html)]
-
-5. (Nelson Liu, PhD@Stanfard) **PhD Statement of Purpose**. [[Article](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/)]
-
-6. (Suchin Gururangan, PhD@University of Washington) **Personal Statement Advice**. [[Article](https://suchin.io/personal-statement-advice/)]
-
-
-### Improve Your Proficiency with Tools
-
-1. (MIT 2020) **The Missing Semester of Your CS Education** (e.g., master the command-line, ssh into remote machines, use fancy features of version control systems).  
-
-### Where Do I Get GPU Computing Resources?
+#### Where Do I Get GPU Computing Resources?
 
 1. Many people use Colab (and its Pro version costs 9.99$ per month)
 2. For more computationally intensive projects, you can apply to AWS with [credits for research](https://pages.awscloud.com/aws-cloud-credit-for-research.html).
 3. For general computational needs, you can use a Digitalocean droplet (5-10$ per month), and run your ubuntu machine with any service for some time.
 
-### Pursuing a Software Engineer Career Path
+####  Improve Your Proficiency with Tools
+
+1. (MIT 2020) **The Missing Semester of Your CS Education** (e.g., master the command-line, ssh into remote machines, use fancy features of version control systems).  
+
+### Starting to Do Research
+
+Check all the specific suggestions under "Stage 2. (Doing PhD) How to Succeed in PhD?", such as the sections "What Is Weekly Meeting with Advisors like?", "How to Read Papers", and many others that you might need :).
+
+### Alternative Path: Pursuing a Software Engineer Career Path
 
 1. (Steve Yegge@Google) **Get that job at Google** (2008). [[Article](https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html?fbclid=IwAR3B3OsSZF58-vNIRM5zjm3N4iTDuZq5EljF9LwCUdWO0hsDN_SzZc-CW_I)]
 2. (Carlos Bueno) **Get that job at Facebook** (2021). [[Article](https://www.facebook.com/notes/10158791572847200/)]
@@ -149,26 +161,12 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 14. (Karl Stratos) **A Note to a Prospective Student**. [[Suggestions](http://karlstratos.com/#student)]
 
-### Internship
 
-1. (Elman Mansimov, Research Scientist@Amazon) **Tips on summer industry research internships in ML** (2021). [[Suggestions](https://twitter.com/elmanmansimov/status/1447576218535071747)]
-
-
-### What Is Weekly Meeting with Advisors like?
+### What Is Weekly Meeting with Mentors/Advisors like?
 
 1. (Prof Jason Eisner@JHU) **What do PhD students talk about in their once-a-week meetings with their advisers during their first year?** (2015). [[Article](https://www.quora.com/What-do-PhD-students-talk-about-in-their-once-a-week-meetings-with-their-advisers-during-their-first-year/answer/Jason-Eisner?share=1)]
-
 2. (Brown University) **Guide to Meetings with Your Advisor**. [[Suggestions](https://www.brown.edu/academics/gradschool/academics-research/graduate-advising-and-mentoring/advising-and-mentoring-resources-students/guide-m)]
-
-### Coming Up with Good Research Ideas
-
-1. (Prof Jia-Bin Huang@UMaryland) **How to come up with research ideas?** (2021). [[Suggestions](https://twitter.com/jbhuang0604/status/1423499757591400448)]
-
-2. (John Schulman, co-founder of OpenAI) **An Opinionated Guide to ML Research (e.g., horning your taste)** (2020). [[Suggestions](http://joschu.net/blog/opinionated-guide-ml-research.html)]
-   <br> _Interesting snippets: "Goal-driven. Develop a vision of some new AI capabilities you’d like to achieve, and solve problems that bring you closer to that goal.", "If you are working on incremental ideas, be aware that their usefulness depends on their complexity.", "Consider how the biggests bursts of impactful work tend to be tightly clustered in a small number of research groups and institutions. That’s not because these people are dramatically smarter than everyone else, it’s because they have a higher density of expertise and perspective, which puts them a little ahead of the rest of the community, and thus they dominate in generating new results.", "Early on in your career, I recommend splitting your time about evenly between textbooks and papers. You should choose a small set of relevant textbooks and theses to gradually work through, and you should also reimplement the models and algorithms from your favorite papers."_
-
-3. (Prof Fei-Fei Li@Stanford) **De-Mystifying Good Research and Good Papers** (2014). [[Suggestions](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)]
-   <br>_Interesting snippets: "This means publishing papers is NOT about “this has not been published or written before, let me do it”, nor is it about “let me find an arcane little problem that can get me an easy poster”. It’s about “if I do this, I could offer a better solution to this important problem,” or “if I do this, I could add a genuinely new and important piece of knowledge to the field.” You should always conduct research with the goal that it could be directly used by many people (or industry). In other words, your research topic should have many ‘customers’, and your solution would be the one they want to use. A good research project is not about the past (i.e. obtaining a higher performance than the previous N papers). It’s **about the future (i.e. inspiring N future papers to follow and cite you, N->\inf)**."_
+3. (Prof Jia-Bin Huang@UMaryland) **How to have effective regular meetings with your advisors/mentors?** (2023). [[Suggestions](https://twitter.com/jbhuang0604/status/1653614931202195458)]
 
 ### How to Read Papers
 
@@ -189,13 +187,13 @@ Paper reading suggestions:
 2. (Simon Peyton Jones@Microsoft) **How to write a great research paper: Seven simple suggestions** (2014). [[Slides](https://www.cis.upenn.edu/~sweirich/icfp-plmw15/slides/peyton-jones.pdf)] [[Talk](https://www.microsoft.com/en-us/research/video/how-to-write-a-great-research-paper-3/)]
 3. (Prof Jennifer Widom@Stanford) **Tips for Writing Technical Papers** (2006). [[Suggestions](https://cs.stanford.edu/people/widom/paper-writing.html)]
 4. (Prof Shomir Wilson@Penn State University) **Guide for Scholarly Writing**. [[Suggestions](https://shomir.net/scholarly_writing.html)]
-1. (Prof Jia-Bin Huang@U Maryland) **How to write the introduction (and also the What-Why-How figures)**. [[Tweet](https://twitter.com/jbhuang0604/status/1638029732347367429)]
-1. (Prof Michael Black@Max Planck Institute) **Twitter Thread about "Writing is laying out your logical thoughts"**. [[Tweet](https://twitter.com/Michael_J_Black/status/1598957619301187584)]
-5. (Prof Shomir Wilson@Penn State University) **Guide for Citations and References** [[Suggestions](https://shomir.net/citations_and_references.html)]
-6. (Carmine Gallo, a bestselling author) **The Storytellers Secret** (2016). [[Video](https://www.youtube.com/watch?v=RbA2eHO_YdY&ab_channel=TalksatGoogle)]
+5. (Prof Jia-Bin Huang@U Maryland) **How to write the introduction (and also the What-Why-How figures)**. [[Tweet](https://twitter.com/jbhuang0604/status/1638029732347367429)]
+6. (Prof Michael Black@Max Planck Institute) **Twitter Thread about "Writing is laying out your logical thoughts"**. [[Tweet](https://twitter.com/Michael_J_Black/status/1598957619301187584)]
+7. (Prof Shomir Wilson@Penn State University) **Guide for Citations and References** [[Suggestions](https://shomir.net/citations_and_references.html)]
+8. (Carmine Gallo, a bestselling author) **The Storytellers Secret** (2016). [[Video](https://www.youtube.com/watch?v=RbA2eHO_YdY&ab_channel=TalksatGoogle)]
    <br>Takeaways: Writing the Introduction section and giving talks can also be like telling a Hollywood story: the setting (what problem we are solving; how important it is), the villian (how difficult this problem is; how previous work cannot solve it well), and the superhero (what we propose). For giving talks, starting with personal stories (e.g., a story of grandma telling the kid not to drink and persist the right thing leading to the person's life pursuit on social justice) is very helpful to get the audience involved.
-7. (Maxwell Forbes@UW) **Figure Creation Tutorial: Making a Figure 1** (2021). [[Suggestions](https://maxwellforbes.com/posts/figure-creation-tutorial-making-a-figure-1)]
-8. UI design as a medium of thought: see Michael Nielsen's [explanation of why UI is important for science](https://michaelnielsen.org/blog/where-will-the-key-ideas-shaping-the-future-of-scientific-publishing-come-from/), [Bret Victor's work](http://worrydream.com/), [Miegakure](https://miegakure.com/) that visualizes a 4D environment.
+9. (Maxwell Forbes@UW) **Figure Creation Tutorial: Making a Figure 1** (2021). [[Suggestions](https://maxwellforbes.com/posts/figure-creation-tutorial-making-a-figure-1)]
+10. UI design as a medium of thought: see Michael Nielsen's [explanation of why UI is important for science](https://michaelnielsen.org/blog/where-will-the-key-ideas-shaping-the-future-of-scientific-publishing-come-from/), [Bret Victor's work](http://worrydream.com/), [Miegakure](https://miegakure.com/) that visualizes a 4D environment.
 
 ### Reviewing, Publishing, Attending Conferences, Networking
 
@@ -236,6 +234,20 @@ Paper reading suggestions:
 
 6. (Tim Dettmers, PhD@UW) **On Creativity in Academia** (2019). [[Article](https://timdettmers.com/2019/09/03/creativity-in-academia/)]
 
+### Coming Up with Good Research Ideas
+
+1. (Prof Jia-Bin Huang@UMaryland) **How to come up with research ideas?** (2021). [[Suggestions](https://twitter.com/jbhuang0604/status/1423499757591400448)]
+
+2. (John Schulman, co-founder of OpenAI) **An Opinionated Guide to ML Research (e.g., horning your taste)** (2020). [[Suggestions](http://joschu.net/blog/opinionated-guide-ml-research.html)]
+   <br> _Interesting snippets: "Goal-driven. Develop a vision of some new AI capabilities you’d like to achieve, and solve problems that bring you closer to that goal.", "If you are working on incremental ideas, be aware that their usefulness depends on their complexity.", "Consider how the biggests bursts of impactful work tend to be tightly clustered in a small number of research groups and institutions. That’s not because these people are dramatically smarter than everyone else, it’s because they have a higher density of expertise and perspective, which puts them a little ahead of the rest of the community, and thus they dominate in generating new results.", "Early on in your career, I recommend splitting your time about evenly between textbooks and papers. You should choose a small set of relevant textbooks and theses to gradually work through, and you should also reimplement the models and algorithms from your favorite papers."_
+
+3. (Prof Fei-Fei Li@Stanford) **De-Mystifying Good Research and Good Papers** (2014). [[Suggestions](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)]
+   <br>_Interesting snippets: "This means publishing papers is NOT about “this has not been published or written before, let me do it”, nor is it about “let me find an arcane little problem that can get me an easy poster”. It’s about “if I do this, I could offer a better solution to this important problem,” or “if I do this, I could add a genuinely new and important piece of knowledge to the field.” You should always conduct research with the goal that it could be directly used by many people (or industry). In other words, your research topic should have many ‘customers’, and your solution would be the one they want to use. A good research project is not about the past (i.e. obtaining a higher performance than the previous N papers). It’s **about the future (i.e. inspiring N future papers to follow and cite you, N->\inf)**."_
+
+### Internship
+
+1. (Elman Mansimov, Research Scientist@Amazon) **Tips on summer industry research internships in ML** (2021). [[Suggestions](https://twitter.com/elmanmansimov/status/1447576218535071747)]
+
 ### Grad School Fellowships
 
 **List of fellowship opportunities to track:**
@@ -274,7 +286,8 @@ Paper reading suggestions:
 
 ## Stage 3. (After PhD -> Industry) How is life as an industry researcher?
 
-1. (Mu Li@Amazon) **工作五年反思** (A Chinese article about reflections on the five years working in industry). [[Article](https://zhuanlan.zhihu.com/p/374777591)]
+1. (Wes Weimer@UMich, Claire Le Goues@CMU, Zak Fry@GrammaTech, Kevin Leach@Vanderbilt U, Yu Huang@Vanderbilt U, and Kevin Angstadt@St. Lawrence University) **Finding Jobs** (2021). [[Guide](https://csguides.github.io/grad-job-guide/jobs/)]
+2. (Mu Li@Amazon) **工作五年反思** (A Chinese article about reflections on the five years working in industry) (2021). [[Article](https://zhuanlan.zhihu.com/p/374777591)]
 
 ## Stage 4. (Being a Prof) How to get an academic position? And how to be a good prof?
 
@@ -290,6 +303,7 @@ Paper reading suggestions:
 ### Overall Experience Sharing
 
 1. (Prof Philip J. Guo@UCSD) **Philip’s notes on the tenure-track assistant professor job search** (2013). [[Suggestions](https://pg.ucsd.edu/guo-faculty-job-search.pdf)]
+2. (Wes Weimer@UMich, Claire Le Goues@CMU, Zak Fry@GrammaTech, Kevin Leach@Vanderbilt U, Yu Huang@Vanderbilt U, and Kevin Angstadt@St. Lawrence University) **CS Grad Job and Interview Guide** (2021). [[Guide](https://csguides.github.io/grad-job-guide/)]
 
 **Academic job search advice**
 
