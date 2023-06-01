@@ -18,40 +18,40 @@ One non-negligible reason for success is **access to information**, such as (1) 
 
 1. [Top Resources](#top-resources)
 2. [Stage 1. (Non-PhD -> PhD) How to Apply for a PhD?](#stage-1-non-phd---phd-how-to-apply-for-a-phd)
-    * [PhD Application Tips](#phd-application-tips)
-        - [Should I Do a PhD?](#should-i-do-a-phd)
-        - [How Do Applications Work?](#how-do-applications-work)
-        - [Which Schools Should I Apply For?](#which-schools-should-i-apply-for)
-        - [How to Prepare for the SOP, Rec Letter, etc.](#how-to-prepare-for-the-sop-rec-letter-etc)
-    * [Prereq: Getting Pre-PhD Research Opportunities](#prereq-getting-pre-phd-research-opportunities)
-    * [Prereq: Getting the Tools Ready](#prereq-getting-the-tools-ready)
-        - [Where Do I Get GPU Computing Resources?](#where-do-i-get-gpu-computing-resources)
-        - [Improve Your Proficiency with Tools](#improve-your-proficiency-with-tools)
-    * [Starting to Do Research](#starting-to-do-research)
-    * [Alternative Path: Pursuing a Software Engineer Career Path](#alternative-path-pursuing-a-software-engineer-career-path)
+   * [PhD Application Tips](#phd-application-tips)
+     - [Should I Do a PhD?](#should-i-do-a-phd)
+     - [How Do Applications Work?](#how-do-applications-work)
+     - [Which Schools Should I Apply For?](#which-schools-should-i-apply-for)
+     - [How to Prepare for the SOP, Rec Letter, etc.](#how-to-prepare-for-the-sop-rec-letter-etc)
+   * [Prereq: Getting Pre-PhD Research Opportunities](#prereq-getting-pre-phd-research-opportunities)
+   * [Prereq: Getting the Tools Ready](#prereq-getting-the-tools-ready)
+     - [Where Do I Get GPU Computing Resources?](#where-do-i-get-gpu-computing-resources)
+     - [Improve Your Proficiency with Tools](#improve-your-proficiency-with-tools)
+   * [Starting to Do Research](#starting-to-do-research)
+   * [Alternative Path: Pursuing a Software Engineer Career Path](#alternative-path-pursuing-a-software-engineer-career-path)
 3. [Stage 2. (Doing PhD) How to Succeed in PhD?](#stage-2-doing-phd-how-to-succeed-in-phd)
-    * [Overall Guides](#overall-guides)
-    * [Timely Topic: Surviving NLP in the Era of LLMs](#timely-topic-surviving-nlp-in-the-era-of-llms)
-    * [What Are Weekly Meetings with Mentors/Advisors like?](#what-are-weekly-meetings-with-mentorsadvisors-like)
-    * [How to Read Papers](#how-to-read-papers)
-    * [How to Express Our Ideas: Writing Papers, Visualization, etc](#how-to-express-our-ideas-writing-papers-visualization-etc)
-    * [Reviewing, Publishing, Attending Conferences, Networking](#reviewing-publishing-attending-conferences-networking)
-    * [Memoir-Like Narratives](#memoir-like-narratives)
-    * [Excel Your Research](#excel-your-research)
-    * [Coming Up with Good Research Ideas](#coming-up-with-good-research-ideas)
-    * [Internship](#internship)
-    * [Grad School Fellowships](#grad-school-fellowships)
-    * [Books](#books)
+   * [Overall Guides](#overall-guides)
+   * [Timely Topic: Surviving NLP in the Era of LLMs](#timely-topic-surviving-nlp-in-the-era-of-llms)
+   * [What Are Weekly Meetings with Mentors/Advisors like?](#what-are-weekly-meetings-with-mentorsadvisors-like)
+   * [How to Read Papers](#how-to-read-papers)
+   * [How to Express Our Ideas: Writing Papers, Visualization, etc](#how-to-express-our-ideas-writing-papers-visualization-etc)
+   * [Reviewing, Publishing, Attending Conferences, Networking](#reviewing-publishing-attending-conferences-networking)
+   * [Memoir-Like Narratives](#memoir-like-narratives)
+   * [Excel Your Research](#excel-your-research)
+   * [Coming Up with Good Research Ideas](#coming-up-with-good-research-ideas)
+   * [Internship](#internship)
+   * [Grad School Fellowships](#grad-school-fellowships)
+   * [Books](#books)
 4. [Stage 3. (After PhD -> Industry) How is life as an industry researcher?](#stage-3-after-phd---industry-how-is-life-as-an-industry-researcher)
 5. [Stage 4. (Being a Prof) How to get an academic position? And how to be a good prof?](#stage-4-being-a-prof-how-to-get-an-academic-position-and-how-to-be-a-good-prof)
-    * [List of Job Opportunities](#list-of-job-opportunities)
-    * [Professors' Sharing in Videos](#professors-sharing-in-videos)
-    * [Overall Experience Sharing](#overall-experience-sharing)
-    * [Learning about Different Schools](#learning-about-different-schools)
-    * [Preparing the Application Materials](#preparing-the-application-materials)
-    * [Starting as a Professor](#starting-as-a-professor)
+   * [List of Job Opportunities](#list-of-job-opportunities)
+   * [Professors' Sharing in Videos](#professors-sharing-in-videos)
+   * [Overall Experience Sharing](#overall-experience-sharing)
+   * [Learning about Different Schools](#learning-about-different-schools)
+   * [Preparing the Application Materials](#preparing-the-application-materials)
+   * [Starting as a Professor](#starting-as-a-professor)
 6. [Stage 5. (Whole Career Path) How to live out a life career as an NLP researcher?](#stage-5-whole-career-path-how-to-live-out-a-life-career-as-an-nlp-researcher)
-    * [Massive collaboration can help science](#massive-collaboration-can-help-science)
+   * [Massive collaboration can help science](#massive-collaboration-can-help-science)
 7. [Further Readings: Technical Materials to Improve Your NLP Research Skills](#further-readings-technical-materials-to-improve-your-nlp-research-skills)
 8. [Others](#others)
 9. [Contributions](#contributions)
@@ -158,7 +158,8 @@ Check all the specific suggestions under "[Stage 2. (Doing PhD) How to Succeed i
 
 ### Timely Topic: Surviving NLP in the Era of LLMs
 
-1. (UMich) **A PhD Student's Perspective on Research in NLP in the Era of Very Large Language Models** (2023). [[Paper](https://arxiv.org/abs/2305.12544)]
+1. (UMich; led by Prof Rada Mihalcea) **A PhD Student's Perspective on Research in NLP in the Era of Very Large Language Models** (2023). [[Paper](https://arxiv.org/abs/2305.12544)]
+2. (Prof Julian Togelius@NYU, Prof Georgios Yannakakis@UMalta) **Choose Your Weapon: Survival Strategies for Depressed AI Academics Julian Togelius, Georgios N. Yannakakis** (2023). [[Tweet](https://twitter.com/togelius/status/1646667631431172097)] [[Paper](https://arxiv.org/abs/2304.06035)]
 
 ### What Are Weekly Meetings with Mentors/Advisors like?
 
@@ -186,12 +187,14 @@ Paper reading suggestions:
 3. (Prof Jennifer Widom@Stanford) **Tips for Writing Technical Papers** (2006). [[Suggestions](https://cs.stanford.edu/people/widom/paper-writing.html)]
 4. (Prof Shomir Wilson@Penn State University) **Guide for Scholarly Writing**. [[Suggestions](https://shomir.net/scholarly_writing.html)]
 5. (Prof Jia-Bin Huang@U Maryland) **How to write the introduction (and also the What-Why-How figures)**. [[Tweet](https://twitter.com/jbhuang0604/status/1638029732347367429)]
-6. (Prof Michael Black@Max Planck Institute) **Twitter Thread about "Writing is laying out your logical thoughts"**. [[Tweet](https://twitter.com/Michael_J_Black/status/1598957619301187584)]
-7. (Prof Shomir Wilson@Penn State University) **Guide for Citations and References** [[Suggestions](https://shomir.net/citations_and_references.html)]
-8. (Carmine Gallo, a bestselling author) **The Storytellers Secret** (2016). [[Video](https://www.youtube.com/watch?v=RbA2eHO_YdY&ab_channel=TalksatGoogle)]
+6. (Prof Jia-Bin Huang@U Maryland) **How to write a rebuttal for a conference?** [[Tweet](https://twitter.com/jbhuang0604/status/1663601347952820225)]
+7. (Prof Michael Black@Max Planck Institute) **Twitter Thread about "Writing is laying out your logical thoughts"**. [[Tweet](https://twitter.com/Michael_J_Black/status/1598957619301187584)]
+8. (Prof Shomir Wilson@Penn State University) **Guide for Citations and References** [[Suggestions](https://shomir.net/citations_and_references.html)]
+9. (Carmine Gallo, a bestselling author) **The Storytellers Secret** (2016). [[Video](https://www.youtube.com/watch?v=RbA2eHO_YdY&ab_channel=TalksatGoogle)]
    <br>Takeaways: Writing the Introduction section and giving talks can also be like telling a Hollywood story: the setting (what problem we are solving; how important it is), the villian (how difficult this problem is; how previous work cannot solve it well), and the superhero (what we propose). For giving talks, starting with personal stories (e.g., a story of grandma telling the kid not to drink and persist the right thing leading to the person's life pursuit on social justice) is very helpful to get the audience involved.
-9. (Maxwell Forbes@UW) **Figure Creation Tutorial: Making a Figure 1** (2021). [[Suggestions](https://maxwellforbes.com/posts/figure-creation-tutorial-making-a-figure-1)]
-10. UI design as a medium of thought: see Michael Nielsen's [explanation of why UI is important for science](https://michaelnielsen.org/blog/where-will-the-key-ideas-shaping-the-future-of-scientific-publishing-come-from/), [Bret Victor's work](http://worrydream.com/), [Miegakure](https://miegakure.com/) that visualizes a 4D environment.
+10. (Maxwell Forbes@UW) **Figure Creation Tutorial: Making a Figure 1** (2021). [[Suggestions](https://maxwellforbes.com/posts/figure-creation-tutorial-making-a-figure-1)]
+11. UI design as a medium of thought: see Michael Nielsen's [explanation of why UI is important for science](https://michaelnielsen.org/blog/where-will-the-key-ideas-shaping-the-future-of-scientific-publishing-come-from/), [Bret Victor's work](http://worrydream.com/), [Miegakure](https://miegakure.com/) that visualizes a 4D environment.
+12. (Prof Jia-Bin Huang@U Maryland) **How to write math in a paper?** (2023). [[Tweet](https://twitter.com/jbhuang0604/status/1643118681960923137)]
 
 ### Reviewing, Publishing, Attending Conferences, Networking
 
