@@ -5,9 +5,11 @@ so that success will be a reward to those who are determined and hardworking, re
 
 One non-negligible reason for success is **access to information**, such as (1) knowing what a PhD in NLP is like, (2) knowing what top grad schools look for when reviewing PhD applications, (3) broadening your horizon of what is _good work_, (4) knowing how careers in NLP in both academia and industry are, and many others.
 
-**Contributor:** [Zhijing Jin](http://zhijing-jin.com) (PhD student in NLP at Max Planck Institute & ETH, co-organizer of the [ACL Year-Round Mentorship Program](https://acl-mentorship.github.io)).
+**Contributor:** [Zhijing Jin](http://zhijing-jin.com) (PhD student in NLP at Max Planck Institute & ETH, co-organizer of the [ACL Year-Round Mentorship Program](https://acl-mentorship.github.io)). You are welcome to be a collaborator, -- you can make an issue/pull request, and I can add you :).
 
-You are welcome to be a collaborator, -- you can make an issue/pull request, and I can add you :).
+**Twitter:** If you prefer to get more updates on Twitter, feel free to follow @[ZhijingJin](https://twitter.com/ZhijingJin) and @[aclmentorship](https://twitter.com/aclmentorship).
+
+**Contributor:** [Zhijing Jin](http://zhijing-jin.com) (PhD student in NLP at Max Planck Institute & ETH, co-organizer of the [ACL Year-Round Mentorship Program](https://acl-mentorship.github.io)).
 
 **Endorsers of this repo:** Prof [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) (University of Michigan). Please add your name here (by a pull request) if you endorse this repo :).
 
@@ -28,7 +30,9 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
     * [Starting to Do Research](#starting-to-do-research)
     * [Alternative Path: Pursuing a Software Engineer Career Path](#alternative-path-pursuing-a-software-engineer-career-path)
 3. [Stage 2. (Doing PhD) How to Succeed in PhD?](#stage-2-doing-phd-how-to-succeed-in-phd)
-    * [What Is Weekly Meeting with Mentors/Advisors like?](#what-is-weekly-meeting-with-mentorsadvisors-like)
+    * [Overall Guides](#overall-guides)
+    * [Timely Topic: Surviving NLP in the Era of LLMs](#timely-topic-surviving-nlp-in-the-era-of-llms)
+    * [What Are Weekly Meetings with Mentors/Advisors like?](#what-are-weekly-meetings-with-mentorsadvisors-like)
     * [How to Read Papers](#how-to-read-papers)
     * [How to Express Our Ideas: Writing Papers, Visualization, etc](#how-to-express-our-ideas-writing-papers-visualization-etc)
     * [Reviewing, Publishing, Attending Conferences, Networking](#reviewing-publishing-attending-conferences-networking)
@@ -37,7 +41,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
     * [Coming Up with Good Research Ideas](#coming-up-with-good-research-ideas)
     * [Internship](#internship)
     * [Grad School Fellowships](#grad-school-fellowships)
-    * [Other Books](#other-books)
+    * [Books](#books)
 4. [Stage 3. (After PhD -> Industry) How is life as an industry researcher?](#stage-3-after-phd---industry-how-is-life-as-an-industry-researcher)
 5. [Stage 4. (Being a Prof) How to get an academic position? And how to be a good prof?](#stage-4-being-a-prof-how-to-get-an-academic-position-and-how-to-be-a-good-prof)
     * [List of Job Opportunities](#list-of-job-opportunities)
@@ -52,7 +56,6 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 8. [Others](#others)
 9. [Contributions](#contributions)
 10. [How to Cite This Repo](#how-to-cite-this-repo)
-
 
 ## Top Resources
 
@@ -135,6 +138,8 @@ Check all the specific suggestions under "[Stage 2. (Doing PhD) How to Succeed i
 
 ## Stage 2. (Doing PhD) How to Succeed in PhD?
 
+### Overall Guides
+
 1. (Prof Isabelle Augenstein@UCopenhagen) **Increasing Well-Being in Academia** (2020). [[Suggestions](https://isabelle-augenstein.medium.com/increasing-well-being-in-academia-97f3ebc1599f)]
 2. (Sebastian Ruder@DeepMind) **10 Tips for Research and a PhD** (2020) . [[Suggestions](https://ruder.io/10-tips-for-research-and-a-phd/)]
 3. (Maxwell Forbes, PhD@UW) **Every PhD Is Different**. [[Suggestions](https://maxwellforbes.com/posts/every-phd-is-different)]
@@ -151,8 +156,11 @@ Check all the specific suggestions under "[Stage 2. (Doing PhD) How to Succeed i
 14. (Mu Li@Amazon) **博士这五年** (A Chinese article about five years in PhD at CMU). [[Article](https://zhuanlan.zhihu.com/p/25099638)]
 15. (Karl Stratos) **A Note to a Prospective Student**. [[Suggestions](http://karlstratos.com/#student)]
 
+### Timely Topic: Surviving NLP in the Era of LLMs
 
-### What Is Weekly Meeting with Mentors/Advisors like?
+1. (UMich) **A PhD Student's Perspective on Research in NLP in the Era of Very Large Language Models** (2023). [[Paper](https://arxiv.org/abs/2305.12544)]
+
+### What Are Weekly Meetings with Mentors/Advisors like?
 
 1. (Prof Jason Eisner@JHU) **What do PhD students talk about in their once-a-week meetings with their advisers during their first year?** (2015). [[Article](https://www.quora.com/What-do-PhD-students-talk-about-in-their-once-a-week-meetings-with-their-advisers-during-their-first-year/answer/Jason-Eisner?share=1)]
 2. (Brown University) **Guide to Meetings with Your Advisor**. [[Suggestions](https://www.brown.edu/academics/gradschool/academics-research/graduate-advising-and-mentoring/advising-and-mentoring-resources-students/guide-m)]
@@ -264,7 +272,7 @@ Paper reading suggestions:
 
 6. (Meta) **Fellow spotlights, career advice, and more** (up to date). [[link](https://research.facebook.com/tag/meta-research-phd-fellowship-program/)]
 
-### Other Books
+### Books
 
 1. **The craft of Research** by Wayne Booth, Greg Colomb and Joseph Williams.
 
