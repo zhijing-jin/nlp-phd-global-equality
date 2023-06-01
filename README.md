@@ -3,7 +3,7 @@
 This repo originates with a wish to promote **Global Equality** for people who want to do a PhD in NLP, following the idea that mentorship programs are an effective way to fight against segregation, according to [The Human Networks](https://www.youtube.com/watch?v=2C5jrYlVHJQ&t=1753s) (Jackson, 2019). Specifically, we wish people from all over the world and with all types of backgrounds can share the same source of information,
 so that success will be a reward to those who are determined and hardworking, regardless of external contrainsts.
 
-One non-negligible reason for success is **access to information**, such as (1) knowing what a PhD in NLP is like, (2) knowing what top grad schools look for when reviewing PhD applications, (3) broadening your horizon of what is _good work_, (4) knowing how careers in NLP in both academia and industry are like, and many others.
+One non-negligible reason for success is **access to information**, such as (1) knowing what a PhD in NLP is like, (2) knowing what top grad schools look for when reviewing PhD applications, (3) broadening your horizon of what is _good work_, (4) knowing how careers in NLP in both academia and industry are, and many others.
 
 **Contributor:** [Zhijing Jin](http://zhijing-jin.com) (PhD student in NLP at Max Planck Institute & ETH, co-organizer of the [ACL Year-Round Mentorship Program](https://acl-mentorship.github.io)).
 
@@ -14,100 +14,101 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 ## Contents (Actively Updating)
 
-1. [Contents (Actively Updating)](#contents-actively-updating)
-2. [Top Resources](#top-resources)
-3. [Stage 1. (Non-PhD -> PhD) How to Apply to PhD?](#stage-1-non-phd---phd-how-to-apply-to-phd)
-   * [Prereq: Getting Yourself the "Entry Ticket"](#prereq-getting-yourself-the-entry-ticket)
-   * [Prereq: Getting the Tools Ready](#prereq-getting-the-tools-ready)
-     - [Where Do I Get GPU Computing Resources?](#where-do-i-get-gpu-computing-resources)
-     - [Improve Your Proficiency with Tools](#improve-your-proficiency-with-tools)
-   * [Starting to Do Research](#starting-to-do-research)
-   * [Alternative Path: Pursuing a Software Engineer Career Path](#alternative-path-pursuing-a-software-engineer-career-path)
-4. [Stage 2. (Doing PhD) How to Succeed in PhD?](#stage-2-doing-phd-how-to-succeed-in-phd)
-   * [What Is Weekly Meeting with Mentors/Advisors like?](#what-is-weekly-meeting-with-mentorsadvisors-like)
-   * [How to Read Papers](#how-to-read-papers)
-   * [How to Express Our Ideas: Writing Papers, Visualization, etc](#how-to-express-our-ideas-writing-papers-visualization-etc)
-   * [Reviewing, Publishing, Attending Conferences, Networking](#reviewing-publishing-attending-conferences-networking)
-   * [Memoir-Like Narratives](#memoir-like-narratives)
-   * [Excel Your Research](#excel-your-research)
-   * [Coming Up with Good Research Ideas](#coming-up-with-good-research-ideas)
-   * [Internship](#internship)
-   * [Grad School Fellowships](#grad-school-fellowships)
-   * [Other Books](#other-books)
-5. [Stage 3. (After PhD -> Industry) How is life as an industry researcher?](#stage-3-after-phd---industry-how-is-life-as-an-industry-researcher)
-6. [Stage 4. (Being a Prof) How to get an academic position? And how to be a good prof?](#stage-4-being-a-prof-how-to-get-an-academic-position-and-how-to-be-a-good-prof)
-   * [List of Job Opportunities](#list-of-job-opportunities)
-   * [Professors' Sharing in Videos](#professors-sharing-in-videos)
-   * [Overall Experience Sharing](#overall-experience-sharing)
-   * [Learning about Different Schools](#learning-about-different-schools)
-   * [Preparing the Application Materials](#preparing-the-application-materials)
-   * [Starting as a Professor](#starting-as-a-professor)
-7. [Stage 5. (Whole Career Path) How to live out a life career as an NLP researcher?](#stage-5-whole-career-path-how-to-live-out-a-life-career-as-an-nlp-researcher)
-   * [Massive collaboration can help science](#massive-collaboration-can-help-science)
-8. [Further Readings: Technical Materials to Improve Your NLP Research Skills](#further-readings-technical-materials-to-improve-your-nlp-research-skills)
-9. [Others](#others)
-10. [Contributions](#contributions)
-11. [How to Cite This Repo](#how-to-cite-this-repo)
+1. [Top Resources](#top-resources)
+2. [Stage 1. (Non-PhD -> PhD) How to Apply for a PhD?](#stage-1-non-phd---phd-how-to-apply-for-a-phd)
+    * [PhD Application Tips](#phd-application-tips)
+        - [Should I Do a PhD?](#should-i-do-a-phd)
+        - [How Do Applications Work?](#how-do-applications-work)
+        - [Which Schools Should I Apply For?](#which-schools-should-i-apply-for)
+        - [How to Prepare for the SOP, Rec Letter, etc.](#how-to-prepare-for-the-sop-rec-letter-etc)
+    * [Prereq: Getting Pre-PhD Research Opportunities](#prereq-getting-pre-phd-research-opportunities)
+    * [Prereq: Getting the Tools Ready](#prereq-getting-the-tools-ready)
+        - [Where Do I Get GPU Computing Resources?](#where-do-i-get-gpu-computing-resources)
+        - [Improve Your Proficiency with Tools](#improve-your-proficiency-with-tools)
+    * [Starting to Do Research](#starting-to-do-research)
+    * [Alternative Path: Pursuing a Software Engineer Career Path](#alternative-path-pursuing-a-software-engineer-career-path)
+3. [Stage 2. (Doing PhD) How to Succeed in PhD?](#stage-2-doing-phd-how-to-succeed-in-phd)
+    * [What Is Weekly Meeting with Mentors/Advisors like?](#what-is-weekly-meeting-with-mentorsadvisors-like)
+    * [How to Read Papers](#how-to-read-papers)
+    * [How to Express Our Ideas: Writing Papers, Visualization, etc](#how-to-express-our-ideas-writing-papers-visualization-etc)
+    * [Reviewing, Publishing, Attending Conferences, Networking](#reviewing-publishing-attending-conferences-networking)
+    * [Memoir-Like Narratives](#memoir-like-narratives)
+    * [Excel Your Research](#excel-your-research)
+    * [Coming Up with Good Research Ideas](#coming-up-with-good-research-ideas)
+    * [Internship](#internship)
+    * [Grad School Fellowships](#grad-school-fellowships)
+    * [Other Books](#other-books)
+4. [Stage 3. (After PhD -> Industry) How is life as an industry researcher?](#stage-3-after-phd---industry-how-is-life-as-an-industry-researcher)
+5. [Stage 4. (Being a Prof) How to get an academic position? And how to be a good prof?](#stage-4-being-a-prof-how-to-get-an-academic-position-and-how-to-be-a-good-prof)
+    * [List of Job Opportunities](#list-of-job-opportunities)
+    * [Professors' Sharing in Videos](#professors-sharing-in-videos)
+    * [Overall Experience Sharing](#overall-experience-sharing)
+    * [Learning about Different Schools](#learning-about-different-schools)
+    * [Preparing the Application Materials](#preparing-the-application-materials)
+    * [Starting as a Professor](#starting-as-a-professor)
+6. [Stage 5. (Whole Career Path) How to live out a life career as an NLP researcher?](#stage-5-whole-career-path-how-to-live-out-a-life-career-as-an-nlp-researcher)
+    * [Massive collaboration can help science](#massive-collaboration-can-help-science)
+7. [Further Readings: Technical Materials to Improve Your NLP Research Skills](#further-readings-technical-materials-to-improve-your-nlp-research-skills)
+8. [Others](#others)
+9. [Contributions](#contributions)
+10. [How to Cite This Repo](#how-to-cite-this-repo)
+
 
 ## Top Resources
 
 1. **Online ACL Year-Round Mentorship Program:** https://acl-mentorship.github.io
    (You can apply as [a mentee](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WZ58B5OxkFZCgz9OB5zwLz5URUo4UlpNVTBBMkdPSlBVUTgyMzlRRk5BVy4u), as [a mentor](https://forms.gle/xsdFDCKUuDrBvc4Y6), or as [a volunteer](https://forms.gle/msPFHiL9QKw3fCR8A). For mentees, you will be able to attend monthly zoom Q&A sessions hosted senior researchers in NLP. You will also join a global slack channel, where you can constantly post your questions, and we will collect answers from senior NLP researchers.)
+2. (Organized by PhD students in NLP across the world) **NLP with Friends** Online Seminar Series  (recordings available). [[Seminar](https://nlpwithfriends.com/)] 
+   (A great way to learn about what others are doing in NLP)
 
-## Stage 1. (Non-PhD -> PhD) How to Apply to PhD?
+## Stage 1. (Non-PhD -> PhD) How to Apply for a PhD?
 
-1. (Marek Rei, Lecturer@Imperial College London) **Advice for students doing research projects in ML/NLP** (2022). [[Suggestions](https://www.marekrei.com/blog/mphil-project-advice/)]
+### PhD Application Tips
 
-2. (Andrew Kuznetsov, PhD@CMU) **CS/HCI PhD Opportunity Tracker from Twitter** (Developed in 2021). http://www.andrewkuz.net/hci-opportunities-2022.html
+#### Should I Do a PhD?
 
-3. (Prof Philip Guo@UCSD) **Finding CS Ph.D. programs to apply to**. [[Video](https://www.youtube.com/watch?v=hOSl3xPmHiQ&t=1s)]
+1. (John Hewitt, PhD@Stanford) **Undergrad to PhD, or not - advice for undergrads interested in research** (2018). [[Suggestions](https://nlp.stanford.edu//~johnhew//undergrad-researchers.html)]
+2. (Prof Jason Eisner@JHU) **Advice for Research Students** (last updated: 2021). [[List of suggestions](https://www.cs.jhu.edu/~jason/advice/)]
 
-4. (Tim Dettmers, PhD@UW) **Machine Learning PhD Applications — Everything You Need to Know** (2018). [[Guide](https://timdettmers.com/2018/11/26/phd-applications/)]
+#### How Do Applications Work?
 
-5. (Tim Dettmers, PhD@UW) **How to Pick Your Grad School** (2020). [[Guide](https://timdettmers.com/2020/03/10/how-to-pick-your-grad-school/)]
+1. (Nelson Liu, PhD@Stanfard) **Student Perspectives on Applying to NLP PhD Programs** (2019). [[Suggestions Based on Surveys](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)]
+2. (Prof Dragomir Radev@Yale) **Advice for PhD Applications, Faculty Applications, etc** (2023). [[List of Suggestions](https://docs.google.com/document/d/1huPxPIixJDc0m83zBpl0xirriVkfkrzaDcKtTHZXtJ4/edit)]
+3. [(Roma Patel PhD@Brown, Prof Nathan Schneider@Georgetown University) **PhD Application Series of the NLP Highlights Podcast)** (2021). [[Podcast](https://soundcloud.com/nlp-highlights/133-phd-application-series-preparing-application-materials-with-nathan-schneider-and-roma-patel)]
+   (A new series they launched that addresses all aspects of PhD application. Besides, it is just a great podcast in general that talks about recent NLP advances)
+4. (Albert Webson et al., PhDs@Brown University) **Resources for Underrepresented Groups, including Brown's Own Applicant Mentorship Program** (2020, but we will keep updating it throughout the 2021 application season.) [[List of Resources](https://cs.brown.edu/degrees/doctoral/applications/helpful-resources-applying-computer-science-phd-programs/)]
+5. **A Princeton CS Major's Guide to Applying to Graduate School**. [[List of suggestions](https://www.cs.princeton.edu/academics/ugradpgm/gsg)]
+6. (Tim Dettmers, PhD@UW) **Machine Learning PhD Applications — Everything You Need to Know** (2018). [[Guide](https://timdettmers.com/2018/11/26/phd-applications/)]
+7. (Kalpesh Krishna, PhD@UMass Amherst) **Grad School Resources** (2018). [[Article](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html)] (This list lots of useful pointers!)
+8. (Prof [Mor Harchol-Balter](http://www.cs.cmu.edu/~harchol/)@CMU) **Applying to Ph.D. Programs in Computer Science** (2014). [[Guide](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)]
+9. (CS Rankings) **Advice on Applying to Grad School in Computer Science**. [[Pointers](http://csrankings.org/advice.html)]
+10. (Prof Scott E. Fahlman@CMU) **Quora answers on the LTI program at CMU** (2017). [[Article](https://www.quora.com/What-does-the-admissions-committee-process-for-graduate-school-look-like-Do-you-sit-in-a-room-and-all-discuss-the-same-candidate-at-the-same-time-or-is-it-more-of-an-individual-process-with-opinions-aggregated-at-the-end)]
 
-6. (Prof [Mor Harchol-Balter](http://www.cs.cmu.edu/~harchol/)@CMU) **Applying to Ph.D. Programs in Computer Science** (2014). [[Guide](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)]
+#### Which Schools Should I Apply For?
 
-7. (Prof Jason Eisner@JHU) **Advice for Research Students** (last updated: 2021). [[List of suggestions](https://www.cs.jhu.edu/~jason/advice/)]
+1. (Prof Philip Guo@UCSD) **Finding CS Ph.D. programs to apply to**. [[Video](https://www.youtube.com/watch?v=hOSl3xPmHiQ&t=1s)]
+2. [(Tim Dettmers, PhD@UW) **How to Pick Your Grad School** (2020). [[Guide](https://timdettmers.com/2020/03/10/how-to-pick-your-grad-school/)]
+3. (Zhijing Jin, PhD@MPI & ETH) **Tips on PhD Applications with Max Planck Institute and/or ETH in AI** (2021). [[Suggestions](phd_program_mpi_and_eth.md)]
 
-8. (CS Rankings) **Advice on Applying to Grad School in Computer Science**. [[Pointers](http://csrankings.org/advice.html)]
-
-9. (Nelson Liu, PhD@Stanfard) **Student Perspectives on Applying to NLP PhD Programs** (2019). [[Suggestions Based on Surveys](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)]
-
-10. **A Princeton CS Major's Guide to Applying to Graduate School**. [[List of suggestions](https://www.cs.princeton.edu/academics/ugradpgm/gsg)]
-
-11. (John Hewitt, PhD@Stanford) **Undergrad to PhD, or not - advice for undergrads interested in research** (2018). [[Suggestions](https://nlp.stanford.edu//~johnhew//undergrad-researchers.html)]
-
-12. (Kalpesh Krishna, PhD@UMass Amherst) **Grad School Resources** (2018). [[Article](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html)] (This list lots of useful pointers!)
-
-13. (Prof Scott E. Fahlman@CMU) **Quora answers on the LTI program at CMU** (2017). [[Article](https://www.quora.com/What-does-the-admissions-committee-process-for-graduate-school-look-like-Do-you-sit-in-a-room-and-all-discuss-the-same-candidate-at-the-same-time-or-is-it-more-of-an-individual-process-with-opinions-aggregated-at-the-end)]
-
-14. (Albert Webson et al., PhDs@Brown University) **Resources for Underrepresented Groups, including Brown's Own Applicant Mentorship Program** (2020, but we will keep updating it throughout the 2021 application season.) [[List of Resources](https://cs.brown.edu/degrees/doctoral/applications/helpful-resources-applying-computer-science-phd-programs/)]
-
-15. (Roma Patel PhD@Brown, Prof Nathan Schneider@Georgetown University) **PhD Application Series of the NLP Highlights Podcast)** (2021). [[Podcast](https://soundcloud.com/nlp-highlights/133-phd-application-series-preparing-application-materials-with-nathan-schneider-and-roma-patel)]
-    （A new series they launched that addresses all aspects of PhD application. Besides, it is just a great podcast in general that talks about recent NLP advances）
-
-16. (PhD students in NLP) **NLP with Friends Online Seminar Series (recordings available)** [[Seminar](https://nlpwithfriends.com/)]  
-    (I am not sure where to put it but I find it to be a great way to learn about what others are doing in NLP)
-
-### Prereq: Getting Yourself the "Entry Ticket"
+#### How to Prepare for the SOP, Rec Letter, etc.
 
 1. (Prof Nathan Schneider@Georgetown University) **Inside Ph.D. admissions: What readers look for in a Statement of Purpose**. [[Article](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)]
+2. (Nelson Liu, PhD@Stanfard) **PhD Statement of Purpose**. [[Article](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/)]
+3. (Suchin Gururangan, PhD@University of Washington) **Personal Statement Advice**. [[Article](https://suchin.io/personal-statement-advice/)]
+4. (Prof Shomir Wilson@Penn State University) **Reference Letter Procedure**. [[Suggestions](https://shomir.net/reference_procedure.html)]
+
+### Prereq: Getting Pre-PhD Research Opportunities
+
+1. (Andrew Kuznetsov, PhD@CMU) **CS/HCI PhD Opportunity Tracker from Twitter** (Developed in 2021). http://www.andrewkuz.net/hci-opportunities-2022.html
 2. (Eugene Vinitsky, PhD@UC Berkeley) **A Guide to Cold Emailing** (2020). [[Article](https://eugenevinitsky.github.io/posts/2020-12-25-coldemails.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)]
 3. (Prof Shomir Wilson@Penn State University) **Guide for Interacting With Faculty** (2018). [[Suggestions](https://shomir.net/teaching_faq.html)]
 4. (Prof Shomir Wilson@Penn State University) **Reference Letter Procedure**. [[Suggestions](https://shomir.net/reference_procedure.html)]
-5. (Nelson Liu, PhD@Stanfard) **PhD Statement of Purpose**. [[Article](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/)]
-6. (Suchin Gururangan, PhD@University of Washington) **Personal Statement Advice**. [[Article](https://suchin.io/personal-statement-advice/)]
 
 **Existing Summer Research Opportunities:**
 
 1. **Summer research opportunities for Undergrads** (2021). [[Twitter Thread](https://twitter.com/lucy3_li/status/1453248835673800710)]
 2. (ETH) **ETH Summer Research Fellowship** (every summer). [[Apply](https://inf.ethz.ch/studies/summer-research-fellowship.html)]
 3. (MPI) **Summer Research Internship with MPI (CaCTüS)** (every summer). [[Apply](https://www.is.mpg.de/news/cactus-internship-initiative-launched)]
-
-**PhD Programs:**
-
-1. (Zhijing Jin, PhD@MPI & ETH) **Tips on PhD Applications with Max Planck Institute and/or ETH in AI** (2021). [[Suggestions](phd_program_mpi_and_eth.md)]
 
 
 ### Prereq: Getting the Tools Ready
@@ -124,7 +125,7 @@ You are welcome to be a collaborator, -- you can make an issue/pull request, and
 
 ### Starting to Do Research
 
-Check all the specific suggestions under "Stage 2. (Doing PhD) How to Succeed in PhD?", such as the sections "What Is Weekly Meeting with Advisors like?", "How to Read Papers", and many others that you might need :).
+Check all the specific suggestions under "[Stage 2. (Doing PhD) How to Succeed in PhD?](#stage-2-doing-phd-how-to-succeed-in-phd)", such as the sections "What Is Weekly Meeting with Advisors like?", "How to Read Papers", and many others that you might need :).
 
 ### Alternative Path: Pursuing a Software Engineer Career Path
 
@@ -135,31 +136,20 @@ Check all the specific suggestions under "Stage 2. (Doing PhD) How to Succeed in
 ## Stage 2. (Doing PhD) How to Succeed in PhD?
 
 1. (Prof Isabelle Augenstein@UCopenhagen) **Increasing Well-Being in Academia** (2020). [[Suggestions](https://isabelle-augenstein.medium.com/increasing-well-being-in-academia-97f3ebc1599f)]
-
 2. (Sebastian Ruder@DeepMind) **10 Tips for Research and a PhD** (2020) . [[Suggestions](https://ruder.io/10-tips-for-research-and-a-phd/)]
-
 3. (Maxwell Forbes, PhD@UW) **Every PhD Is Different**. [[Suggestions](https://maxwellforbes.com/posts/every-phd-is-different)]
-
 4. (Prof Mark Dredze@JHU, Prof Hanna M. Wallach@UMass Amherst) **How to be a successful PhD student (in computer science (in NLP/ML))**. [[Suggestions](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)]
-
 5. (Andrej Karpathy) **A Survival Guide to a PhD** (2016). [[Suggestions](http://karpathy.github.io/2016/09/07/phd/)]
-
 6. (Prof Kevin Gimpel@TTIC) **Kevin Gimpel's Advice to PhD Students**. [[Suggestions](https://home.ttic.edu/~kgimpel/etc/phd-advice.pdf)]
-
 7. (Prof Marie desJardins@Simmons University) **How to Succeed in Graduate School: A Guide for Students and Advisors** (1994). [[Article](https://www.eng.auburn.edu/~troppel/Advice_for_Grad_Students.pdf)] [[Part II](https://www.cs.princeton.edu/~jrex/teaching/spring2005/fft/acm_gradschool2.htm)]
-
 8. (Prof Eric Gilbert@UMich) **Syllabus for Eric’s PhD students** (incl. Prof's expectation for PhD students). [[syllabus](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM)]
-
-9. (Prof H.T. Kung@Harvard) **Useful Thoughts about Research** (1987). [[Suggestions](https://www.eecs.harvard.edu/htk/phdadvice/)]
-
-10. (Prof Phil Agre@UCLA) **Networking on the Network: A Guide to Professional Skills for PhD Students** (last updated: 2015). [[Suggestions](https://web.archive.org/web/20070127110038/http://polaris.gseis.ucla.edu:80/pagre/network.html)]
-
-11. (Prof Stephen C. Stearns@Yale) **Some Modest Advice for Graduate Students**. [[Article](https://stearnslab.yale.edu/modest-advice)]
-
-12. (Prof Tao Xie@UIUC) **Graduate Student Survival/Success Guide**. [[Slides](http://taoxie.cs.illinois.edu/advice/gradstudentsurvival.pdf)]
-13. (Mu Li@Amazon) **博士这五年** (A Chinese article about five years in PhD at CMU). [[Article](https://zhuanlan.zhihu.com/p/25099638)]
-
-14. (Karl Stratos) **A Note to a Prospective Student**. [[Suggestions](http://karlstratos.com/#student)]
+9. (Marek Rei, Lecturer@Imperial College London) **Advice for students doing research projects in ML/NLP** (2022). [[Suggestions](https://www.marekrei.com/blog/mphil-project-advice/)]
+10. (Prof H.T. Kung@Harvard) **Useful Thoughts about Research** (1987). [[Suggestions](https://www.eecs.harvard.edu/htk/phdadvice/)]
+11. (Prof Phil Agre@UCLA) **Networking on the Network: A Guide to Professional Skills for PhD Students** (last updated: 2015). [[Suggestions](https://web.archive.org/web/20070127110038/http://polaris.gseis.ucla.edu:80/pagre/network.html)]
+12. (Prof Stephen C. Stearns@Yale) **Some Modest Advice for Graduate Students**. [[Article](https://stearnslab.yale.edu/modest-advice)]
+13. (Prof Tao Xie@UIUC) **Graduate Student Survival/Success Guide**. [[Slides](http://taoxie.cs.illinois.edu/advice/gradstudentsurvival.pdf)]
+14. (Mu Li@Amazon) **博士这五年** (A Chinese article about five years in PhD at CMU). [[Article](https://zhuanlan.zhihu.com/p/25099638)]
+15. (Karl Stratos) **A Note to a Prospective Student**. [[Suggestions](http://karlstratos.com/#student)]
 
 
 ### What Is Weekly Meeting with Mentors/Advisors like?
@@ -303,7 +293,8 @@ Paper reading suggestions:
 ### Overall Experience Sharing
 
 1. (Prof Philip J. Guo@UCSD) **Philip’s notes on the tenure-track assistant professor job search** (2013). [[Suggestions](https://pg.ucsd.edu/guo-faculty-job-search.pdf)]
-2. (Wes Weimer@UMich, Claire Le Goues@CMU, Zak Fry@GrammaTech, Kevin Leach@Vanderbilt U, Yu Huang@Vanderbilt U, and Kevin Angstadt@St. Lawrence University) **CS Grad Job and Interview Guide** (2021). [[Guide](https://csguides.github.io/grad-job-guide/)]
+2. (Prof Dragomir Radev@Yale) **Advice for PhD Applications, Faculty Applications, etc** (2023). [[List of Suggestions](https://docs.google.com/document/d/1huPxPIixJDc0m83zBpl0xirriVkfkrzaDcKtTHZXtJ4/edit)]
+3. (Wes Weimer@UMich, Claire Le Goues@CMU, Zak Fry@GrammaTech, Kevin Leach@Vanderbilt U, Yu Huang@Vanderbilt U, and Kevin Angstadt@St. Lawrence University) **CS Grad Job and Interview Guide** (2021). [[Guide](https://csguides.github.io/grad-job-guide/)]
 
 **Academic job search advice**
 
