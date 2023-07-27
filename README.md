@@ -294,70 +294,85 @@ Paper reading suggestions:
 
 ### List of Job Opportunities
 
-1. **Academic Jobs Online** https://academicjobsonline.org/ajo
-
-### Professors' Sharing in Videos
-
-1. (Prof Devi Parikh and Prof Dhruv Batra@GaTech) **Humans of AI: Stories, Not Stats** [[YouTube](https://www.youtube.com/user/deviparikh)]
-2. (Prof Manuel Rigger@NUS) **Getting Academic Positions (GAP) Interviewing Series** (2021). [[YouTube Interview Videos](https://www.youtube.com/playlist?list=PLm7ofmclym1EjPJE4TbuyaKA9-ottVeRJ)]
-
-### Overall Experience Sharing
-
-1. (Prof Philip J. Guo@UCSD) **Philip’s notes on the tenure-track assistant professor job search** (2013). [[Suggestions](https://pg.ucsd.edu/guo-faculty-job-search.pdf)]
-2. (Prof Dragomir Radev@Yale) **Advice for PhD Applications, Faculty Applications, etc** (2023). [[List of Suggestions](https://docs.google.com/document/d/1huPxPIixJDc0m83zBpl0xirriVkfkrzaDcKtTHZXtJ4/edit)]
-3. (Wes Weimer@UMich, Claire Le Goues@CMU, Zak Fry@GrammaTech, Kevin Leach@Vanderbilt U, Yu Huang@Vanderbilt U, and Kevin Angstadt@St. Lawrence University) **CS Grad Job and Interview Guide** (2021). [[Guide](https://csguides.github.io/grad-job-guide/)]
-
-**Academic job search advice**
-
-1. (Prof Nicolas Papernot@University of Toronto, Prof Elissa M. Redmiles@Max Planck Institute) **The academic job search for computer scientists in 10 questions**. [[Suggestions](https://docs.google.com/document/u/1/d/e/2PACX-1vSeOnC_QdaJVc3OuuMfDHVlk3QotUxvghytRFaDsrdA0uovD5axQjp8kJCM4Evu1cCf9Hg_u_Stabu1/pub)] 
-2. (Prof Caroline Trippel@Stanford) **The Academic Job Search: A Memoir** (2020). [[Suggestions](https://www.sigarch.org/the-academic-job-search-a-memoir-part-1/)]
-3. (Prof Shomir Wilson@Penn State University) **Guide for the Tenure-Track Job Market in Computer/Information Sciences** (2018). [[Suggestions](https://shomir.net/tt_job_guide.html)]
-4. (Prof Michael Ernst@University of Washington) **Getting an academic job** (2000). [[Suggestions](https://web.archive.org/web/20210413123322/homes.cs.washington.edu/~mernst/advice/academic-job.html)]
-5. (Prof Matt Might@University of Alabama at Birmingham) **Academic job search advice**. [[Suggestions](https://matt.might.net/articles/advice-for-academic-job-hunt/)]
-6. (Prof Manuel Rigger@NUS) **How Did Professors Find Their Jobs? Part 1: Diversity in Experiences** (2021). [[Suggestions](https://www.sigops.org/2021/how-did-professors-find-their-jobs-part-1-diversity-in-experiences/)] 
-
-7. (Prof Radhika Nagpal@Harvard) **The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life** (2013). [[Article](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)]
-
-**Sample Writing**
-
-1. (Prof Anjalie Field@JHU) **Research Statements** (2022). [[List](https://anjalief.github.io/statements.html)]
-
+1. **CRA**: https://cra.org/ads/ (a good listing for academic jobs related to CS)
+2. **Academic Jobs Online (AJO):** https://academicjobsonline.org/ajo
+3. https://facultyvacancies.com/: An academic job portal for professors, lecturers, researchers, post docs, PhDs and academic managers in Europe, Americas, Oceania, Asia and the Middle East, e.g., for AP positions in CS [here](https://facultyvacancies.com/?regionId%5B%5D=3&positionTypeId%5B%5D=104&academicDisciplineId%5B%5D=15&q=)
+4. **[University Jobs](https://universityjobs.com/job/category/list?name=Engineering+and+Mathematics) listing** (This list also include admin jobs.)
+5. Job posting twitter account: https://twitter.com/csfacultyjobs
 
 ### Learning about Different Schools
 
 - Different types of schools: https://carnegieclassifications.iu.edu/classification_descriptions/basic.php
-- cra.org has a good listing for academic jobs related to CS
 - The [Chronicle of Higher Education](http://chronicle.com/) has a listing that tends to be for more teaching-oriented positions
+- Academic Jobs in CS in Germany and Switzerland [[Suggestions](https://people.mpi-sws.org/~roseh/jobs/germany.html)]
 - CS Rankings: http://csrankings.org/
-- An academic job portal for professors, lecturers, researchers, post docs, PhDs and academic managers in Europe, Americas, Oceania, Asia and the Middle East: FacultyVacancies.com
 
-### Preparing the Application Materials
+### Overall Experience Sharing
+
+1. (Prof Philip Guo@UCSD) **Philip’s notes on the tenure-track assistant professor job search** (2013). [[Suggestions](https://xb00dx.github.io/files/guo-faculty-job-search.pdf)]
+2. (Prof Dragomir Radev@Yale) **Advice for PhD Applications, Faculty Applications, etc** (2023). [[List of Suggestions](https://docs.google.com/document/d/1huPxPIixJDc0m83zBpl0xirriVkfkrzaDcKtTHZXtJ4/edit)]
+3. (Wes Weimer@UMich, Claire Le Goues@CMU, Zak Fry@GrammaTech, Kevin Leach@Vanderbilt U, Yu Huang@Vanderbilt U, and Kevin Angstadt@St. Lawrence University) **CS Grad Job and Interview Guide** (2021). [[Guide](https://csguides.github.io/grad-job-guide/)]
+4. (Maarten Sap@CMU) Timeline of application [[Guide](https://maartensap.com/notes/job-search-2020.html)]
+
+1. (Prof Nicolas Papernot@University of Toronto, Prof Elissa M. Redmiles@Max Planck Institute) **The academic job search for computer scientists in 10 questions**. [[Suggestions](https://docs.google.com/document/u/1/d/e/2PACX-1vSeOnC_QdaJVc3OuuMfDHVlk3QotUxvghytRFaDsrdA0uovD5axQjp8kJCM4Evu1cCf9Hg_u_Stabu1/pub)] 
+2. (Prof Caroline Trippel@Stanford) **The Academic Job Search: A Memoir** (2020). [[Suggestions](https://www.sigarch.org/the-academic-job-search-a-memoir-part-1/)]
+3. [Computer Science Grad Student Job Application & Interview Guide](https://web.eecs.umich.edu/~weimerw/grad-job-guide/guide/index.html) by Westley Weimer, Claire Le Goues, and Zak Fry
+4. [Faculty Job Interviewing Tips](http://www.jeffreybigham.com/blog/2020/faculty-job-interviewing-tips.html) by Jeffrey P. Bigham
+5. (Prof Shomir Wilson@Penn State University) **Guide for the Tenure-Track Job Market in Computer/Information Sciences** (2018). [[Suggestions](https://shomir.net/tt_job_guide.html)]
+6. (Prof Michael Ernst@UW) **Getting an academic job** (2000). [[Suggestions](https://web.archive.org/web/20210413123322/homes.cs.washington.edu/~mernst/advice/academic-job.html)]
+7. (Prof Matt Might@University of Alabama at Birmingham) **Academic job search advice**. [[Suggestions](https://matt.might.net/articles/advice-for-academic-job-hunt/)]
+8. (Prof Manuel Rigger@NUS) **How Did Professors Find Their Jobs? Part 1: Diversity in Experiences** (2021). [[Suggestions](https://www.sigops.org/2021/how-did-professors-find-their-jobs-part-1-diversity-in-experiences/)] 
+9. (Rose Hoberman@MPI) **The academic job search process**. [[Suggestions](https://people.mpi-sws.org/~roseh/JobSearch.html)]
+10. (Prof Manuel Rigger@NUS) **Getting Academic Positions (GAP) Interviewing Series** (2021). [[YouTube Interview Videos](https://www.youtube.com/playlist?list=PLm7ofmclym1EjPJE4TbuyaKA9-ottVeRJ)]
+
+#### Step 1. Preparing the Application Materials
+
+1. (Prof Matt Welsh@ (Previously) Harvard) **How to get a faculty job, Part 1: The application** (2012). [[Guide](http://matt-welsh.blogspot.com/2012/12/how-to-get-faculty-job-part-1.html)]
+2. (Prof Matt Welsh@ (Previously) Harvard) Understanding what makes your application profile stand out enough to **receive an interview** (2012). [[Guide](http://matt-welsh.blogspot.com/2012/12/how-to-get-faculty-job-part-1b-how-to.html)]
+
+##### Research Statement
 
 1. (Prof Jason Eisner@JHU) **How to write an academic research statement (when applying for a faculty job)** (2017). [[Article](https://www.quora.com/Assuming-that-Ph-D-students-decide-to-apply-for-faculty-positions-how-much-should-their-research-proposal-differ-from-their-Ph-D-research/answer/Jason-Eisner?share=1)]
+2. **Sample Writings**
+   1. (Prof Anjalie Field@JHU) **Research Statements** (2022). [[List](https://anjalief.github.io/statements.html)]
+   2. (Prof Maarten Sap@CMU) **All statements and job talk** (2021). [[List](https://maartensap.com/notes/job-search-2020.html)]
 
+#### Step 2. Preparing for the Job Talk and Interview
+
+1. (Prof Matt Welsh@ (Previously) Harvard) **The interview** (2012). [[Guide](http://matt-welsh.blogspot.com/2012/12/how-to-get-faculty-job-part-2-interview.html)]
 2. (Prof Jason Eisner@JHU) **How to Give a Talk** (2015). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/how-to-give-a-talk.html)]
-
 3. (Prof Manuel Rigger@NUS) **Interview Questions for Computer Science Faculty Jobs** (2021). [[Question List](https://csfaculty.github.io/)]
 4. (Prof Austin Z. Henley@University of Tennessee) **Faculty interview questions I asked and got asked** (2018). [[Question List](https://web.eecs.utk.edu/~azh/resources/facultyinterviewquestions.html)]
 
-### Starting as a Professor
+#### Step 3. Making the Decision & Negotiating Offers
 
-1. (Prof Jason Eisner@JHU) **Teaching Philosophy**. [[Article](https://www.cs.jhu.edu/~jason/teaching.pdf)]
+1. (Prof Matt Welsh@ (Previously) Harvard) **Negotiating the offer** (2013). [[Guide](http://matt-welsh.blogspot.com/2013/01/how-to-get-faculty-job-part-3.html)]
+2. [What’s it Like Being the Only HCI Person in a CS Department?](http://jeffreybigham.com/blog/2018/only-hci-person-in-a-cs-department.html) by Jeffrey P. Bigham
+3. 2018 Taulbee Survey of faculty salary https://cra.org/wp-content/uploads/2019/05/2018_Taulbee_Survey.pdf
+4. [Academic offer check list](https://docs.google.com/document/d/1pei15wV-IfRYe-ggWah2NrMhhpk5xfSshvSPwzMzeTU/edit)
+5. [Academic Job Search: Negotiating Your Faculty Startup Package](https://career.ucsf.edu/sites/g/files/tkssra2771/f/UCSF OCPD Negotiating a Faculty Position-2019 Feb.pdf) by Bill Lindstaedt
+6. [Negotiating for a faculty position during COVID-19](https://career.ucsf.edu/negotiating-faculty-position-during-covid-19) from UCSF
+7. (Prof Elissa M. Redmiles@MPI) Salary survey and Advice on CS Faculty Job Negotiation: https://www.dropbox.com/s/iqwcxbes6p94uw6/faculty-cssecurity-advice.pdf?dl=0
 
-2. (Prof Isabelle Augenstein, Emily M. Bender, Dan Jurafsky, and Yoav Goldberg) **Panel Discussions on How to Teach NLP Courses** (2021). [[Video](https://www.youtube.com/watch?v=CnE2Ck5A9_M)]
 
-3. (Prof Emily M. Bender@UW) **Balancing Teaching and Research** (2015). [[Suggestions](https://faculty.washington.edu/ebender/papers/BalancingTeachingResearch2015.pdf)]
-
-4. (Prof Shomir Wilson@Penn State University, motivation and usage of writing guides down) **Guide to the Advice** [[Article](https://shomir.net/thoughts_on_the_advice.html)]
-
-5. (Prof Randy Pausch@CMU) **Time management** (2007). [[Video](https://www.youtube.com/watch?v=oTugjssqOT0)] [[Slides](http://www.cs.virginia.edu/~robins/Randy/RandyPauschTimeManagement2007.pdf)]
 
 
 ## Stage 5. (Whole Career Path) How to live out a life career as an NLP researcher?
 
-1. (Prof Charles Ling@Western University, Prof Qiang Yang@HKUST)**Crafting Your Research Future: A Guide to Successful Master's and Ph.D. Degrees in Science & Engineering**. [[Book](https://www.morganclaypool.com/doi/abs/10.2200/S00412ED1V01Y201203ENG018)]
+### Starting as a Professor
 
-2. (Prof Michael Nielsen, now an individual researcher) **Principles of Effective Research** (2004). [[Article](https://michaelnielsen.org/blog/principles-of-effective-research/)]
+1. (Prof Jason Eisner@JHU) **Teaching Philosophy**. [[Article](https://www.cs.jhu.edu/~jason/teaching.pdf)]
+2. (Prof Isabelle Augenstein, Emily M. Bender, Dan Jurafsky, and Yoav Goldberg) **Panel Discussions on How to Teach NLP Courses** (2021). [[Video](https://www.youtube.com/watch?v=CnE2Ck5A9_M)]
+3. (Prof Emily M. Bender@UW) **Balancing Teaching and Research** (2015). [[Suggestions](https://faculty.washington.edu/ebender/papers/BalancingTeachingResearch2015.pdf)]
+4. (Prof Radhika Nagpal@Harvard) **The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life** (2013). [[Article](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)]
+5. (Prof Shomir Wilson@Penn State University, motivation and usage of writing guides down) **Guide to the Advice** [[Article](https://shomir.net/thoughts_on_the_advice.html)]
+6. (Prof Randy Pausch@CMU) **Time management** (2007). [[Video](https://www.youtube.com/watch?v=oTugjssqOT0)] [[Slides](http://www.cs.virginia.edu/~robins/Randy/RandyPauschTimeManagement2007.pdf)]
+
+### Long-Term Research Career
+
+1. (Prof Devi Parikh and Prof Dhruv Batra@GaTech) **Humans of AI: Stories, Not Stats** [[YouTube](https://www.youtube.com/user/deviparikh)]
+2. (Prof Charles Ling@Western University, Prof Qiang Yang@HKUST) **Crafting Your Research Future: A Guide to Successful Master's and Ph.D. Degrees in Science & Engineering**. [[Book](https://www.morganclaypool.com/doi/abs/10.2200/S00412ED1V01Y201203ENG018)]
+3. (Prof Michael Nielsen, now an individual researcher) **Principles of Effective Research** (2004). [[Article](https://michaelnielsen.org/blog/principles-of-effective-research/)]
    <br>_Interesting snippets: "“We are what we repeatedly do. Excellence, then, is not an act but a habit.” Underlying all our habits are models (often unconscious) of how the world works. I’m writing this essay to develop an improved personal model of how to be an effective researcher, a model that can be used as the basis for concrete actions leading to the development of new habits.", "Make sure you’re fit. Look after your health. Spend high quality time with your family. Have fun. These things require a lot of thought and effort to get right.", "Develop a high-quality research environment", "Developing a taste for what’s important: What do you think are the characteristics of important science? What makes one area thrive, while another dies away? What sorts of unifying ideas are the most useful? What have been the most important developments in your field? **Why are they important?** What were the apparently promising ideas that didn’t pan out? Why didn’t they pan out? You need to be thinking constantly about these issues, both in concrete terms, and also in the abstract, developing both a general feeling for what is important (and what is not), and also some specific beliefs about what is important and what is not in your fields of interest.", "occasionally set time aside to survey the landscape of a field, looking not just for problems, but trying to identify larger patterns. What types of questions do people in the field tend to ask? **Can we abstract away patterns in those questions?** What other fields might there be links to? What are the few most important problems in the field?"_
 
 ### Massive collaboration can help science
