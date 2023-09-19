@@ -330,6 +330,7 @@ Paper reading suggestions:
 1. (Prof Matt Welsh@ (Previously) Harvard) **How to get a faculty job, Part 1: The application** (2012). [[Guide](http://matt-welsh.blogspot.com/2012/12/how-to-get-faculty-job-part-1.html)]
 2. (Prof Matt Welsh@ (Previously) Harvard) Understanding what makes your application profile stand out enough to **receive an interview** (2012). [[Guide](http://matt-welsh.blogspot.com/2012/12/how-to-get-faculty-job-part-1b-how-to.html)]
 3. (MIT communications lab) **Preparing for faculty application**. [[Guide](https://mitcommlab.mit.edu/eecs/commkit/faculty-application/)]
+4. (Prof Chris Blattman@UChicago) **Managing the academic job market** (for political science and economics) (2022). [[Guide](https://af4.cf3.mwp.accessdomain.com/blog/2022/04/16/managing-the-academic-job-market/)] [[Timeline](http://callahummel.com/wp-content/uploads/2018/06/Political-Science-Job-Market-Guide-Draft.pdf)]
 
 ##### Research Statement
 
