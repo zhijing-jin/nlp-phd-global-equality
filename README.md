@@ -314,21 +314,22 @@ Paper reading suggestions:
 3. (Wes Weimer@UMich, Claire Le Goues@CMU, Zak Fry@GrammaTech, Kevin Leach@Vanderbilt U, Yu Huang@Vanderbilt U, and Kevin Angstadt@St. Lawrence University) **CS Grad Job and Interview Guide** (2021). [[Guide](https://csguides.github.io/grad-job-guide/)]
 4. (Maarten Sap@CMU) Timeline of application [[Guide](https://maartensap.com/notes/job-search-2020.html)]
 
-1. (Prof Nicolas Papernot@University of Toronto, Prof Elissa M. Redmiles@Max Planck Institute) **The academic job search for computer scientists in 10 questions**. [[Suggestions](https://docs.google.com/document/u/1/d/e/2PACX-1vSeOnC_QdaJVc3OuuMfDHVlk3QotUxvghytRFaDsrdA0uovD5axQjp8kJCM4Evu1cCf9Hg_u_Stabu1/pub)] 
-2. (Prof Caroline Trippel@Stanford) **The Academic Job Search: A Memoir** (2020). [[Suggestions](https://www.sigarch.org/the-academic-job-search-a-memoir-part-1/)]
-3. [Computer Science Grad Student Job Application & Interview Guide](https://web.eecs.umich.edu/~weimerw/grad-job-guide/guide/index.html) by Westley Weimer, Claire Le Goues, and Zak Fry
-4. [Faculty Job Interviewing Tips](http://www.jeffreybigham.com/blog/2020/faculty-job-interviewing-tips.html) by Jeffrey P. Bigham
-5. (Prof Shomir Wilson@Penn State University) **Guide for the Tenure-Track Job Market in Computer/Information Sciences** (2018). [[Suggestions](https://shomir.net/tt_job_guide.html)]
-6. (Prof Michael Ernst@UW) **Getting an academic job** (2000). [[Suggestions](https://web.archive.org/web/20210413123322/homes.cs.washington.edu/~mernst/advice/academic-job.html)]
-7. (Prof Matt Might@University of Alabama at Birmingham) **Academic job search advice**. [[Suggestions](https://matt.might.net/articles/advice-for-academic-job-hunt/)]
-8. (Prof Manuel Rigger@NUS) **How Did Professors Find Their Jobs? Part 1: Diversity in Experiences** (2021). [[Suggestions](https://www.sigops.org/2021/how-did-professors-find-their-jobs-part-1-diversity-in-experiences/)] 
-9. (Rose Hoberman@MPI) **The academic job search process**. [[Suggestions](https://people.mpi-sws.org/~roseh/JobSearch.html)]
-10. (Prof Manuel Rigger@NUS) **Getting Academic Positions (GAP) Interviewing Series** (2021). [[YouTube Interview Videos](https://www.youtube.com/playlist?list=PLm7ofmclym1EjPJE4TbuyaKA9-ottVeRJ)]
+5. (Prof Nicolas Papernot@University of Toronto, Prof Elissa M. Redmiles@Max Planck Institute) **The academic job search for computer scientists in 10 questions**. [[Suggestions](https://docs.google.com/document/u/1/d/e/2PACX-1vSeOnC_QdaJVc3OuuMfDHVlk3QotUxvghytRFaDsrdA0uovD5axQjp8kJCM4Evu1cCf9Hg_u_Stabu1/pub)] 
+6. (Prof Caroline Trippel@Stanford) **The Academic Job Search: A Memoir** (2020). [[Suggestions](https://www.sigarch.org/the-academic-job-search-a-memoir-part-1/)]
+7. [Computer Science Grad Student Job Application & Interview Guide](https://web.eecs.umich.edu/~weimerw/grad-job-guide/guide/index.html) by Westley Weimer, Claire Le Goues, and Zak Fry
+8. [Faculty Job Interviewing Tips](http://www.jeffreybigham.com/blog/2020/faculty-job-interviewing-tips.html) by Jeffrey P. Bigham
+9. (Prof Shomir Wilson@Penn State University) **Guide for the Tenure-Track Job Market in Computer/Information Sciences** (2018). [[Suggestions](https://shomir.net/tt_job_guide.html)]
+10. (Prof Michael Ernst@UW) **Getting an academic job** (2000). [[Suggestions](https://web.archive.org/web/20210413123322/homes.cs.washington.edu/~mernst/advice/academic-job.html)]
+11. (Prof Matt Might@University of Alabama at Birmingham) **Academic job search advice**. [[Suggestions](https://matt.might.net/articles/advice-for-academic-job-hunt/)]
+12. (Prof Manuel Rigger@NUS) **How Did Professors Find Their Jobs? Part 1: Diversity in Experiences** (2021). [[Suggestions](https://www.sigops.org/2021/how-did-professors-find-their-jobs-part-1-diversity-in-experiences/)] 
+13. (Rose Hoberman@MPI) **The academic job search process**. [[Suggestions](https://people.mpi-sws.org/~roseh/JobSearch.html)]
+14. (Prof Manuel Rigger@NUS) **Getting Academic Positions (GAP) Interviewing Series** (2021). [[YouTube Interview Videos](https://www.youtube.com/playlist?list=PLm7ofmclym1EjPJE4TbuyaKA9-ottVeRJ)]
 
 #### Step 1. Preparing the Application Materials
 
 1. (Prof Matt Welsh@ (Previously) Harvard) **How to get a faculty job, Part 1: The application** (2012). [[Guide](http://matt-welsh.blogspot.com/2012/12/how-to-get-faculty-job-part-1.html)]
 2. (Prof Matt Welsh@ (Previously) Harvard) Understanding what makes your application profile stand out enough to **receive an interview** (2012). [[Guide](http://matt-welsh.blogspot.com/2012/12/how-to-get-faculty-job-part-1b-how-to.html)]
+3. (MIT communications lab) **Preparing for faculty application**. [[Guide](https://mitcommlab.mit.edu/eecs/commkit/faculty-application/)]
 
 ##### Research Statement
 
