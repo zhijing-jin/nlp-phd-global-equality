@@ -235,6 +235,8 @@ Paper reading suggestions:
 
 6. (Tim Dettmers, PhD@UW) **On Creativity in Academia** (2019). [[Article](https://timdettmers.com/2019/09/03/creativity-in-academia/)]
 
+1. (Jason Wei, OpenAI) **A few thoughts on doing AI research** (2023). [[Slides](https://twitter.com/_jasonwei/status/1715080315587440719)]
+
 ### Coming Up with Good Research Ideas
 
 1. (Prof Jia-Bin Huang@UMaryland) **How to come up with research ideas?** (2021). [[Suggestions](https://twitter.com/jbhuang0604/status/1423499757591400448)]
