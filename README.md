@@ -316,6 +316,7 @@ Paper reading suggestions:
 3. (Wes Weimer@UMich, Claire Le Goues@CMU, Zak Fry@GrammaTech, Kevin Leach@Vanderbilt U, Yu Huang@Vanderbilt U, and Kevin Angstadt@St. Lawrence University) **CS Grad Job and Interview Guide** (2021). [[Guide](https://csguides.github.io/grad-job-guide/)]
 4. (Prof Shomir Wilson@Penn State University) **Guide for the Tenure-Track Job Market in Computer/Information Sciences** (2018). [[Suggestions](https://shomir.net/tt_job_guide.html)]
 5. (Maarten Sap@CMU) Timeline of application [[Guide](https://maartensap.com/notes/job-search-2020.html)]
+1. (Prof Elizabeth Bondi-Kelly@UMich) **A blog about my experience on the CS faculty job market** (2023). [[Guide](https://sites.google.com/view/elizabethbondi/blog?authuser=0)] 
 6. (Prof Nicolas Papernot@University of Toronto, Prof Elissa M. Redmiles@Max Planck Institute) **The academic job search for computer scientists in 10 questions**. [[Suggestions](https://docs.google.com/document/u/1/d/e/2PACX-1vSeOnC_QdaJVc3OuuMfDHVlk3QotUxvghytRFaDsrdA0uovD5axQjp8kJCM4Evu1cCf9Hg_u_Stabu1/pub)] 
 7. (Prof Caroline Trippel@Stanford) **The Academic Job Search: A Memoir** (2020). [[Suggestions](https://www.sigarch.org/the-academic-job-search-a-memoir-part-1/)]
 8. [Computer Science Grad Student Job Application & Interview Guide](https://web.eecs.umich.edu/~weimerw/grad-job-guide/guide/index.html) by Westley Weimer, Claire Le Goues, and Zak Fry
