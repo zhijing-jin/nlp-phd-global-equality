@@ -187,7 +187,8 @@ Paper reading suggestions:
 3. (Prof Jennifer Widom@Stanford) **Tips for Writing Technical Papers** (2006). [[Suggestions](https://cs.stanford.edu/people/widom/paper-writing.html)]
    <br>Specifically check out the suggestion on how to write the introduction section, where we address _five main questions_: what is the problem, why is it interesting, why is it challenging, what have previous people done, and what we propose.
 5. (Prof Shomir Wilson@Penn State University) **Guide for Scholarly Writing**. [[Suggestions](https://shomir.net/scholarly_writing.html)]
-6. (Prof Jia-Bin Huang@U Maryland) **How to write the introduction (and also the What-Why-How figures)**. [[Tweet](https://twitter.com/jbhuang0604/status/1638029732347367429)]
+6. (Prof Jia-Bin Huang@U Maryland) **How to write the introduction (and also the What-Why-How figures)**. [[Tweet]
+8. (Prof Tim Rocktäschel@UCL, DeepMind&Prof Jakob Foerster@Oxford) **How to ML Paper** (2022). [[Tweet](https://twitter.com/j_foerst/status/1526593779502829569)]
 7. (Prof Jia-Bin Huang@U Maryland) **How to write a rebuttal for a conference?** [[Tweet](https://twitter.com/jbhuang0604/status/1663601347952820225)]
 8. (Prof Tim Rocktäschel@UCL, DeepMind&Prof Jakob Foerster@Oxford) **How to ML Rebuttal – A Brief Guide** (2022). [[Tweet](https://twitter.com/HowTo_ML/status/1589596025634758656)]
 9. (Prof Michael Black@Max Planck Institute) **Twitter Thread about "Writing is laying out your logical thoughts"**. [[Tweet](https://twitter.com/Michael_J_Black/status/1598957619301187584)]
