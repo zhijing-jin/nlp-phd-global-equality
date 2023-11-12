@@ -189,13 +189,14 @@ Paper reading suggestions:
 5. (Prof Shomir Wilson@Penn State University) **Guide for Scholarly Writing**. [[Suggestions](https://shomir.net/scholarly_writing.html)]
 6. (Prof Jia-Bin Huang@U Maryland) **How to write the introduction (and also the What-Why-How figures)**. [[Tweet](https://twitter.com/jbhuang0604/status/1638029732347367429)]
 7. (Prof Jia-Bin Huang@U Maryland) **How to write a rebuttal for a conference?** [[Tweet](https://twitter.com/jbhuang0604/status/1663601347952820225)]
-8. (Prof Michael Black@Max Planck Institute) **Twitter Thread about "Writing is laying out your logical thoughts"**. [[Tweet](https://twitter.com/Michael_J_Black/status/1598957619301187584)]
-9. (Prof Shomir Wilson@Penn State University) **Guide for Citations and References** [[Suggestions](https://shomir.net/citations_and_references.html)]
-10. (Carmine Gallo, a bestselling author) **The Storytellers Secret** (2016). [[Video](https://www.youtube.com/watch?v=RbA2eHO_YdY&ab_channel=TalksatGoogle)]
+8. (Prof Tim Rocktäschel@UCL, DeepMind&Prof Jakob Foerster@Oxford) **How to ML Rebuttal – A Brief Guide** (2022). [[Tweet](https://twitter.com/HowTo_ML/status/1589596025634758656)]
+9. (Prof Michael Black@Max Planck Institute) **Twitter Thread about "Writing is laying out your logical thoughts"**. [[Tweet](https://twitter.com/Michael_J_Black/status/1598957619301187584)]
+10. (Prof Shomir Wilson@Penn State University) **Guide for Citations and References** [[Suggestions](https://shomir.net/citations_and_references.html)]
+11. (Carmine Gallo, a bestselling author) **The Storytellers Secret** (2016). [[Video](https://www.youtube.com/watch?v=RbA2eHO_YdY&ab_channel=TalksatGoogle)]
    <br>Takeaways: Writing the Introduction section and giving talks can also be like telling a Hollywood story: the setting (what problem we are solving; how important it is), the villian (how difficult this problem is; how previous work cannot solve it well), and the superhero (what we propose). For giving talks, starting with personal stories (e.g., a story of grandma telling the kid not to drink and persist the right thing leading to the person's life pursuit on social justice) is very helpful to get the audience involved.
-11. (Maxwell Forbes@UW) **Figure Creation Tutorial: Making a Figure 1** (2021). [[Suggestions](https://maxwellforbes.com/posts/figure-creation-tutorial-making-a-figure-1)]
-12. UI design as a medium of thought: see Michael Nielsen's [explanation of why UI is important for science](https://michaelnielsen.org/blog/where-will-the-key-ideas-shaping-the-future-of-scientific-publishing-come-from/), [Bret Victor's work](http://worrydream.com/), [Miegakure](https://miegakure.com/) that visualizes a 4D environment.
-13. (Prof Jia-Bin Huang@U Maryland) **How to write math in a paper?** (2023). [[Tweet](https://twitter.com/jbhuang0604/status/1643118681960923137)]
+12. (Maxwell Forbes@UW) **Figure Creation Tutorial: Making a Figure 1** (2021). [[Suggestions](https://maxwellforbes.com/posts/figure-creation-tutorial-making-a-figure-1)]
+13. UI design as a medium of thought: see Michael Nielsen's [explanation of why UI is important for science](https://michaelnielsen.org/blog/where-will-the-key-ideas-shaping-the-future-of-scientific-publishing-come-from/), [Bret Victor's work](http://worrydream.com/), [Miegakure](https://miegakure.com/) that visualizes a 4D environment.
+14. (Prof Jia-Bin Huang@U Maryland) **How to write math in a paper?** (2023). [[Tweet](https://twitter.com/jbhuang0604/status/1643118681960923137)]
 
 ### Reviewing, Publishing, Attending Conferences, Networking
 
