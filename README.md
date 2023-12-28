@@ -202,6 +202,7 @@ Paper reading suggestions:
 15. (Maxwell Forbes@UW) **Figure Creation Tutorial: Making a Figure 1** (2021). [[Suggestions](https://maxwellforbes.com/posts/figure-creation-tutorial-making-a-figure-1)]
 16. UI design as a medium of thought: see Michael Nielsen's [explanation of why UI is important for science](https://michaelnielsen.org/blog/where-will-the-key-ideas-shaping-the-future-of-scientific-publishing-come-from/), [Bret Victor's work](http://worrydream.com/), [Miegakure](https://miegakure.com/) that visualizes a 4D environment.
 17. (Prof Jia-Bin Huang@U Maryland) **How to write math in a paper?** (2023). [[Tweet](https://twitter.com/jbhuang0604/status/1643118681960923137)]
+18. (Prof Jordan Boyd-Graber@U Maryland) **Style (e.g., tense, punctuation, math)**. [[Suggestions](http://users.umiacs.umd.edu/~jbg/static/style.html)]
 
 ### Reviewing, Publishing, Attending Conferences, Networking
 
