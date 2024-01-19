@@ -187,9 +187,9 @@ Paper reading suggestions:
 2. (Simon Peyton Jones@Microsoft) **How to write a great research paper: Seven simple suggestions** (2014). [[Slides](https://www.cis.upenn.edu/~sweirich/icfp-plmw15/slides/peyton-jones.pdf)] [[Talk](https://www.microsoft.com/en-us/research/video/how-to-write-a-great-research-paper-3/)]
 3. (Prof Jennifer Widom@Stanford) **Tips for Writing Technical Papers** (2006). [[Suggestions](https://cs.stanford.edu/people/widom/paper-writing.html)]
    <br>Specifically check out the suggestion on how to write the introduction section, where we address _five main questions_: what is the problem, why is it interesting, why is it challenging, what have previous people done, and what we propose.
-5. (Prof Shomir Wilson@Penn State University) **Guide for Scholarly Writing**. [[Suggestions](https://shomir.net/scholarly_writing.html)]
-6. (Prof Jia-Bin Huang@U Maryland) **How to write the introduction (and also the What-Why-How figures)**. [[Tweet]
-8. (Prof Tim Rocktäschel@UCL, DeepMind&Prof Jakob Foerster@Oxford) **How to ML Paper** (2022). [[Tweet](https://twitter.com/j_foerst/status/1526593779502829569)]
+4. (Prof Shomir Wilson@Penn State University) **Guide for Scholarly Writing**. [[Suggestions](https://shomir.net/scholarly_writing.html)]
+5. (Prof Jia-Bin Huang@U Maryland) **How to write the introduction (and also the What-Why-How figures)**. [[Tweet]
+6. (Prof Tim Rocktäschel@UCL, DeepMind&Prof Jakob Foerster@Oxford) **How to ML Paper** (2022). [[Tweet](https://twitter.com/j_foerst/status/1526593779502829569)]
 7. (Prof Jia-Bin Huang@U Maryland) **How to write a rebuttal for a conference?** [[Tweet](https://twitter.com/jbhuang0604/status/1663601347952820225)]
 8. (Prof Tim Rocktäschel@UCL, DeepMind&Prof Jakob Foerster@Oxford) **How to ML Rebuttal – A Brief Guide** (2022). [[Tweet](https://twitter.com/HowTo_ML/status/1589596025634758656)]
 9. (Prof Maarten Sap@CMU) **Writing rebuttals** (2022). [[Suggestions](https://maartensap.com/notes/rebuttals.html)]
@@ -198,7 +198,7 @@ Paper reading suggestions:
 12. (Prof Michael Black@Max Planck Institute) **Twitter Thread about "Writing is laying out your logical thoughts"**. [[Tweet](https://twitter.com/Michael_J_Black/status/1598957619301187584)]
 13. (Prof Shomir Wilson@Penn State University) **Guide for Citations and References** [[Suggestions](https://shomir.net/citations_and_references.html)]
 14. (Carmine Gallo, a bestselling author) **The Storytellers Secret** (2016). [[Video](https://www.youtube.com/watch?v=RbA2eHO_YdY&ab_channel=TalksatGoogle)]
-   <br>Takeaways: Writing the Introduction section and giving talks can also be like telling a Hollywood story: the setting (what problem we are solving; how important it is), the villian (how difficult this problem is; how previous work cannot solve it well), and the superhero (what we propose). For giving talks, starting with personal stories (e.g., a story of grandma telling the kid not to drink and persist the right thing leading to the person's life pursuit on social justice) is very helpful to get the audience involved.
+       <br>Takeaways: Writing the Introduction section and giving talks can also be like telling a Hollywood story: the setting (what problem we are solving; how important it is), the villian (how difficult this problem is; how previous work cannot solve it well), and the superhero (what we propose). For giving talks, starting with personal stories (e.g., a story of grandma telling the kid not to drink and persist the right thing leading to the person's life pursuit on social justice) is very helpful to get the audience involved.
 15. (Maxwell Forbes@UW) **Figure Creation Tutorial: Making a Figure 1** (2021). [[Suggestions](https://maxwellforbes.com/posts/figure-creation-tutorial-making-a-figure-1)]
 16. UI design as a medium of thought: see Michael Nielsen's [explanation of why UI is important for science](https://michaelnielsen.org/blog/where-will-the-key-ideas-shaping-the-future-of-scientific-publishing-come-from/), [Bret Victor's work](http://worrydream.com/), [Miegakure](https://miegakure.com/) that visualizes a 4D environment.
 17. (Prof Jia-Bin Huang@U Maryland) **How to write math in a paper?** (2023). [[Tweet](https://twitter.com/jbhuang0604/status/1643118681960923137)]
@@ -243,7 +243,7 @@ Paper reading suggestions:
 
 6. (Tim Dettmers, PhD@UW) **On Creativity in Academia** (2019). [[Article](https://timdettmers.com/2019/09/03/creativity-in-academia/)]
 
-1. (Jason Wei, OpenAI) **A few thoughts on doing AI research** (2023). [[Slides](https://twitter.com/_jasonwei/status/1715080315587440719)]
+7. (Jason Wei, OpenAI) **A few thoughts on doing AI research** (2023). [[Slides](https://twitter.com/_jasonwei/status/1715080315587440719)]
 
 ### Coming Up with Good Research Ideas
 
@@ -324,16 +324,16 @@ Paper reading suggestions:
 3. (Wes Weimer@UMich, Claire Le Goues@CMU, Zak Fry@GrammaTech, Kevin Leach@Vanderbilt U, Yu Huang@Vanderbilt U, and Kevin Angstadt@St. Lawrence University) **CS Grad Job and Interview Guide** (2021). [[Guide](https://csguides.github.io/grad-job-guide/)]
 4. (Prof Shomir Wilson@Penn State University) **Guide for the Tenure-Track Job Market in Computer/Information Sciences** (2018). [[Suggestions](https://shomir.net/tt_job_guide.html)]
 5. (Maarten Sap@CMU) Timeline of application [[Guide](https://maartensap.com/notes/job-search-2020.html)]
-1. (Prof Elizabeth Bondi-Kelly@UMich) **A blog about my experience on the CS faculty job market** (2023). [[Guide](https://sites.google.com/view/elizabethbondi/blog?authuser=0)] 
-6. (Prof Nicolas Papernot@University of Toronto, Prof Elissa M. Redmiles@Max Planck Institute) **The academic job search for computer scientists in 10 questions**. [[Suggestions](https://docs.google.com/document/u/1/d/e/2PACX-1vSeOnC_QdaJVc3OuuMfDHVlk3QotUxvghytRFaDsrdA0uovD5axQjp8kJCM4Evu1cCf9Hg_u_Stabu1/pub)] 
-7. (Prof Caroline Trippel@Stanford) **The Academic Job Search: A Memoir** (2020). [[Suggestions](https://www.sigarch.org/the-academic-job-search-a-memoir-part-1/)]
-8. [Computer Science Grad Student Job Application & Interview Guide](https://web.eecs.umich.edu/~weimerw/grad-job-guide/guide/index.html) by Westley Weimer, Claire Le Goues, and Zak Fry
-9. [Faculty Job Interviewing Tips](http://www.jeffreybigham.com/blog/2020/faculty-job-interviewing-tips.html) by Jeffrey P. Bigham
-10. (Prof Michael Ernst@UW) **Getting an academic job** (2000). [[Suggestions](https://web.archive.org/web/20210413123322/homes.cs.washington.edu/~mernst/advice/academic-job.html)]
-11. (Prof Matt Might@University of Alabama at Birmingham) **Academic job search advice**. [[Suggestions](https://matt.might.net/articles/advice-for-academic-job-hunt/)]
-12. (Prof Manuel Rigger@NUS) **How Did Professors Find Their Jobs? Part 1: Diversity in Experiences** (2021). [[Suggestions](https://www.sigops.org/2021/how-did-professors-find-their-jobs-part-1-diversity-in-experiences/)] 
-13. (Rose Hoberman@MPI) **The academic job search process**. [[Suggestions](https://people.mpi-sws.org/~roseh/JobSearch.html)]
-14. (Prof Manuel Rigger@NUS) **Getting Academic Positions (GAP) Interviewing Series** (2021). [[YouTube Interview Videos](https://www.youtube.com/playlist?list=PLm7ofmclym1EjPJE4TbuyaKA9-ottVeRJ)]
+6. (Prof Elizabeth Bondi-Kelly@UMich) **A blog about my experience on the CS faculty job market** (2023). [[Guide](https://sites.google.com/view/elizabethbondi/blog?authuser=0)] 
+7. (Prof Nicolas Papernot@University of Toronto, Prof Elissa M. Redmiles@Max Planck Institute) **The academic job search for computer scientists in 10 questions**. [[Suggestions](https://docs.google.com/document/u/1/d/e/2PACX-1vSeOnC_QdaJVc3OuuMfDHVlk3QotUxvghytRFaDsrdA0uovD5axQjp8kJCM4Evu1cCf9Hg_u_Stabu1/pub)] 
+8. (Prof Caroline Trippel@Stanford) **The Academic Job Search: A Memoir** (2020). [[Suggestions](https://www.sigarch.org/the-academic-job-search-a-memoir-part-1/)]
+9. [Computer Science Grad Student Job Application & Interview Guide](https://web.eecs.umich.edu/~weimerw/grad-job-guide/guide/index.html) by Westley Weimer, Claire Le Goues, and Zak Fry
+10. [Faculty Job Interviewing Tips](http://www.jeffreybigham.com/blog/2020/faculty-job-interviewing-tips.html) by Jeffrey P. Bigham
+11. (Prof Michael Ernst@UW) **Getting an academic job** (2000). [[Suggestions](https://web.archive.org/web/20210413123322/homes.cs.washington.edu/~mernst/advice/academic-job.html)]
+12. (Prof Matt Might@University of Alabama at Birmingham) **Academic job search advice**. [[Suggestions](https://matt.might.net/articles/advice-for-academic-job-hunt/)]
+13. (Prof Manuel Rigger@NUS) **How Did Professors Find Their Jobs? Part 1: Diversity in Experiences** (2021). [[Suggestions](https://www.sigops.org/2021/how-did-professors-find-their-jobs-part-1-diversity-in-experiences/)] 
+14. (Rose Hoberman@MPI) **The academic job search process**. [[Suggestions](https://people.mpi-sws.org/~roseh/JobSearch.html)]
+15. (Prof Manuel Rigger@NUS) **Getting Academic Positions (GAP) Interviewing Series** (2021). [[YouTube Interview Videos](https://www.youtube.com/playlist?list=PLm7ofmclym1EjPJE4TbuyaKA9-ottVeRJ)]
 
 #### Step 1. Preparing the Application Materials
 
@@ -382,11 +382,22 @@ Paper reading suggestions:
 5. (Prof Shomir Wilson@Penn State University, motivation and usage of writing guides down) **Guide to the Advice** [[Article](https://shomir.net/thoughts_on_the_advice.html)]
 6. (Prof Randy Pausch@CMU) **Time management** (2007). [[Video](https://www.youtube.com/watch?v=oTugjssqOT0)] [[Slides](http://www.cs.virginia.edu/~robins/Randy/RandyPauschTimeManagement2007.pdf)]
 
+### Funding in the US 
+
+1. (Michael Ernst@UW) **Writing an NSF Career Award proposal** (2000). [[Suggestions](https://homes.cs.washington.edu/~mernst/advice/career-grant.html)] 
+2. Rubrics of grant proposal evaluation, and example Broader impact section https://www.umass.edu/research/sites/default/files/bi_sample_from_successful_career_sociology2012.docx.pdf
+3. Panel: Faculty Workshop “How to write a Successful NSF CAREER proposal” Notes https://researchservices.cornell.edu/sites/default/files/2019-06/How%20to%20write%20a%20successful%20CAREER%20proposal-%20FINAL.pdf
+4. Proposal sample: [flexible learning for natural language processing](https://cisecareerworkshop.web.unc.edu/wp-content/uploads/sites/16419/2018/04/IIS-CAREER-Sample1.pdf)
+   1. Skeleton structure of the proposal: https://cccblog.org/2020/08/25/medium-article-deconstructing-the-nsf-career-proposal/
+   2. Broader impact section: https://www.umass.edu/research/services-training-resources/proposal-resources/sample-language-nsf-broader-impacts-statements-and
+5. Abstract of all NSF awards: https://www.nsf.gov/awardsearch/advancedSearchResult?ProgRefCode=1045&ActiveAwards=true
+
 ### Long-Term Research Career
 
 1. (Prof Devi Parikh and Prof Dhruv Batra@GaTech) **Humans of AI: Stories, Not Stats** [[YouTube](https://www.youtube.com/user/deviparikh)]
-2. (Prof Charles Ling@Western University, Prof Qiang Yang@HKUST) **Crafting Your Research Future: A Guide to Successful Master's and Ph.D. Degrees in Science & Engineering**. [[Book](https://www.morganclaypool.com/doi/abs/10.2200/S00412ED1V01Y201203ENG018)]
-3. (Prof Michael Nielsen, now an individual researcher) **Principles of Effective Research** (2004). [[Article](https://michaelnielsen.org/blog/principles-of-effective-research/)]
+2. (Prof Randy Pausch@CMU) **Last Lecture: Achieving Your Childhood Dreams** (2007). [[Video](https://www.youtube.com/watch?v=ji5_MqicxSo)] [[Book](https://www.amazon.com/The-Last-Lecture-audiobook/dp/B0017L9VCE/)]
+3. (Prof Charles Ling@Western University, Prof Qiang Yang@HKUST) **Crafting Your Research Future: A Guide to Successful Master's and Ph.D. Degrees in Science & Engineering**. [[Book](https://www.morganclaypool.com/doi/abs/10.2200/S00412ED1V01Y201203ENG018)]
+4. (Prof Michael Nielsen, now an individual researcher) **Principles of Effective Research** (2004). [[Article](https://michaelnielsen.org/blog/principles-of-effective-research/)]
    <br>_Interesting snippets: "“We are what we repeatedly do. Excellence, then, is not an act but a habit.” Underlying all our habits are models (often unconscious) of how the world works. I’m writing this essay to develop an improved personal model of how to be an effective researcher, a model that can be used as the basis for concrete actions leading to the development of new habits.", "Make sure you’re fit. Look after your health. Spend high quality time with your family. Have fun. These things require a lot of thought and effort to get right.", "Develop a high-quality research environment", "Developing a taste for what’s important: What do you think are the characteristics of important science? What makes one area thrive, while another dies away? What sorts of unifying ideas are the most useful? What have been the most important developments in your field? **Why are they important?** What were the apparently promising ideas that didn’t pan out? Why didn’t they pan out? You need to be thinking constantly about these issues, both in concrete terms, and also in the abstract, developing both a general feeling for what is important (and what is not), and also some specific beliefs about what is important and what is not in your fields of interest.", "occasionally set time aside to survey the landscape of a field, looking not just for problems, but trying to identify larger patterns. What types of questions do people in the field tend to ask? **Can we abstract away patterns in those questions?** What other fields might there be links to? What are the few most important problems in the field?"_
 
 ### Massive collaboration can help science
