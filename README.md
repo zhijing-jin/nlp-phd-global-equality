@@ -361,12 +361,15 @@ Paper reading suggestions:
 #### Step 3. Making the Decision & Negotiating Offers
 
 1. (Prof Matt Welsh@ (Previously) Harvard) **Negotiating the offer** (2013). [[Guide](http://matt-welsh.blogspot.com/2013/01/how-to-get-faculty-job-part-3.html)]
-2. [What’s it Like Being the Only HCI Person in a CS Department?](http://jeffreybigham.com/blog/2018/only-hci-person-in-a-cs-department.html) by Jeffrey P. Bigham
-3. 2018 Taulbee Survey of faculty salary https://cra.org/wp-content/uploads/2019/05/2018_Taulbee_Survey.pdf
-4. [Academic offer check list](https://docs.google.com/document/d/1pei15wV-IfRYe-ggWah2NrMhhpk5xfSshvSPwzMzeTU/edit)
-5. [Academic Job Search: Negotiating Your Faculty Startup Package](https://career.ucsf.edu/sites/g/files/tkssra2771/f/UCSF OCPD Negotiating a Faculty Position-2019 Feb.pdf) by Bill Lindstaedt
-6. [Negotiating for a faculty position during COVID-19](https://career.ucsf.edu/negotiating-faculty-position-during-covid-19) from UCSF
-7. (Prof Elissa M. Redmiles@MPI) Salary survey and Advice on CS Faculty Job Negotiation: https://www.dropbox.com/s/iqwcxbes6p94uw6/faculty-cssecurity-advice.pdf?dl=0
+2. (Haseeb Qureshi) **Ten Rules for Negotiating a Job Offer** (2016). [[Guide](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)]
+3. (Patrick McKenzie) **Salary Negotiation: Make More Money, Be More Valued** (2012). [[Guide](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)]
+4. (Josh Doody) **Salary Negotiation with Josh Doody** (2016). [[Podcast](https://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody/)]
+5. [What’s it Like Being the Only HCI Person in a CS Department?](http://jeffreybigham.com/blog/2018/only-hci-person-in-a-cs-department.html) by Jeffrey P. Bigham
+6. 2018 Taulbee Survey of faculty salary https://cra.org/wp-content/uploads/2019/05/2018_Taulbee_Survey.pdf
+7. [Academic offer check list](https://docs.google.com/document/d/1pei15wV-IfRYe-ggWah2NrMhhpk5xfSshvSPwzMzeTU/edit)
+8. [Academic Job Search: Negotiating Your Faculty Startup Package](https://career.ucsf.edu/sites/g/files/tkssra2771/f/UCSF OCPD Negotiating a Faculty Position-2019 Feb.pdf) by Bill Lindstaedt
+9. [Negotiating for a faculty position during COVID-19](https://career.ucsf.edu/negotiating-faculty-position-during-covid-19) from UCSF
+10. (Prof Elissa M. Redmiles@MPI) Salary survey and Advice on CS Faculty Job Negotiation: https://www.dropbox.com/s/iqwcxbes6p94uw6/faculty-cssecurity-advice.pdf?dl=0
 
 
 
