@@ -302,7 +302,9 @@ Paper reading suggestions:
 
 ## Stage 4. (Being a Prof) How to get an academic position? And how to be a good prof?
 
-### List of Job Opportunities
+### What jobs are there?
+
+#### List of Job Opportunities
 
 1. **CRA**: https://cra.org/ads/ (a good listing for academic jobs related to CS)
 2. **Academic Jobs Online (AJO):** https://academicjobsonline.org/ajo
@@ -310,25 +312,27 @@ Paper reading suggestions:
 4. **[University Jobs](https://universityjobs.com/job/category/list?name=Engineering+and+Mathematics) listing** (This list also include admin jobs.)
 5. Job posting twitter account: https://twitter.com/csfacultyjobs
 
-### Learning about Different Schools
+#### Learning about Different Schools
 
 - Different types of schools: https://carnegieclassifications.iu.edu/classification_descriptions/basic.php
 - The [Chronicle of Higher Education](http://chronicle.com/) has a listing that tends to be for more teaching-oriented positions
 - Academic Jobs in CS in Germany and Switzerland [[Suggestions](https://people.mpi-sws.org/~roseh/jobs/germany.html)]
 - CS Rankings: http://csrankings.org/
 
-### Overall Experience Sharing
+### How to succeed in the job market?
+
+#### Overall Experience Sharing
 
 1. (Prof Philip Guo@UCSD) **Philip’s notes on the tenure-track assistant professor job search** (2013). [[Suggestions](https://xb00dx.github.io/files/guo-faculty-job-search.pdf)]
 2. (Prof Dragomir Radev@Yale) **Advice for PhD Applications, Faculty Applications, etc** (2023). [[List of Suggestions](https://docs.google.com/document/d/1huPxPIixJDc0m83zBpl0xirriVkfkrzaDcKtTHZXtJ4/edit)]
 3. (Wes Weimer@UMich, Claire Le Goues@CMU, Zak Fry@GrammaTech, Kevin Leach@Vanderbilt U, Yu Huang@Vanderbilt U, and Kevin Angstadt@St. Lawrence University) **CS Grad Job and Interview Guide** (2021). [[Guide](https://csguides.github.io/grad-job-guide/)]
 4. (Prof Shomir Wilson@Penn State University) **Guide for the Tenure-Track Job Market in Computer/Information Sciences** (2018). [[Suggestions](https://shomir.net/tt_job_guide.html)]
-5. (Maarten Sap@CMU) Timeline of application [[Guide](https://maartensap.com/notes/job-search-2020.html)]
+5. (Maarten Sap@CMU) **Timeline of application** [[Guide](https://maartensap.com/notes/job-search-2020.html)]
 6. (Prof Elizabeth Bondi-Kelly@UMich) **A blog about my experience on the CS faculty job market** (2023). [[Guide](https://sites.google.com/view/elizabethbondi/blog?authuser=0)] 
 7. (Prof Nicolas Papernot@University of Toronto, Prof Elissa M. Redmiles@Max Planck Institute) **The academic job search for computer scientists in 10 questions**. [[Suggestions](https://docs.google.com/document/u/1/d/e/2PACX-1vSeOnC_QdaJVc3OuuMfDHVlk3QotUxvghytRFaDsrdA0uovD5axQjp8kJCM4Evu1cCf9Hg_u_Stabu1/pub)] 
 8. (Prof Caroline Trippel@Stanford) **The Academic Job Search: A Memoir** (2020). [[Suggestions](https://www.sigarch.org/the-academic-job-search-a-memoir-part-1/)]
-9. [Computer Science Grad Student Job Application & Interview Guide](https://web.eecs.umich.edu/~weimerw/grad-job-guide/guide/index.html) by Westley Weimer, Claire Le Goues, and Zak Fry
-10. [Faculty Job Interviewing Tips](http://www.jeffreybigham.com/blog/2020/faculty-job-interviewing-tips.html) by Jeffrey P. Bigham
+9. (Westley Weimer, Claire Le Goues, and Zak Fry) [Computer Science Grad Student Job Application & Interview Guide](https://web.eecs.umich.edu/~weimerw/grad-job-guide/guide/index.html) 
+10. (Jeffrey P. Bigham) [Faculty Job Interviewing Tips](http://www.jeffreybigham.com/blog/2020/faculty-job-interviewing-tips.html) 
 11. (Prof Michael Ernst@UW) **Getting an academic job** (2000). [[Suggestions](https://web.archive.org/web/20210413123322/homes.cs.washington.edu/~mernst/advice/academic-job.html)]
 12. (Prof Matt Might@University of Alabama at Birmingham) **Academic job search advice**. [[Suggestions](https://matt.might.net/articles/advice-for-academic-job-hunt/)]
 13. (Prof Manuel Rigger@NUS) **How Did Professors Find Their Jobs? Part 1: Diversity in Experiences** (2021). [[Suggestions](https://www.sigops.org/2021/how-did-professors-find-their-jobs-part-1-diversity-in-experiences/)] 
@@ -369,7 +373,7 @@ Paper reading suggestions:
 7. [Academic offer check list](https://docs.google.com/document/d/1pei15wV-IfRYe-ggWah2NrMhhpk5xfSshvSPwzMzeTU/edit)
 8. [Academic Job Search: Negotiating Your Faculty Startup Package](https://career.ucsf.edu/sites/g/files/tkssra2771/f/UCSF OCPD Negotiating a Faculty Position-2019 Feb.pdf) by Bill Lindstaedt
 9. [Negotiating for a faculty position during COVID-19](https://career.ucsf.edu/negotiating-faculty-position-during-covid-19) from UCSF
-10. (Prof Elissa M. Redmiles@MPI) Salary survey and Advice on CS Faculty Job Negotiation: https://www.dropbox.com/s/iqwcxbes6p94uw6/faculty-cssecurity-advice.pdf?dl=0
+10. (Prof Elissa M. Redmiles@MPI) **Salary survey and Advice on CS Faculty Job Negotiation**. https://www.dropbox.com/s/iqwcxbes6p94uw6/faculty-cssecurity-advice.pdf?dl=0
 
 
 
@@ -387,13 +391,43 @@ Paper reading suggestions:
 
 ### Funding in the US 
 
-1. (Michael Ernst@UW) **Writing an NSF Career Award proposal** (2000). [[Suggestions](https://homes.cs.washington.edu/~mernst/advice/career-grant.html)] 
-2. Rubrics of grant proposal evaluation, and example Broader impact section https://www.umass.edu/research/sites/default/files/bi_sample_from_successful_career_sociology2012.docx.pdf
-3. Panel: Faculty Workshop “How to write a Successful NSF CAREER proposal” Notes https://researchservices.cornell.edu/sites/default/files/2019-06/How%20to%20write%20a%20successful%20CAREER%20proposal-%20FINAL.pdf
-4. Proposal sample: [flexible learning for natural language processing](https://cisecareerworkshop.web.unc.edu/wp-content/uploads/sites/16419/2018/04/IIS-CAREER-Sample1.pdf)
-   1. Skeleton structure of the proposal: https://cccblog.org/2020/08/25/medium-article-deconstructing-the-nsf-career-proposal/
-   2. Broader impact section: https://www.umass.edu/research/services-training-resources/proposal-resources/sample-language-nsf-broader-impacts-statements-and
-5. Abstract of all NSF awards: https://www.nsf.gov/awardsearch/advancedSearchResult?ProgRefCode=1045&ActiveAwards=true
+#### NSF CAREER Award
+
+##### Samples
+
+1. (Prof Noah Smith@UW) **CAREER: Flexible Learning for Natural Language Processing** (2011). [[Abstract](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1054319)] [[Sample](https://cisecareerworkshop.web.unc.edu/wp-content/uploads/sites/16419/2018/04/IIS-CAREER-Sample1.pdf)]
+2. (Austin Z. Henley) **What a $500,000 grant proposal looks like** (2022). [[Guide and Sample](https://austinhenley.com/blog/500kgrant.html)]
+3. (NSF) **Samples from NSF CISE CAREER Workshop** (2022). [[Samples](https://cisecareerworkshop.web.unc.edu/materials/)]
+4. (Prof Jeffrey P. Bigham@CMU) **NSF CAREER Award** (2019). [[Blog](https://jeffreybigham.com/blog/2019/nsf-career-award.html)] [Unsuccessful Sample [2011](https://www.cs.cmu.edu/~jbigham/pubs/pdfs/2011/jbigham-career-proposal-2011.pdf)] [Successful Sample [2012](https://www.cs.cmu.edu/~jbigham/pubs/pdfs/2012/jbigham-career-proposal-2012.pdf)]
+5. **Theoretical CS -- Several Samples** (2016). [[Samples](https://thmatters.wordpress.com/funding-opportunities-and-tips/career-examples-proposalscomments/)]
+6. **NSF Mathematics Proposals** (2010). [[Samples](https://mathoverflow.net/questions/39168/are-there-examples-of-successful-nsf-mathematics-proposals-available-anywhere)]
+7. (Cora Lind) **Materials Chemistry and Thermal Expansion**. [[Sample](https://www.utoledo.edu/research/rsp/pdfs/Lind-CAREER.pdf)]
+8. (UMass) **Examples of NSF Broader Impacts Statements**. [[Samples](https://www.umass.edu/research/services-training-resources/proposal-resources/sample-language-nsf-broader-impacts-statements-and)]
+9. Example broader impact sections [[UMass Samples](https://www.umass.edu/research/services-training-resources/proposal-resources/sample-language-nsf-broader-impacts-statements-and)]
+10. (NSF) Abstract of all NSF awards. [[List](https://www.nsf.gov/awardsearch/advancedSearchResult?ProgRefCode=1045&ActiveAwards=true)]
+
+##### Writing suggestions
+
+1. (NSF) **Note for Reviewers of CAREER Proposals** (2022). [[Guide](https://www.nsf.gov/crssprgm/career/note_for_reviewers.pdf)]
+2. (Noel Brady) **Writing an NSF Proposal; a PI’s and a panelist’s perspective** (2010). [[Guide](https://math.ou.edu/~profdev/nsfprop_web.pdf)]
+3. (Joseph Brennan) **NSF Proposal Preparation: The View of an Ex-Program Officer** (2007). [[Guide](https://www.ams.org/notices/200709/tx070901153p.pdf)]
+4. (Harvard) **NSF CAREER award guidance for faculty **(2023). [[Guide](https://research.fas.harvard.edu/files/research/files/nsfcareerguidance.pdf)]
+5. (MIT) **MIT Guidance Regarding the NSF CAREER Program**. [[Guide](https://ras.mit.edu/grant-and-contract-administration/sponsor-information/nsf/mit-specific-guidance-proposal-prep/mit-guidance-regarding-nsf-career-program)]
+6. (Harvard) **Entire list of all possible broader impacts**. [[List](https://research.fas.harvard.edu/broader-impacts)]
+7. (Michael Ernst@UW) **Writing an NSF Career Award proposal** (2000). [[Suggestions](https://homes.cs.washington.edu/~mernst/advice/career-grant.html)] 
+8. Rubrics of grant proposal evaluation, and example Broader impact section https://www.umass.edu/research/sites/default/files/bi_sample_from_successful_career_sociology2012.docx.pdf
+9. Panel: Faculty Workshop “How to write a Successful NSF CAREER proposal” Notes https://researchservices.cornell.edu/sites/default/files/2019-06/How%20to%20write%20a%20successful%20CAREER%20proposal-%20FINAL.pdf
+10. Skeleton structure of the proposal: https://cccblog.org/2020/08/25/medium-article-deconstructing-the-nsf-career-proposal/
+
+#### Senior Proposals
+
+1. (NIH) Successful samples of grant proposals funded by NIH. [[Samples](https://www.niaid.nih.gov/grants-contracts/sample-applications)]
+2. (University of Montana) **Proposals Funded by NIH, NSF, and Department of Education**. [[Samples](https://www.umt.edu/research/rd/proposal-resources/sample-proposals.php)]
+3. (University of Toledo) **NIH and NSF funding proposals on biology and chemistry**. [[Samples](https://www.utoledo.edu/research/rsp/samples.html)] 
+4. (University of Rhode Island) **Samples of Successful Proposals from various government departments**. [[Samples](https://web.uri.edu/research-admin/office-of-research-development/proposal-writing-guides-and-resources-general-advice/samples-of-successful-proposals/)]
+5. (Prof John Bunce@Max Planck Institute) **Senior NSF proposals to the Cultural Anthropology Program** (2012). [[Samples](https://jabunce.wordpress.com/sample-nsf-proposals/)]
+6. (Harvard) **National Science Foundation (NSF) Resources**. [[Resources](https://research.fas.harvard.edu/nsf-proposals)]
+7. (Harvard) **Example list of funding sources**. [[List](https://research.fas.harvard.edu/proposal-library)]
 
 ### Long-Term Research Career
 
