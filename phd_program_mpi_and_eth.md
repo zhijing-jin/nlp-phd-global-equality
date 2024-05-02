@@ -15,7 +15,8 @@ Below is a subset of them that I am familiar with:
 5. (Any time of the year) Interview directly with MPI you are interested in, and then the admin can involve you in [International Max Planck Research Schools (IMPRS)](https://imprs.is.mpg.de/application), or your degree can also come from a local university near your MPI, e.g., University of Tuebingen.
 6. (Often by Dec 15) [ETH Direct Doctorate in Computer Science](https://inf.ethz.ch/doctorate/direct-doctorate-computer-science.html)
 7. (Often by Nov 30) [ETH AI Center PhD](https://ai.ethz.ch/education/phd-and-postdoc-programs.html#par_textimage_1068285857)
-8. (Any time of the year) [PhD application to ETH CS](https://inf.ethz.ch/doctorate/doctoral-studies/application-and-admission.html)
+8. (Open any time of the year) [PhD application to ETH CS](https://inf.ethz.ch/doctorate/doctoral-studies/application-and-admission.html)
+9. (Open any time of the year) [PhD application to MPI Tuebingen with Prof Bernhard Schoelkopf](https://ei.is.mpg.de/jobs/phd) and [postdoc](https://ei.is.mpg.de/jobs//postdoc)
 
 ## Suggestions
 1. Always interact with the profs (often by letting your personal recommenders email your target profs), and make sure they would like to accept you
