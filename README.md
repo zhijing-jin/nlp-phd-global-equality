@@ -119,7 +119,8 @@ One non-negligible reason for success is **access to information**, such as (1) 
 
 1. **Summer research opportunities for Undergrads** (2021). [[Twitter Thread](https://twitter.com/lucy3_li/status/1453248835673800710)]
 2. (ETH) **ETH Summer Research Fellowship** (every summer). [[Apply](https://inf.ethz.ch/studies/summer-research-fellowship.html)]
-3. (MPI) **Summer Research Internship with MPI (CaCTüS)** (every summer). [[Apply](https://www.is.mpg.de/news/cactus-internship-initiative-launched)]
+3. (MPI; open any time of the year) **6-month research internship for Master students (e.g., for Master thesis, other research project, etc.) at Max Planck Institute with Bernhard Schoelkopf.** [[Apply](https://ei.is.mpg.de/jobs//graduate)]
+4. (MPI) **Summer Research Internship with MPI (CaCTüS)** (every summer). [[Apply](https://www.is.mpg.de/news/cactus-internship-initiative-launched)]
 
 
 ### Prereq: Getting the Tools Ready
@@ -395,6 +396,11 @@ Paper reading suggestions:
 4. (Prof Radhika Nagpal@Harvard) **The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life** (2013). [[Article](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)]
 5. (Prof Shomir Wilson@Penn State University, motivation and usage of writing guides down) **Guide to the Advice** [[Article](https://shomir.net/thoughts_on_the_advice.html)]
 6. (Prof Randy Pausch@CMU) **Time management** (2007). [[Video](https://www.youtube.com/watch?v=oTugjssqOT0)] [[Slides](http://www.cs.virginia.edu/~robins/Randy/RandyPauschTimeManagement2007.pdf)]
+
+### Tenure Evaluation
+
+1. (Prof Gregory Hager@JHU & Vivek Sarkar@Georgia Tech) **Preparing a Tenure Dossier** (2017). [[Slides](https://cra.org/wp-content/uploads/2017/10/Tenure.pdf)]
+2. (G. Elisabeta Marai@UPitts) **Example tenure package** (2012). [[Package](https://people.cs.pitt.edu/~marai/tenure/index.html)]
 
 ### Funding in the US 
 
