@@ -400,7 +400,20 @@ Paper reading suggestions:
 ### Tenure Evaluation
 
 1. (Prof Gregory Hager@JHU & Vivek Sarkar@Georgia Tech) **Preparing a Tenure Dossier** (2017). [[Slides](https://cra.org/wp-content/uploads/2017/10/Tenure.pdf)]
-2. (G. Elisabeta Marai@UPitts) **Example tenure package** (2012). [[Package](https://people.cs.pitt.edu/~marai/tenure/index.html)]
+
+2. (University of Vermont) **RPT Guidelines for Tenure-Track and Tenured Faculty **(2015). [[Guide](https://www.uvm.edu/sites/default/files/CS_TT_RPTguidelines2015.pdf)]
+
+3. (Prof G. Elisabeta Marai@UPitts) **Example tenure package** (2012). [[Package](https://people.cs.pitt.edu/~marai/tenure/index.html)] [Course [proposal](https://people.cs.pitt.edu/~marai/tenure/teaching_portfolio/Course_proposal_cs1630.pdf) and [summary](https://people.cs.pitt.edu/~marai/tenure/teaching_portfolio/Marai_InnovationEducation09_bare.pdf)]
+
+4. (Prof  Gerry Stahl@Drexel) **Example tenure dossier** (2007). [[Document](https://gerrystahl.net/research/tenure_case/2%20dossier.pdf)]
+
+5. (Valdosta State University) **Sample tenure and promotion dossier** (2012). [[Document](https://www.valdosta.edu/colleges/education/deans-office/documents/sample-tp-dossier.pdf)] 
+
+   Note: This has very detailed, survey-based evaluation of teaching.
+
+6. (Prof Mary Jane Irwin@UPenn) **Tenure** (1999). [[Guide](https://math.mit.edu/events/wim/conference/tenure.pdf)]
+
+7. (Prof Maria Klawe@UBC, Prof Mary Jane Irwin@UPenn) **Session 1: The Tenure Decision**. [[Panel transcript](https://sites.cc.gatech.edu/fce/people/jmankoff/gradschool/CRAp1.tenure.html)]
 
 ### Funding in the US 
 
