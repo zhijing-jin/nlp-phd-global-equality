@@ -115,12 +115,15 @@ One non-negligible reason for success is **access to information**, such as (1) 
 3. (Prof Shomir Wilson@Penn State University) **Guide for Interacting With Faculty** (2018). [[Suggestions](https://shomir.net/teaching_faq.html)]
 4. (Prof Shomir Wilson@Penn State University) **Reference Letter Procedure**. [[Suggestions](https://shomir.net/reference_procedure.html)]
 
-**Existing Summer Research Opportunities:**
+**Existing Research Opportunities:**
 
 1. **Summer research opportunities for Undergrads** (2021). [[Twitter Thread](https://twitter.com/lucy3_li/status/1453248835673800710)]
-2. (ETH) **ETH Summer Research Fellowship** (every summer). [[Apply](https://inf.ethz.ch/studies/summer-research-fellowship.html)]
-3. (MPI; open any time of the year) **6-month research internship for Master students (e.g., for Master thesis, other research project, etc.) at Max Planck Institute with Bernhard Schoelkopf.** [[Apply](https://ei.is.mpg.de/jobs//graduate)]
-4. (MPI) **Summer Research Internship with MPI (CaCTüS)** (every summer). [[Apply](https://www.is.mpg.de/news/cactus-internship-initiative-launched)]
+2. (Berkeley) **AI safety research at the CHAI lab** under Stuart Russell, usually with his PhD and postdocs.  [[Apply](https://humancompatible.ai/jobs)]
+3. (ETH) **ETH Summer Research Fellowship** (every summer). [[Apply](https://inf.ethz.ch/studies/summer-research-fellowship.html)]
+4. (Mila) **Research Internships**. [[Apply](https://mila.quebec/en/research-internships)]
+5. (Remote) **Neel Nanda’s MATS program on Mechanistic Interpretability**. Check his homepage for applications.
+6. (MPI; open any time of the year) **6-month research internship for Master students (e.g., for Master thesis, other research project, etc.) at Max Planck Institute with Bernhard Schoelkopf.** [[Apply](https://ei.is.mpg.de/jobs//graduate)]
+7. (MPI) **Summer Research Internship with MPI (CaCTüS)** (every summer). [[Apply](https://www.is.mpg.de/news/cactus-internship-initiative-launched)]
 
 
 ### Prereq: Getting the Tools Ready
