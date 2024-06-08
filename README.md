@@ -191,6 +191,7 @@ Paper reading suggestions:
 1. (Prof Srinivasan Keshav@Cambridge) **How to Read a Paper** (2007). [[Suggestions](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)]
 2. (Prof Jason Eisner@JHU) **How to Read a Technical Paper** (2009). [[Suggestions](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)]
 3. (Prof Emily M. Bender@UW) **Critical Reading** (2003). [[Suggestions](https://faculty.washington.edu/ebender/critical_reading.pdf)]
+4. (Alec Jacobson & Colin Raffel@UToronto) **Role-Playing Paper-Reading Seminars** (2021). [[Article](https://colinraffel.com/blog/role-playing-seminar.html)]
 
 ### How to Express Our Ideas: Writing Papers, Visualization, etc
 
