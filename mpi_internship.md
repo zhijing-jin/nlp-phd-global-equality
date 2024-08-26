@@ -1,4 +1,4 @@
-If you are interested in a research internship for 3-12 months (with an end date before Sept 1, 2025), we can host research interns at Max Planck Institute for Intelligent Systems, Tuebingen, Germany. 
+If you are interested in a research internship, we can host research interns at Max Planck Institute for Intelligent Systems, Tuebingen, Germany. 
 
 - **Affiliation:** [Empirical Inference department](https://ei.is.mpg.de/), hosted under [Zhijing Jin](https://zhijing-jin.com/) and Prof Bernhard Schoelkopf.
 
@@ -6,6 +6,14 @@ If you are interested in a research internship for 3-12 months (with an end date
   - Causal Inference with LLMs (check our [CLadder](https://arxiv.org/pdf/2312.04350) and [CausalQuest](https://arxiv.org/pdf/2405.20318) papers)
   - Simulacra to create a society of multiple LLM agents: Check our [GovSim](https://arxiv.org/pdf/2404.16698) paper, and we are interested in many followup studies.
   - Or also open to other research directions, ideally for socially responsible LLMs
+- **Duration:** 3-12 months (with an end date before Sept 1, 2025)
+- **Suitable for:** 
+  - Undergrads to gain research experience
+  - Master's students to finish thesis or gain research experience
+  - Gap-year students to strengthen their PhD application profile
+  - Visiting PhDs to enrich their research experience
+- **Position:** Research intern or visiting student
+- **Location:** Max Planck Institute for Intelligent Systems, Tuebingen, Germany. 
 
 ## How to Apply
 
