@@ -120,7 +120,7 @@ One non-negligible reason for success is **access to information**, such as (1) 
 1. **Summer research opportunities for Undergrads** (2021). [[Twitter Thread](https://twitter.com/lucy3_li/status/1453248835673800710)]
 2. (Berkeley) **AI safety research at the CHAI lab** under Stuart Russell, usually with his PhD and postdocs.  [[Apply](https://humancompatible.ai/jobs)]
 3. (ETH) **ETH Summer Research Fellowship** (every summer). [[Apply](https://inf.ethz.ch/studies/summer-research-fellowship.html)]
-4. (Vector Institute / UofT) **Vector Research Internships.** [[Link](https://vectorinstitute.ai/programs/research-internships/)]
+4. (Vector Institute / UofT) **Vector Research Internships.** [[Link](https://vectorinstitute.ai/programs/internships/)]
 5. (Mila) **Research Internships**. [[Apply](https://mila.quebec/en/research-internships)]
 6. (Remote or in-person) **Pre-PhD Research Project with Zhijing Jin**. [[Application forms]([https://zhijing-jin.com](https://zhijing-jin.com/fantasy/students/))] [[Position info at MPI](https://github.com/zhijing-jin/nlp-phd-global-equality/blob/main/mpi_internship.md)]
 7. (Remote) **Neel Nanda’s MATS program on Mechanistic Interpretability**. Check his homepage for applications.
