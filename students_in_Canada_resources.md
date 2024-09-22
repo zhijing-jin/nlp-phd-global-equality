@@ -1,0 +1,1 @@
+- Canada Graduate Scholarships-Master’s Program (deadline: Dec 1) [[Link](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsm-bescm_eng.asp)]
