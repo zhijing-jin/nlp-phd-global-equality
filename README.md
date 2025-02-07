@@ -106,7 +106,7 @@ One non-negligible reason for success is **access to information**, such as (1) 
 2. (Nelson Liu, PhD@Stanfard) **PhD Statement of Purpose**. [[Article](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/)]
 3. (Suchin Gururangan, PhD@University of Washington) **Personal Statement Advice**. [[Article](https://suchin.io/personal-statement-advice/)]
 4. (Prof Shomir Wilson@Penn State University) **Reference Letter Procedure**. [[Suggestions](https://shomir.net/reference_procedure.html)]
-5. (Zhaofeng Wu, Alexis Ross, and Shannon Shen@Cambridge) **A Collection of Strong CS SOPs from Successful Applicants**. [[Samples](https://cs-sop.org/)]
+5. (Zhaofeng Wu, Alexis Ross, and Shannon Shen@MIT) **A Collection of Strong CS SOPs from Successful Applicants**. [[Samples](https://cs-sop.org/)]
 
 ### Prereq: Getting Pre-PhD Research Opportunities
 
