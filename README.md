@@ -140,6 +140,7 @@ One non-negligible reason for success is **access to information**, such as (1) 
 ####  Improve Your Proficiency with Tools
 
 1. (MIT 2020) **The Missing Semester of Your CS Education** (e.g., master the command-line, ssh into remote machines, use fancy features of version control systems).  
+2. (Chris Maddison, UofT) **PRISM** (research skills seminar for undergrads; useful for grad students too). [[Course](https://www.cs.toronto.edu/~rgrosse/courses/prism_2021/)]
 
 ### Starting to Do Research
 
@@ -170,6 +171,10 @@ Check all the specific suggestions under "[Stage 2. (Doing PhD) How to Succeed i
 13. (Prof Tao Xie@UIUC) **Graduate Student Survival/Success Guide**. [[Slides](http://taoxie.cs.illinois.edu/advice/gradstudentsurvival.pdf)]
 14. (Mu Li@Amazon) **博士这五年** (A Chinese article about five years in PhD at CMU). [[Article](https://zhuanlan.zhihu.com/p/25099638)]
 15. (Karl Stratos) **A Note to a Prospective Student**. [[Suggestions](http://karlstratos.com/#student)]
+16. **Not Even Stuck**. [[Notes](https://www.notion.so/riemannian-connection/Not-Even-Stuck-f20c91a340d04cd48ca2fc9e1bf9e172?source=copy_link)]
+17. **How Do You Know When You’ve Tried Hard Enough?** [[Notes](https://www.notion.so/riemannian-connection/How-Do-You-Know-When-You-ve-Tried-Hard-Enough-d96c4a2fb5774560915271b2093b8818?source=copy_link)]
+18. **The PhD Cake**. [[Doc](https://docs.google.com/document/d/1k_cBqQFXv6iOHtc9_Ut47RpNcTNT_K03VnJgfxClync/edit?usp=sharing)]
+19. (MIT AI Lab) **How to Do Research at the MIT AI Lab**. [[Document](https://dspace.mit.edu/handle/1721.1/41487)]
 
 ### Timely Topic: Surviving NLP in the Era of LLMs
 
@@ -219,6 +224,9 @@ Paper reading suggestions:
 16. UI design as a medium of thought: see Michael Nielsen's [explanation of why UI is important for science](https://michaelnielsen.org/blog/where-will-the-key-ideas-shaping-the-future-of-scientific-publishing-come-from/), [Bret Victor's work](http://worrydream.com/), [Miegakure](https://miegakure.com/) that visualizes a 4D environment.
 17. (Prof Jia-Bin Huang@U Maryland) **How to write math in a paper?** (2023). [[Tweet](https://twitter.com/jbhuang0604/status/1643118681960923137)]
 18. (Prof Jordan Boyd-Graber@U Maryland) **Style (e.g., tense, punctuation, math)**. [[Suggestions](http://users.umiacs.umd.edu/~jbg/static/style.html)]
+19. **Submission Loose Ends**. [[Notes](https://www.notion.so/riemannian-connection/Submission-loose-ends-6e8b98bf716a47c1bde57c7ed805a7b3?source=copy_link)]
+20. (Prof Tim Rocktäschel & Prof Jakob Foerster) **How to ML Paper** (doc version). [[Doc](https://docs.google.com/document/d/16R1E2ExKUCP5SlXWHr-KzbVDx9DBUclra-EbU8IB-iE/edit)]
+21. (Prof Tim Rocktäschel & Prof Jakob Foerster) **How to Rebuttal** (doc version). [[Doc](https://docs.google.com/document/d/1cdEypaZXnJ10IckV49iBXEl27gCFnwEhQfLr680Fv18/edit#)]
 
 ### Reviewing, Publishing, Attending Conferences, Networking
 
@@ -260,6 +268,9 @@ Paper reading suggestions:
 6. (Tim Dettmers, PhD@UW) **On Creativity in Academia** (2019). [[Article](https://timdettmers.com/2019/09/03/creativity-in-academia/)]
 
 7. (Jason Wei, OpenAI) **A few thoughts on doing AI research** (2023). [[Slides](https://twitter.com/_jasonwei/status/1715080315587440719)]
+8. **Research Coding Advice**. [[Notes](https://www.notion.so/riemannian-connection/Research-Coding-Advice-1ce8c6f738a548f2a7b84a93a96acfdf?source=copy_link)]
+9. **Project Milestones**. [[Notes](https://www.notion.so/riemannian-connection/Project-Milestones-784337256ff74e8285c34b095f1653a9?source=copy_link)]
+10. (David Stutz) **The Importance of Effectively Experimenting in an AI PhD**. [[Article](https://davidstutz.de/the-importance-of-effectively-experimenting-in-an-ai-phd/)]
 
 ### Coming Up with Good Research Ideas
 
@@ -270,6 +281,8 @@ Paper reading suggestions:
 
 3. (Prof Fei-Fei Li@Stanford) **De-Mystifying Good Research and Good Papers** (2014). [[Suggestions](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)]
    <br>_Interesting snippets: "This means publishing papers is NOT about “this has not been published or written before, let me do it”, nor is it about “let me find an arcane little problem that can get me an easy poster”. It’s about “if I do this, I could offer a better solution to this important problem,” or “if I do this, I could add a genuinely new and important piece of knowledge to the field.” You should always conduct research with the goal that it could be directly used by many people (or industry). In other words, your research topic should have many ‘customers’, and your solution would be the one they want to use. A good research project is not about the past (i.e. obtaining a higher performance than the previous N papers). It’s **about the future (i.e. inspiring N future papers to follow and cite you, N->\inf)**."_
+4. **Finding Project Ideas**. [[Notes](https://www.notion.so/riemannian-connection/Finding-Project-Ideas-5bd51bba1a274b18962ba4ee577c0d2a?source=copy_link)]
+5. (Jacob Steinhardt) **Filtering Research Ideas**. [[Doc](https://docs.google.com/document/d/1KCSXYmInnBrOnFw5y3kQdNluLTYKt-jF1psyviNAeag/edit#heading=h.x68pu6i2isb4)]
 
 ### Internship
 
@@ -470,6 +483,8 @@ Paper reading suggestions:
 3. (Prof Charles Ling@Western University, Prof Qiang Yang@HKUST) **Crafting Your Research Future: A Guide to Successful Master's and Ph.D. Degrees in Science & Engineering**. [[Book](https://www.morganclaypool.com/doi/abs/10.2200/S00412ED1V01Y201203ENG018)]
 4. (Prof Michael Nielsen, now an individual researcher) **Principles of Effective Research** (2004). [[Article](https://michaelnielsen.org/blog/principles-of-effective-research/)]
    <br>_Interesting snippets: "“We are what we repeatedly do. Excellence, then, is not an act but a habit.” Underlying all our habits are models (often unconscious) of how the world works. I’m writing this essay to develop an improved personal model of how to be an effective researcher, a model that can be used as the basis for concrete actions leading to the development of new habits.", "Make sure you’re fit. Look after your health. Spend high quality time with your family. Have fun. These things require a lot of thought and effort to get right.", "Develop a high-quality research environment", "Developing a taste for what’s important: What do you think are the characteristics of important science? What makes one area thrive, while another dies away? What sorts of unifying ideas are the most useful? What have been the most important developments in your field? **Why are they important?** What were the apparently promising ideas that didn’t pan out? Why didn’t they pan out? You need to be thinking constantly about these issues, both in concrete terms, and also in the abstract, developing both a general feeling for what is important (and what is not), and also some specific beliefs about what is important and what is not in your fields of interest.", "occasionally set time aside to survey the landscape of a field, looking not just for problems, but trying to identify larger patterns. What types of questions do people in the field tend to ask? **Can we abstract away patterns in those questions?** What other fields might there be links to? What are the few most important problems in the field?"_
+5. (Rohin Shah) **Advice for AI Alignment Researchers**. [[FAQ](https://rohinshah.com/faq-career-advice-for-ai-alignment-researchers/)]
+6. **How to pursue a career in technical AI alignment**. [[Guide](https://forum.effectivealtruism.org/posts/7WXPkpqKGKewAymJf/how-to-pursue-a-career-in-technical-ai-alignment)]
 
 ### Massive collaboration can help science
 
