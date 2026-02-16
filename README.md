@@ -70,6 +70,7 @@ One non-negligible reason for success is **access to information**, such as (1) 
    (You can apply as [a mentee](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WZ58B5OxkFZCgz9OB5zwLz5URUo4UlpNVTBBMkdPSlBVUTgyMzlRRk5BVy4u), as [a mentor](https://forms.gle/xsdFDCKUuDrBvc4Y6), or as [a volunteer](https://forms.gle/msPFHiL9QKw3fCR8A). For mentees, you will be able to attend monthly zoom Q&A sessions hosted senior researchers in NLP. You will also join a global slack channel, where you can constantly post your questions, and we will collect answers from senior NLP researchers.)
 2. (Organized by PhD students in NLP across the world) **NLP with Friends** Online Seminar Series  (recordings available). [[Seminar](https://nlpwithfriends.com/)] 
    (A great way to learn about what others are doing in NLP)
+3. Academic NLP Research Labs Worldwide —  A curated directory of academic Natural Language Processing (NLP) research labs worldwide, organized alphabetically without implying any ranking. [[GitHub Repo](https://github.com/smsnobin77/awesome-academic-nlp-labs)]
 
 ## Stage 1. (Non-PhD -> PhD) How to Apply for a PhD?
 
