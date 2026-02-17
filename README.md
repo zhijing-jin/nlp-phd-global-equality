@@ -189,6 +189,11 @@ Literature review tools:
 1. **Connected Papers** (which shows a graph of related papers) [[link](https://www.connectedpapers.com/)]
 2. (Built by Papers with Code) **Glactica** (using language models to generate literature review) [[link](https://galactica.org/mission/)]
 3. **Uncited** (Find new and most relevant papers to your research) [[link](https://uncited.org)]
+4. **ResearchRabbit** (map citations and related work as interactive graphs) [[link](https://www.researchrabbit.ai/)]
+5. **Litmaps** (citation maps and literature monitoring) [[link](https://www.litmaps.com/)]
+6. **AI2 asta** (AI-assisted search built on the Semantic Scholar backend) [[link](https://asta.ai2.org/)]
+7. **Elicit** (LLM-assisted literature search and evidence extraction) [[link](https://elicit.org/)]
+8. **Inciteful** (citation network visualizer for a seed paper) [[link](https://inciteful.xyz/)]
 
 Paper reading suggestions:
 
