@@ -219,6 +219,8 @@ Paper reading suggestions:
 16. UI design as a medium of thought: see Michael Nielsen's [explanation of why UI is important for science](https://michaelnielsen.org/blog/where-will-the-key-ideas-shaping-the-future-of-scientific-publishing-come-from/), [Bret Victor's work](http://worrydream.com/), [Miegakure](https://miegakure.com/) that visualizes a 4D environment.
 17. (Prof Jia-Bin Huang@U Maryland) **How to write math in a paper?** (2023). [[Tweet](https://twitter.com/jbhuang0604/status/1643118681960923137)]
 18. (Prof Jordan Boyd-Graber@U Maryland) **Style (e.g., tense, punctuation, math)**. [[Suggestions](http://users.umiacs.umd.edu/~jbg/static/style.html)]
+19. (Shawn Yang / Synapse AI, Light Tracer retailer) **Remote audience-view rehearsal before a presentation** (2026). [[Guide](https://light-tracer.com/laser-pointer-screen-share-zoom-teams/)]
+   <br>Checklist for checking a shared marker from an attendee's view, switching slides/windows and reviewing a permitted recording. Separates software annotations from physical pointing; a practical setup check, not research findings or equipment tests. AI-assisted guide from a laser-pointer retailer; contains shop links.
 
 ### Reviewing, Publishing, Attending Conferences, Networking
 
